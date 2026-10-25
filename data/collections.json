@@ -1,0 +1,214 @@
+[
+  {
+    "id": "hoa-duong-pho",
+    "name": "Hoa đường phố Đà Lạt",
+    "subtitle": "Những cung đường hoa làm nên ký ức phố núi",
+    "seasonNote": "Nở rộ theo mùa trên các tuyến phố, hồ Xuân Hương, dốc đá và sườn đồi Đà Lạt.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Flor_do_jacarand%C3%A1-mimoso_ou_caroba_%28Jacaranda_mimosifolia%2C_D._Don.%29.jpg?width=900",
+    "coverCaption": "Phượng tím (Jacaranda mimosifolia) – Biểu tượng hoa đường phố Đà Lạt",
+    "description": "Tuyển tập những loài hoa gắn liền với không gian đường phố, bờ hồ, triền dốc và hàng rào biệt thự cổ tại Đà Lạt.",
+    "flowerIds": [
+      "FL-001",
+      "FL-002",
+      "FL-003",
+      "FL-004",
+      "FL-021",
+      "FL-022",
+      "FL-023"
+    ]
+  },
+  {
+    "id": "hoa-mua-xuan",
+    "name": "Hoa mùa xuân",
+    "subtitle": "Tháng 1 – Tháng 4 (Tham khảo theo khí hậu & giống trồng)",
+    "seasonNote": "Mùa xuân Đà Lạt se lạnh, nắng trong veo, là thời điểm trăm hoa khai nở rực rỡ nhất.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_cerasoides-2-coonoor-ooty-India.jpg?width=900",
+    "coverCaption": "Mai anh đào (Prunus cerasoides) nhuộm hồng trời xuân Đà Lạt",
+    "description": "Các loài hoa nở rộ vào dịp Tết Nguyên đán và đầu xuân tại cao nguyên Lâm Viên (tháng 1 đến tháng 4).",
+    "flowerIds": [
+      "FL-001",
+      "FL-002",
+      "FL-005",
+      "FL-006",
+      "FL-007",
+      "FL-008",
+      "FL-014",
+      "FL-017",
+      "FL-018",
+      "FL-020",
+      "FL-022"
+    ]
+  },
+  {
+    "id": "hoa-mua-he",
+    "name": "Hoa mùa hè",
+    "subtitle": "Tháng 5 – Tháng 7 (Tham khảo theo khí hậu & giống trồng)",
+    "seasonNote": "Những cơn mưa đầu mùa tưới mát cao nguyên, đánh thức cẩm tú cầu, oải hương và thạch thảo.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Hydrangea_macrophylla_2021.1.jpg?width=900",
+    "coverCaption": "Cẩm tú cầu (Hydrangea macrophylla) bung nở trong sương mưa mùa hạ",
+    "description": "Những loài hoa khoe sắc rực rỡ dưới nắng nhẹ và mưa phùn mùa hạ trên cao nguyên Đà Lạt.",
+    "flowerIds": [
+      "FL-004",
+      "FL-005",
+      "FL-010",
+      "FL-011",
+      "FL-013",
+      "FL-015",
+      "FL-016",
+      "FL-018",
+      "FL-019",
+      "FL-023"
+    ]
+  },
+  {
+    "id": "hoa-mua-thu",
+    "name": "Hoa mùa thu",
+    "subtitle": "Tháng 8 – Tháng 10 (Tham khảo theo khí hậu & giống trồng)",
+    "seasonNote": "Sương thu bảng lảng cùng sắc vàng dã quỳ chớm nở, hoa cúc, hoa bất tử và hồng cổ Đà Lạt.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Xerochrysum_Bracteatum_Flower.jpg?width=900",
+    "coverCaption": "Hoa bất tử (Xerochrysum bracteatum) giữ nguyên sắc màu qua nắng gió cao nguyên",
+    "description": "Bộ sưu tập các loài hoa mang vẻ đẹp trầm lắng, lãng mạn của mùa thu phố núi Đà Lạt.",
+    "flowerIds": [
+      "FL-003",
+      "FL-004",
+      "FL-005",
+      "FL-009",
+      "FL-012",
+      "FL-016",
+      "FL-019",
+      "FL-021"
+    ]
+  },
+  {
+    "id": "hoa-mua-dong",
+    "name": "Hoa mùa đông",
+    "subtitle": "Tháng 11 – Tháng 12 (Tham khảo theo khí hậu & giống trồng)",
+    "seasonNote": "Mùa lập đông se sắt với mimosa vàng óng, dã quỳ rực cháy, địa lan và các loài hoa ôn đới.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Acacia_podalyriifolia_flowers_7th_Brigade_Park%2C_Chermside_IMGP5385.jpg?width=900",
+    "coverCaption": "Hoa Mimosa (Acacia podalyriifolia) vàng óng ánh trong nắng lạnh mùa đông",
+    "description": "Những loài hoa chịu lạnh tuyệt đẹp làm ấm lòng du khách giữa tiết trời đông Đà Lạt.",
+    "flowerIds": [
+      "FL-003",
+      "FL-006",
+      "FL-007",
+      "FL-008",
+      "FL-009",
+      "FL-012",
+      "FL-014",
+      "FL-015",
+      "FL-020",
+      "FL-021",
+      "FL-022"
+    ]
+  },
+  {
+    "id": "hoa-lan",
+    "name": "Hoa lan",
+    "subtitle": "Vương quốc lan hồ điệp, địa lan và lan rừng cao nguyên",
+    "seasonNote": "Đà Lạt là thủ phủ hoa lan công nghệ cao và nơi bảo tồn hàng trăm loài lan quý.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cymbidium_c.v._orchid_%2849368844677%29.jpg?width=900",
+    "coverCaption": "Địa lan Đà Lạt (Chi Cymbidium) – Nữ hoàng thanh tao của núi rừng Lâm Viên",
+    "description": "Tổng hợp các nhóm và loài hoa lan tiêu biểu tại Đà Lạt: từ Lan hồ điệp, Địa lan Cymbidium đến Lan hoàng thảo, Cattleya và Lan hài.",
+    "flowerIds": [
+      "FL-006",
+      "FL-007",
+      "FL-024",
+      "FL-025",
+      "FL-026"
+    ]
+  },
+  {
+    "id": "hoa-trong-chau",
+    "name": "Hoa trồng chậu",
+    "subtitle": "Các loài hoa lý tưởng cho ban công, hiên nhà & sân vườn nhỏ",
+    "seasonNote": "Thích hợp trồng chậu sứ, giỏ treo hoặc bồn cửa sổ.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Petunia_%28Petunia_%C3%97atkinsiana%29.jpg?width=900",
+    "coverCaption": "Dạ yến thảo (Petunia × atkinsiana) rủ mềm mại trên các ban công Đà Lạt",
+    "description": "Những loài hoa có dáng gọn, sai hoa, rất được ưa chuộng để trồng chậu trang trí hiên nhà, quán cà phê và ban công.",
+    "flowerIds": [
+      "FL-006",
+      "FL-007",
+      "FL-010",
+      "FL-014",
+      "FL-018",
+      "FL-019",
+      "FL-020",
+      "FL-024",
+      "FL-025",
+      "FL-026"
+    ]
+  },
+  {
+    "id": "hoa-leo",
+    "name": "Hoa leo",
+    "subtitle": "Những bức tường hoa và cổng rào thơ mộng phố núi",
+    "seasonNote": "Tạo vòm cổng, hàng rào biệt thự và giàn che nắng nghệ thuật.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrostegia_venusta%2C_bignonia_de_invierno%2C_liana_de_fuego_o_trompetero_naranja.jpg?width=900",
+    "coverCaption": "Chùm ớt / Rạng đông (Pyrostegia venusta) phủ sắc cam rực rỡ trên mái cổng Đà Lạt",
+    "description": "Các loài hoa thân leo hoặc bán leo tạo nên những hàng rào hoa hồng, giàn chùm ớt rực lửa đặc trưng của kiến trúc biệt thự Đà Lạt.",
+    "flowerIds": [
+      "FL-005",
+      "FL-022"
+    ]
+  },
+  {
+    "id": "hoa-vuon",
+    "name": "Hoa vườn",
+    "subtitle": "Cánh đồng hoa và thảm hoa cảnh quan đặc sắc",
+    "seasonNote": "Trồng thành luống, thảm lớn tại các công viên, nông trại và khu du lịch sinh thái.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lavandula_angustifolia_001.JPG?width=900",
+    "coverCaption": "Cánh đồng hoa Oải hương (Chi Lavandula) tím biếc bên hồ Tuyền Lâm",
+    "description": "Những loài hoa trồng thành luống, thảm hoa và cánh đồng cảnh quan nổi tiếng tại Vườn hoa Thành phố Đà Lạt và các thung lũng hoa.",
+    "flowerIds": [
+      "FL-004",
+      "FL-005",
+      "FL-011",
+      "FL-012",
+      "FL-013",
+      "FL-014",
+      "FL-015",
+      "FL-016",
+      "FL-017",
+      "FL-018",
+      "FL-019",
+      "FL-020",
+      "FL-023"
+    ]
+  },
+  {
+    "id": "hoa-dai",
+    "name": "Hoa dại",
+    "subtitle": "Vẻ đẹp mộc mạc, hoang sơ của thảo nguyên và đồi thông",
+    "seasonNote": "Mọc tự nhiên hoặc bán tự nhiên ven đèo, sườn đồi và thung lũng Đà Lạt.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tithonia_diversifolia.JPG?width=900",
+    "coverCaption": "Dã quỳ (Tithonia diversifolia) – Loài hoa dại báo hiệu mùa nắng lạnh Tây Nguyên",
+    "description": "Những loài hoa mang sức sống mãnh liệt, mọc tự nhiên dọc các cung đèo Prenn, Mimosa, Tà Nung và triền đồi thông Đà Lạt.",
+    "flowerIds": [
+      "FL-003",
+      "FL-021"
+    ]
+  },
+  {
+    "id": "hoa-cat-canh",
+    "name": "Hoa dùng để cắt cành",
+    "subtitle": "Thủ phủ hoa thương phẩm chất lượng cao của Việt Nam",
+    "seasonNote": "Được canh tác trong nhà kính và nông trại Đà Lạt, cung cấp hoa tươi quanh năm.",
+    "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilium_longiflorum.jpg?width=900",
+    "coverCaption": "Hoa ly (Chi Lilium) – Một trong những dòng hoa cắt cành chủ lực của Đà Lạt",
+    "description": "Đà Lạt là trung tâm sản xuất hoa cắt cành lớn nhất cả nước với hoa hồng, hoa ly, hoa cúc, đồng tiền, cẩm chướng, mõm sói, thạch thảo...",
+    "flowerIds": [
+      "FL-004",
+      "FL-005",
+      "FL-007",
+      "FL-008",
+      "FL-009",
+      "FL-010",
+      "FL-011",
+      "FL-012",
+      "FL-015",
+      "FL-016",
+      "FL-017",
+      "FL-023"
+    ]
+  }
+]

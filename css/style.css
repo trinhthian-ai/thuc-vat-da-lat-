@@ -1,0 +1,179 @@
+/* ==========================================================================
+   AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT
+   Bách khoa hoa, cây cảnh và thực vật cao nguyên
+   Tác giả: Trịnh Thị An – An Nhiên AI (TTA)
+   Phong cách: Khu vườn hoa Đà Lạt nghệ thuật 5 sao – Sáng, Thanh lịch, Chuyên sâu
+   ========================================================================== */
+
+:root {
+  --bg-cream: #FCFBF7;
+  --bg-soft: #F5F2EB;
+  --bg-card: #FFFFFF;
+  --pine-dark: #1B3B2B;
+  --pine-med: #2A543E;
+  --pine-light: #E6EFE9;
+  --jacaranda: #6C4AB6;
+  --jacaranda-light: #F3EFFC;
+  --sakura: #D95375;
+  --sakura-light: #FDF0F4;
+  --mimosa: #D99B26;
+  --mimosa-light: #FEF8EC;
+  --hydrangea: #2E77AE;
+  --text-main: #1F2924;
+  --text-muted: #57665E;
+  --border-subtle: #E3DFD5;
+  --shadow-sm: 0 4px 16px rgba(27, 59, 43, 0.06);
+  --shadow-md: 0 10px 30px rgba(27, 59, 43, 0.10);
+  --shadow-lg: 0 20px 45px rgba(27, 59, 43, 0.14);
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-main);
+  background-color: var(--bg-cream);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-cream);
+  color: var(--text-main);
+  line-height: 1.65;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-serif-title {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  line-height: 1.25;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-soft);
+}
+::-webkit-scrollbar-thumb {
+  background: #B8C4BC;
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--pine-med);
+}
+
+/* Aspect-ratio safe image containers (Requirement 2 & 9: never stretch/crop weirdly) */
+.flower-card-img-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, #f3f0e8 0%, #e7efe9 100%);
+  overflow: hidden;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.flower-card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.flower-card:hover .flower-card-img-wrap img {
+  transform: scale(1.05);
+}
+
+/* Hero Banner 6 Flowers Grid & Showcase */
+.hero-garden-bg {
+  background: radial-gradient(circle at 15% 20%, rgba(108, 74, 182, 0.08) 0%, transparent 45%),
+              radial-gradient(circle at 85% 30%, rgba(217, 83, 117, 0.08) 0%, transparent 45%),
+              linear-gradient(180deg, #163024 0%, #1F4231 60%, #FCFBF7 100%);
+}
+
+.hero-showcase-card {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.22);
+  transition: all 0.3s ease;
+  background: #10241B;
+}
+
+.hero-showcase-card:hover,
+.hero-showcase-card.active {
+  border-color: #FCD34D;
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+}
+
+/* Author Portrait Frame (Requirement 8) */
+.author-avatar-frame {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #D99B26, #6C4AB6, #D95375);
+  padding: 2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.author-avatar-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 9999px;
+  background: #FFF;
+}
+
+/* Pill Navigation */
+.collection-pill {
+  transition: all 0.22s ease;
+  white-space: nowrap;
+}
+.collection-pill.active {
+  background-color: var(--pine-dark);
+  color: #FFFFFF;
+  border-color: var(--pine-dark);
+  box-shadow: 0 6px 16px rgba(27, 59, 43, 0.2);
+}
+
+/* Profile Section Table/Grid */
+.profile-spec-card {
+  background: #FFFFFF;
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  padding: 1.15rem 1.25rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.profile-spec-card:hover {
+  border-color: #B6C7BD;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Lightbox Modal */
+.lightbox-backdrop {
+  background: rgba(12, 22, 17, 0.92);
+  backdrop-filter: blur(8px);
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #FFFFFF;
+  }
+}

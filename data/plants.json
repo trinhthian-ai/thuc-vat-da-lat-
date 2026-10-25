@@ -1,0 +1,2135 @@
+{
+  "version": "2.0.0-DalatFlowersFirst",
+  "flowers": [
+    {
+      "id": "FL-001",
+      "slug": "phuong-tim",
+      "code": "AN-001",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Phượng tím",
+      "otherNames": "Phượng tím Đà Lạt, Blue Jacaranda, Jacarandá-mimoso",
+      "scientificName": "Jacaranda mimosifolia D.Don",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Bignoniaceae (Họ Chùm ớt / Đinh)",
+      "genus": "Jacaranda (Chi Phượng tím)",
+      "origin": "Vùng cận nhiệt đới Nam Mỹ (Argentina, Bolivia, Brazil). Được kỹ sư nông học Lương Văn Sáu đưa về trồng thử nghiệm và nhân giống tại Đà Lạt từ năm 1962.",
+      "dalatRelation": "Biểu tượng hoa đường phố nổi tiếng của Đà Lạt; những cây phượng tím đầu tiên trồng trên đường Nguyễn Thị Minh Khai (khu vực chợ Đà Lạt), ven hồ Xuân Hương và công viên Yersin đã tạo nên bản sắc lãng mạn đặc trưng của phố núi mỗi độ tháng 3 – tháng 4.",
+      "shortIntro": "Sắc tím biếc mơ màng phủ kín những con dốc và mặt hồ Xuân Hương mỗi độ xuân muộn, biểu tượng trữ tình bậc nhất của phố núi Đà Lạt.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-xuan"
+      ],
+      "morphology": "Thân gỗ nhỡ đến lớn, cao 10–15 m, tán thưa xòe rộng. Lá kép lông chim hai lần chẵn, mọc đối, lá chét nhỏ mịn như lá phượng vĩ hoặc lá mimosa. Nụ hoa hình ống hơi cong, mọc thành chùm hình chùy lớn ở đầu cành dài 20–30 cm. Hoa hình chuông ống dài 4–5 cm, chia 5 thùy mềm mại, cánh hoa mỏng mịn.",
+      "colorsAndVariants": "Tím lam (tím biếc / lavender-blue) đặc trưng; ngoài ra trên thế giới có giống hoa trắng ('Alba') nhưng tại Đà Lạt phổ biến nhất là dòng hoa tím biếc truyền thống.",
+      "climate": "Ưa khí hậu cận nhiệt đới núi cao hoặc ôn đới ấm, có mùa khô se lạnh rõ rệt để kích thích rụng lá và phân hóa mầm hoa.",
+      "light": "Ưa sáng hoàn toàn (Full sun); cần tối thiểu 6–8 giờ nắng trực tiếp mỗi ngày để tán cân đối và ra hoa sai.",
+      "temperature": "Nhiệt độ sinh trưởng tối ưu 15–25°C; chịu được sương lạnh ngắn hạn xuống tới 5°C ở vùng cao nguyên.",
+      "soil": "Đất đỏ bazan hoặc đất thịt pha cát tơi xốp, giàu mùn, thoát nước tốt, độ pH từ 5.5 – 7.0; không chịu ngập úng.",
+      "watering": "Tưới giữ ẩm định kỳ khi cây còn nhỏ. Khi cây trưởng thành chịu hạn khá tốt; giảm tưới vào cuối mùa đông để cây trút lá và tập trung nở hoa đồng loạt vào mùa xuân.",
+      "fertilizing": "Bón phân hữu cơ hoai mục kết hợp NPK 15-15-15 vào đầu mùa mưa (tháng 5–6); bổ sung phân giàu Lân và Kali (NPK 10-30-20) vào cuối thu để dưỡng cành hoa.",
+      "propagation": "Nhân giống chủ yếu bằng hạt (thu từ quả nang gỗ dẹt) hoặc giâm cành bán hóa gỗ có xử lý hormone ra rễ (IBA) như kỹ thuật từng áp dụng tại Đà Lạt.",
+      "floweringCare": "Trồng ở vị trí thoáng nắng, không cắt tỉa mạnh vào cuối đông vì mầm hoa hình thành ở đầu cành năm trước. Cần khoảng 4–6 tuần khô mát trước mùa xuân để hoa bung nở rộ.",
+      "pestsAndDiseases": "Ít sâu bệnh nghiêm trọng; đôi khi gặp rệp sáp, rệp vảy ở chồi non hoặc bệnh thối rễ nếu đất trồng bị bí nước lâu ngày.",
+      "dalatSeason": "Nở rộ từ cuối tháng 2 đến tháng 4 hằng năm (đẹp nhất vào tháng 3 dương lịch khi trời Đà Lạt nắng ấm và ít mưa).",
+      "interestingFacts": "Kỹ sư Lương Văn Sáu là người đầu tiên mang hạt giống phượng tím từ Pháp về Đà Lạt năm 1962 và kiên trì ươm trồng những cây đầu tiên quanh chợ Đà Lạt và hồ Xuân Hương.",
+      "landscapeAndCulture": "Cây bóng mát và cảnh quan đường phố tuyệt đẹp; đi vào thơ ca, âm nhạc và nhiếp ảnh như một miền ký ức dịu dàng của Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Jacaranda mimosifolia D.Don",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2"
+        },
+        {
+          "title": "Wikimedia Commons – Jacaranda mimosifolia",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jacaranda_mimosifolia"
+        }
+      ],
+      "similarFlowers": [
+        "FL-002",
+        "FL-003",
+        "FL-013",
+        "FL-016"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flor_do_jacarand%C3%A1-mimoso_ou_caroba_%28Jacaranda_mimosifolia%2C_D._Don.%29.jpg?width=1000",
+          "caption": "Chùm hoa Phượng tím (Jacaranda mimosifolia) bung nở dưới nắng xuân (Ảnh thật: Leovigildo Santos / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flor_do_jacarand%C3%A1-mimoso_ou_caroba_%28Jacaranda_mimosifolia%2C_D._Don.%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/phuong-tim-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-002",
+      "slug": "mai-anh-dao",
+      "code": "AN-002",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Mai anh đào",
+      "otherNames": "Mai anh đào Đà Lạt, Wild Himalayan Cherry, Sour Cherry",
+      "scientificName": "Prunus cerasoides Buch.-Ham. ex D.Don",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Rosaceae (Họ Hoa hồng)",
+      "genus": "Prunus (Chi Mận / Đào)",
+      "origin": "Vùng núi cao Himalaya, Nam Á và khu vực núi cao Đông Nam Á (bao gồm cao nguyên Lâm Viên – Đà Lạt).",
+      "dalatRelation": "Loài hoa báo xuân đặc trưng nhất của Đà Lạt; nở rộ khắp đường Trần Hưng Đạo, dốc Đa Quý (Trại Mát), hồ Tuyền Lâm, hồ Xuân Hương và Mộng Đào Nguyên mỗi dịp Tết đến xuân về.",
+      "shortIntro": "Thân đào mận, hoa năm cánh hồng phấn tựa hoa mai – sứ giả mùa xuân nhuộm hồng những triền đồi và con dốc Đà Lạt.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-xuan"
+      ],
+      "morphology": "Cây thân gỗ nhỡ, cao 5–15 m, vỏ thân màu nâu xám có các vệt ngang đặc trưng của chi Prunus. Lá đơn mọc so le, hình bầu dục nhọn đầu, mép có răng cưa nhỏ. Hoa mọc thành cụm 2–5 bông ở nách lá khi cây đã rụng hết lá; đài hoa hình ống màu đỏ sẫm, 5 cánh hoa đơn mỏng manh giống dáng hoa mai nhưng cấu trúc thuộc nhóm anh đào.",
+      "colorsAndVariants": "Hồng phấn, hồng sen đậm đến hồng nhạt phớt trắng tùy độ tuổi của hoa và biên độ nhiệt độ mùa đông.",
+      "climate": "Ưa khí hậu cao nguyên mát mẻ quanh năm (độ cao trên 1.000 m), cần mùa đông khô lạnh để cây trút lá và ngủ nghỉ trước khi bung hoa.",
+      "light": "Ưa sáng hoàn toàn; trồng nơi thoáng đãng trên sườn đồi hoặc dọc đường phố nhiều nắng.",
+      "temperature": "Nhiệt độ tối ưu 14–22°C; khi nhiệt độ ban đêm xuống 10–13°C vào tháng 12 – tháng 1, cây sẽ ra hoa đồng loạt và sắc hồng đậm hơn.",
+      "soil": "Đất đỏ bazan, đất feralit núi cao thoát nước tốt, giàu chất hữu cơ, độ pH 5.5 – 6.5.",
+      "watering": "Tưới đủ ẩm trong giai đoạn phát triển thân lá (tháng 4–10); ngưng hoặc giảm tối đa nước tưới vào tháng 11–12 để cây rụng lá tự nhiên.",
+      "fertilizing": "Bón phân chuồng hoai mục và NPK cân đối sau mùa hoa (tháng 3–4); bón tăng Kali và Lân vào tháng 9–10 để tích lũy dinh dưỡng cho mầm hoa xuân.",
+      "propagation": "Nhân giống chủ yếu bằng hạt (từ quả chín màu đỏ tím vào tháng 4–5) hoặc ghép cành để giữ phẩm chất màu hoa đậm.",
+      "floweringCare": "Không bón phân đạm cao vào cuối năm vì sẽ làm cây ra lá non thay vì ra hoa. Giữ gốc khô thoáng trong suốt thời kỳ cây trút lá chờ hoa.",
+      "pestsAndDiseases": "Sâu đục thân, bệnh chảy gôm (xì mủ thân) trên cây già hoặc đất ẩm ướt, sâu ăn lá vào mùa mưa.",
+      "dalatSeason": "Nở từ cuối tháng 12 đến tháng 2 năm sau (thường rộ nhất vào khoảng tháng 1 dương lịch, đúng dịp Tết Dương lịch và Tết Nguyên đán).",
+      "interestingFacts": "Tên gọi 'Mai anh đào' xuất phát từ hình thái độc đáo: thân cây thuộc chi Đào/Mận (Prunus), nhưng hoa có 5 cánh đơn xòe tròn gợi nhớ dáng hoa Mai.",
+      "landscapeAndCulture": "Tâm điểm của Lễ hội Hoa Mai Anh Đào Đà Lạt; biểu tượng của sức sống thanh xuân, niềm hy vọng và vẻ đẹp giao hòa đất trời cao nguyên.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Prunus cerasoides",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729572-1"
+        },
+        {
+          "title": "Wikimedia Commons – Prunus cerasoides",
+          "url": "https://commons.wikimedia.org/wiki/File:Prunus_cerasoides-2-coonoor-ooty-India.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-001",
+        "FL-003",
+        "FL-005",
+        "FL-012"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_cerasoides-2-coonoor-ooty-India.jpg?width=1000",
+          "caption": "Cành hoa Mai anh đào (Prunus cerasoides) hồng thắm trên nền trời cao nguyên (Ảnh thật: Yercaud-elango / Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prunus_cerasoides-2-coonoor-ooty-India.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/mai-anh-dao-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-003",
+      "slug": "mimosa",
+      "code": "AN-003",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Mimosa",
+      "otherNames": "Keo lá bạc, Mimosa Đà Lạt, Queensland Silver Wattle",
+      "scientificName": "Acacia podalyriifolia A.Cunn. ex G.Don",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Fabaceae (Họ Đậu – Phân họ Trinh nữ Caesalpinioideae / Mimosoideae)",
+      "genus": "Acacia (Chi Keo)",
+      "origin": "Vùng Queensland và New South Wales (Úc); du nhập vào Đà Lạt từ thời Pháp thuộc và thích nghi tự nhiên trên các sườn đồi.",
+      "dalatRelation": "Loài hoa gắn liền với tên gọi cung đèo Mimosa cửa ngõ vào Đà Lạt, cùng bài hát bất hủ 'Mimosa, từ đâu em tới?'; nở vàng rực dọc đèo Mimosa, hồ Tuyền Lâm và thung lũng Tình Yêu.",
+      "shortIntro": "Những chùm bông cầu vàng óng ánh tỏa hương dịu nhẹ trên nền lá phủ phấn bạc, loài hoa của sự khiêm nhường và tình yêu thầm lặng nơi phố núi.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-thu",
+        "hoa-mua-dong",
+        "hoa-dai"
+      ],
+      "morphology": "Cây gỗ nhỏ đến nhỡ, cao 3–7 m, phân cành nhiều. Lá biến đổi thành cuống dạng lá (phyllode) hình bầu dục hoặc trái xoan dài 2–5 cm, bề mặt phủ lớp lông tơ mịn màu trắng bạc lấp lánh dưới nắng. Hoa nhỏ tập hợp thành đầu tròn như quả cầu lông tơ đường kính 6–8 mm, xếp thành chùm dài ở nách lá và đầu cành.",
+      "colorsAndVariants": "Hoa màu vàng tươi đến vàng nghệ ấm áp; tán lá màu xanh xám ánh bạc rất đặc trưng, không lẫn với các loài keo thông thường.",
+      "climate": "Ưa khí hậu cao nguyên mát mẻ, nhiều nắng và gió, chịu hạn tốt và thích nghi với đất đồi dốc.",
+      "light": "Ưa sáng hoàn toàn; càng nhiều nắng lớp phấn bạc trên lá càng rõ và hoa càng sai.",
+      "temperature": "Nhiệt độ tối ưu 12–24°C; chịu lạnh vùng cao rất tốt.",
+      "soil": "Đất đồi bazan, đất sỏi đá hoặc đất cát pha thoát nước nhanh; có khả năng cố định đạm cải tạo đất nghèo dinh dưỡng.",
+      "watering": "Chỉ cần tưới định kỳ khi cây mới trồng; khi đã bén rễ sâu trên đồi thì hầu như sống nhờ nước mưa và sương mù Đà Lạt.",
+      "fertilizing": "Ít cần phân đạm do rễ có nốt sần cố định đạm; có thể bón thêm phân hữu cơ và lân-kali nhẹ vào đầu mùa mưa.",
+      "propagation": "Nhân giống bằng hạt (ngâm nước ấm 60–70°C trước khi gieo để phá ngủ vỏ hạt cứng) hoặc chiết cành.",
+      "floweringCare": "Tỉa nhẹ các cành khô già sau mùa hoa (tháng 3) để kích thích cành mới mang hoa cho vụ thu – đông kế tiếp.",
+      "pestsAndDiseases": "Sâu đục thân, rệp sáp hại cành non hoặc nấm phấn trắng khi độ ẩm quá cao và thiếu nắng.",
+      "dalatSeason": "Nở rải rác từ tháng 10 và rộ nhất từ tháng 11 đến tháng 2 năm sau (xuyên suốt mùa đông sang đầu xuân Đà Lạt).",
+      "interestingFacts": "Phần 'lá bạc' của cây Mimosa Đà Lạt thực chất là cuống lá dẹt hóa (phyllode) phủ lớp lông mịn giúp cây giảm thoát hơi nước trong mùa khô lạnh.",
+      "landscapeAndCulture": "Biểu tượng văn hóa – âm nhạc của Đà Lạt, gắn với cung đường đèo Mimosa thơ mộng và những câu chuyện tình thanh cao.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Acacia podalyriifolia",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:471148-1"
+        },
+        {
+          "title": "Wikimedia Commons – Acacia podalyriifolia",
+          "url": "https://commons.wikimedia.org/wiki/File:Acacia_podalyriifolia_flowers_7th_Brigade_Park,_Chermside_IMGP5385.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-001",
+        "FL-002",
+        "FL-021",
+        "FL-015"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acacia_podalyriifolia_flowers_7th_Brigade_Park%2C_Chermside_IMGP5385.jpg?width=1000",
+          "caption": "Hoa Mimosa (Acacia podalyriifolia) với chùm hoa cầu vàng rực và lá phủ phấn bạc (Ảnh thật: John Robert McPherson / Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acacia_podalyriifolia_flowers_7th_Brigade_Park%2C_Chermside_IMGP5385.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/mimosa-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-004",
+      "slug": "cam-tu-cau",
+      "code": "AN-004",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Cẩm tú cầu",
+      "otherNames": "Dương tú cầu, Tử dương, Bigleaf Hydrangea, Hortensia",
+      "scientificName": "Hydrangea macrophylla (Thunb.) Ser.",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Hydrangeaceae (Họ Tú cầu)",
+      "genus": "Hydrangea (Chi Tú cầu)",
+      "origin": "Đông Á (Nhật Bản, Hàn Quốc); được người Pháp đưa vào trồng rộng rãi tại Đà Lạt và trở thành loài hoa cảnh quan chủ lực của vùng cao nguyên Lâm Viên.",
+      "dalatRelation": "Nổi tiếng với những cánh đồng cẩm tú cầu rộng hàng héc-ta tại Trại Mát, Xuân Thọ, Lạc Dương, Đường hầm Đất Sét và dọc các lối đi biệt thự cổ Đà Lạt.",
+      "shortIntro": "Những quả cầu hoa khổng lồ kỳ diệu biết đổi màu từ xanh lam ngọc bích sang tím biếc và hồng phấn theo độ chua (pH) của đất mẹ Đà Lạt.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-he",
+        "hoa-mua-thu",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây bụi thân thảo hóa gỗ ở gốc, cao 1–2,5 m, mọc thành bụi dày. Lá đơn mọc đối, bản to hình bầu dục rộng, màu xanh đậm bóng, mép lá có răng cưa thô. Cụm hoa hình cầu lớn (nhóm Mophead) đường kính 15–30 cm ở đỉnh cành; các 'cánh hoa' lớn thực chất là lá đài biến đổi (sepals) bao quanh những hoa thật rất nhỏ ở tâm.",
+      "colorsAndVariants": "Đổi màu ngoạn mục theo độ pH và hàm lượng ion Nhôm (Al³⁺) tự do trong đất: Đất chua (pH 4.5–5.5, giàu nhôm như đất bazan Đà Lạt) cho hoa màu Xanh lam đậm đến Xanh ngọc; đất trung tính (pH 6.0–6.5) cho hoa màu Tím hoặc Pha xanh-hồng; đất kiềm nhẹ (pH > 6.8) cho hoa màu Hồng phấn hoặc Đỏ hồng. Các giống hoa trắng thuần chủng không chứa sắc tố anthocyanin nên giữ màu trắng ngà rồi chuyển xanh cốm khi già.",
+      "climate": "Ưa khí hậu mát ẩm quanh năm, có sương mù nhẹ và độ ẩm không khí cao (70–85%) như Đà Lạt.",
+      "light": "Ưa sáng tán xạ hoặc nắng nhẹ buổi sáng; nắng gắt buổi trưa dễ làm héo lá và cháy mép đài hoa.",
+      "temperature": "Nhiệt độ sinh trưởng lý tưởng 15–22°C; phát triển khỏe mạnh ngoài trời tại Đà Lạt suốt bốn mùa.",
+      "soil": "Đất thịt giàu mùn, đất đỏ bazan trộn phân hữu cơ và vỏ trấu/xơ dừa, giữ ẩm tốt nhưng phải thoát nước nhanh.",
+      "watering": "Cây rất ưa nước (tên khoa học Hydrangea nghĩa là 'bình đựng nước'); cần tưới đều đặn mỗi ngày vào sáng sớm để đất luôn ẩm mát, nhất là khi đang nuôi cụm hoa lớn.",
+      "fertilizing": "Bón phân hữu cơ định kỳ hàng tháng. Muốn giữ sắc xanh lam đặc trưng Đà Lạt: bón bổ sung nhôm sunfat (Al₂(SO₄)₃) pha loãng. Muốn chuyển màu hồng: bón thêm vôi nông nghiệp hoặc phân giàu lân để nâng pH đất.",
+      "propagation": "Giâm cành bánh tẻ (dài 15–20 cm có 2–3 đốt lá) rất dễ bén rễ chỉ sau 3–4 tuần trong khí hậu ẩm mát Đà Lạt; hoặc tách bụi.",
+      "floweringCare": "Sau khi cụm hoa tàn và chuyển sang màu xanh cổ điển (vintage), cắt bỏ cành hoa cũ phía trên đốt lá khỏe để cây đâm chồi mới. Không cắt trụi các cành bánh tẻ đang mang mầm hoa.",
+      "pestsAndDiseases": "Bệnh phấn trắng, đốm lá do nấm Cercospora vào mùa mưa dầm; ốc sên và nhện đỏ hại lá non.",
+      "dalatSeason": "Nở quanh năm tại Đà Lạt, nhưng rộ và đẹp nhất từ tháng 5 đến tháng 11 (mùa mưa và đầu mùa thu – đông).",
+      "interestingFacts": "Khả năng đổi màu theo pH đất của Cẩm tú cầu là một phản ứng hóa sinh tự nhiên giữa sắc tố delphinidin-3-monoglucoside và ion nhôm Al³⁺ trong tế bào đài hoa.",
+      "landscapeAndCulture": "Biểu tượng của lòng biết ơn, sự chân thành và vẻ đẹp viên mãn; là loài hoa cưới, hoa cắt cành và điểm check-in biểu tượng của du lịch Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Hydrangea macrophylla",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:791619-1"
+        },
+        {
+          "title": "Wikimedia Commons – Hydrangea macrophylla",
+          "url": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_2021.1.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-005",
+        "FL-019",
+        "FL-023",
+        "FL-001"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hydrangea_macrophylla_2021.1.jpg?width=1000",
+          "caption": "Cụm hoa Cẩm tú cầu (Hydrangea macrophylla) nở tròn viên mãn trên cao nguyên (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_2021.1.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/cam-tu-cau-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Milflores_%28Hydrangea_Macrophylla%29.jpg?width=1000",
+          "caption": "Chi tiết các đài hoa Cẩm tú cầu xanh lam trong điều kiện đất chua cao nguyên (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milflores_%28Hydrangea_Macrophylla%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/cam-tu-cau-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-005",
+      "slug": "hoa-hong",
+      "code": "AN-005",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Hoa hồng",
+      "otherNames": "Hoa hồng Đà Lạt, Hồng cổ, Hồng ngoại, Rose",
+      "scientificName": "Chi Rosa L. (gồm các loài và nhóm giống lai Rosa × hybrida)",
+      "taxonomyLevel": "Chi & Nhóm giống trồng (Genus & Cultivar Groups – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & Nhóm giống trồng tại Đà Lạt",
+      "family": "Rosaceae (Họ Hoa hồng)",
+      "genus": "Rosa (Chi Hoa hồng)",
+      "origin": "Các loài hoang dại phân bố ở Bắc Bán Cầu (châu Á, châu Âu, Bắc Mỹ); hàng ngàn giống lai hiện đại và hồng cổ được du nhập và tuyển chọn tại Đà Lạt từ đầu thế kỷ 20.",
+      "dalatRelation": "Linh hồn của nghề trồng hoa Đà Lạt, đặc biệt tại làng hoa Vạn Thành, Thái Phiên, Hà Đông và các khuôn viên biệt thự cổ với hồng nhung, hồng cổ Sapa, hồng leo tường vi và các giống hồng ngoại nhập.",
+      "shortIntro": "Nữ hoàng của các loài hoa nơi phố núi – từ những giàn hồng leo phủ kín cổng biệt thự cổ đến những nhà kính hoa hồng cắt cành lớn nhất Việt Nam.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-he",
+        "hoa-mua-thu",
+        "hoa-leo",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây bụi đứng hoặc thân leo hóa gỗ, có gai cong trên thân cành. Lá kép lông chim lẻ (thường 5–7 lá chét), mép lá khía răng cưa, có lá kèm dính ở cuống. Hoa mọc đơn độc hoặc thành chùm ở ngọn cành; số lượng cánh hoa từ 5 cánh đơn (hồng dại/tường vi) đến hàng chục hoặc hơn 100 cánh xếp lớp xoáy (hồng kép, hồng cổ, hồng ngoại).",
+      "colorsAndVariants": "Đa dạng bậc nhất: Đỏ nhung, hồng phấn, hồng cam (Juliet, Lafont), vàng ánh kim, trắng kem, tím khói, đỏ sọc trắng... Gồm 3 nhóm chính tại Đà Lạt: Hồng cắt cành (Hybrid Tea), Hồng bụi cảnh quan (Floribunda / Shrub) và Hồng leo (Climbing Rose).",
+      "climate": "Khí hậu ôn hòa, ngày nắng dịu đêm se lạnh của Đà Lạt giúp bông hồng to, cánh dày, màu sắc tươi thắm và hương thơm nồng nàn hơn hẳn vùng đồng bằng.",
+      "light": "Ưa nắng trực tiếp tối thiểu 6 giờ/ngày; thông thoáng gió để hạn chế nấm bệnh trên lá.",
+      "temperature": "Nhiệt độ tối ưu 15–25°C; biên độ nhiệt ngày – đêm khoảng 8–10°C giúp form hoa chuẩn và lâu tàn.",
+      "soil": "Đất đỏ bazan tơi xốp giàu mùn, trộn phân bò hoai, trấu hun, xơ dừa và phân trùn quế; độ pH 6.0 – 6.5.",
+      "watering": "Tưới đẫm vào gốc mỗi sáng sớm, tránh tưới lên lá và hoa vào chiều tối để phòng bệnh đốm đen và phấn trắng.",
+      "fertilizing": "Cây phàm ăn: bón luân phiên phân hữu cơ (phân cá, dịch chuối, phân bò ủ kỹ, bánh dầu) và NPK cân đối + trung vi lượng (Canxi, Bo, Magie) định kỳ 10–15 ngày/lần sau mỗi đợt cắt hoa.",
+      "propagation": "Ghép mắt (trên gốc ghép hồng tầm xuân khỏe mạnh tại làng hoa Vạn Thành), chiết cành hoặc giâm cành.",
+      "floweringCare": "Cắt tỉa cành hoa tàn đúng kỹ thuật (cắt xuống 2–3 nách lá có 5 lá chét khỏe), tỉa bỏ cành tăm, cành điếc ở tâm bụi để ánh sáng chiếu đều.",
+      "pestsAndDiseases": "Bọ trĩ (làm xoăn lá non và biến dạng nụ), nhện đỏ (mùa nắng khô), bệnh đốm đen (Black spot) và bệnh phấn trắng (Powdery mildew) vào mùa mưa.",
+      "dalatSeason": "Nở quanh năm; đẹp nhất và form hoa chuẩn nhất vào mùa khô mát từ tháng 11 đến tháng 4 năm sau.",
+      "interestingFacts": "Tại làng hoa Vạn Thành (Đà Lạt), kỹ thuật ghép mắt các giống hồng ngoại lên gốc hồng dại bản địa giúp cây có bộ rễ cực khỏe và tuổi thọ khai thác kéo dài nhiều năm.",
+      "landscapeAndCulture": "Biểu tượng vĩnh cửu của tình yêu, sự thanh lịch và niềm tự hào của nghề trồng hoa truyền thống Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Rosa L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002432-2"
+        },
+        {
+          "title": "Wikimedia Commons – Rosa Flower",
+          "url": "https://commons.wikimedia.org/wiki/File:Rosa_Flower.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-002",
+        "FL-011",
+        "FL-004",
+        "FL-008"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa_Flower.jpg?width=1000",
+          "caption": "Đóa hoa hồng (Chi Rosa) bung nở với các lớp cánh xếp xoáy mềm mại (Ảnh thật: Widia Prihastuti / Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosa_Flower.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-hong-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa_%27FLOWER_CARPET_Scarlet%27_6_2021_Rose-_%2851264245443%29.jpg?width=1000",
+          "caption": "Bụi hoa hồng cảnh quan nở rộ trong nắng sớm (Ảnh thật: Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosa_%27FLOWER_CARPET_Scarlet%27_6_2021_Rose-_%2851264245443%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-hong-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-006",
+      "slug": "hoa-lan-ho-diep",
+      "code": "AN-006",
+      "isCore20": true,
+      "bannerFeatured": true,
+      "name": "Hoa lan hồ điệp",
+      "otherNames": "Lan hồ điệp Đà Lạt, Moth Orchid",
+      "scientificName": "Chi Phalaenopsis Blume (gồm các loài và giống lai thương mại Phalaenopsis hybrids)",
+      "taxonomyLevel": "Chi & Nhóm giống lai (Genus & Hybrid Group – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & Nhóm giống trồng công nghệ cao",
+      "family": "Orchidaceae (Họ Phong lan)",
+      "genus": "Phalaenopsis (Chi Lan hồ điệp)",
+      "origin": "Các loài nguyên chủng phân bố ở vùng nhiệt đới châu Á (Việt Nam, Philippines, Indonesia, Đài Loan) và bắc Úc; các giống thương mại được nuôi cấy mô và điều khiển ra hoa công nghệ cao tại Đà Lạt – Lâm Đồng.",
+      "dalatRelation": "Đà Lạt và vùng phụ cận (Lạc Dương, Đơn Dương, Đức Trọng) là trung tâm sản xuất lan hồ điệp công nghệ cao lớn nhất Việt Nam; khí hậu mát lạnh tự nhiên của cao nguyên giúp xử lý phân hóa ngồng hoa hoàn hảo cho thị trường Tết.",
+      "shortIntro": "Những cánh bướm thanh tao khoe sắc bền bỉ suốt nhiều tháng liền – niềm tự hào của nền nông nghiệp hoa công nghệ cao Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-lan",
+        "hoa-trong-chau"
+      ],
+      "morphology": "Phong lan đơn thân (monopodial), thân rất ngắn mang 4–8 lá to bản dày, mọng nước, xếp thành hai dãy đối xứng. Rễ khí sinh to tròn, có lớp mô xốp velamen màu trắng bạc hoặc xanh lục ở đầu rễ. Ngồng hoa mọc từ nách lá, vươn dài 40–90 cm, uốn cong duyên dáng mang từ 8–15 bông hoa lớn hình cánh bướm (đường kính 7–12 cm), gồm 3 lá đài, 2 cánh hoa bên rộng và 1 cánh môi (labellum) có 2 râu uốn cong đặc trưng.",
+      "colorsAndVariants": "Trắng đại (V3), vàng hoàng hậu, tím hồng, hồng kẻ sọc, đỏ ớt, cam đột biến, chấm đốm harlequin và dòng hồ điệp mini phân nhánh.",
+      "climate": "Ưa khí hậu mát ẩm, thông thoáng gió nhưng tránh mưa tạt trực tiếp.",
+      "light": "Ưa ánh sáng tán xạ nhẹ (khoảng 15.000 – 25.000 lux, che lưới 60–70%); nắng trực tiếp làm cháy vàng lá.",
+      "temperature": "Sinh trưởng thân lá ở 20–28°C; để kích thích phân hóa mầm hoa cần nhiệt độ ban đêm giảm xuống 15–18°C và ban ngày 23–25°C trong 4–6 tuần (điều kiện tự nhiên lý tưởng của Đà Lạt vào mùa thu).",
+      "soil": "Không trồng bằng đất; dùng giá thể chuyên dụng cho phong lan: dớn trắng (Sphagnum moss) giữ ẩm cao hoặc vỏ thông + than củi đã xử lý sạch nấm khuẩn.",
+      "watering": "Tưới vừa đủ ẩm vào gốc giá thể khi thấy dớn hơi khô (khoảng 5–7 ngày/lần tùy độ ẩm); không tưới đọng nước ở nõn lá (đỉnh sinh trưởng) vào ban đêm để tránh thối ngọn.",
+      "fertilizing": "Bón phân NPK hòa tan qua lá/gốc nồng độ loãng: giai đoạn cây con dùng 30-10-10, giai đoạn trưởng thành 20-20-20, trước khi kích ngồng hoa dùng 10-30-20 kết hợp B1 và Canxi-Bo.",
+      "propagation": "Nuôi cấy mô tế bào (In vitro meristem culture) tại các phòng lab sinh học Đà Lạt hoặc tách chồi keiki mọc trên ngồng hoa cũ.",
+      "floweringCare": "Cắm que định hình ngồng hoa từ khi ngồng dài 15–20 cm; sau khi hoa tàn (sau 2–3 tháng), cắt ngồng hoa và dưỡng lại bộ rễ bằng giá thể dớn mới thoáng khí.",
+      "pestsAndDiseases": "Bệnh thối nhũn vi khuẩn (Erwinia) khi đọng nước ở kẽ lá, bệnh đốm nâu, thối rễ do giá thể quá ướt, rệp sáp và bọ trĩ hại nụ.",
+      "dalatSeason": "Nở rộ từ tháng 12 đến tháng 4 năm sau (đặc biệt phục vụ mùa hoa Tết Nguyên đán và mùa xuân).",
+      "interestingFacts": "Tên gọi Phalaenopsis bắt nguồn từ tiếng Hy Lạp 'Phalaina' (bướm đêm) và 'Opsis' (giống như), miêu tả những bông hoa xếp hàng trên cành như đàn bướm đang bay lượn.",
+      "landscapeAndCulture": "Biểu tượng của sự sang trọng, phú quý, thịnh vượng và may mắn; món quà biếu Tết và trang trí nội thất cao cấp hàng đầu.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Phalaenopsis Blume",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30016164-2"
+        },
+        {
+          "title": "Wikimedia Commons – Phalaenopsis orchid",
+          "url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_c.v._orchid_(49367895198).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-007",
+        "FL-024",
+        "FL-025",
+        "FL-026"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phalaenopsis_c.v._orchid_%2849367895198%29.jpg?width=1000",
+          "caption": "Hoa Lan hồ điệp (Chi Phalaenopsis) với cánh hoa tròn đầy và cánh môi tinh xảo (Ảnh thật: Geoff McKay / Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_c.v._orchid_%2849367895198%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-ho-diep-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phalaenopsis_c.v._orchid_%2849367922713%29.jpg?width=1000",
+          "caption": "Cận cảnh cấu trúc hoa Lan hồ điệp lai thương mại (Ảnh thật: Geoff McKay / Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_c.v._orchid_%2849367922713%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-ho-diep-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-007",
+      "slug": "dia-lan",
+      "code": "AN-007",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Địa lan",
+      "otherNames": "Địa lan Đà Lạt, Lan kiếm, Boat Orchid",
+      "scientificName": "Chi Cymbidium Sw. (bao gồm các loài bản địa Lâm Viên và nhóm địa lan lai Cymbidium hybrids)",
+      "taxonomyLevel": "Chi & Nhóm giống trồng (Genus & Cultivar Groups – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & Nhóm giống địa lan Đà Lạt",
+      "family": "Orchidaceae (Họ Phong lan)",
+      "genus": "Cymbidium (Chi Địa lan / Lan kiếm)",
+      "origin": "Vùng núi cao châu Á (Himalaya, Việt Nam, Trung Quốc, Nhật Bản) và Úc; vùng rừng núi Langbiang – Đà Lạt là cái nôi của nhiều loài địa lan quý bản địa (như Cymbidium insigne, C. erythrostylum, C. schroederi) và các giống địa lan lai New Zealand.",
+      "dalatRelation": "Niềm kiêu hãnh của giới nghệ nhân hoa cảnh Đà Lạt với những giống địa lan danh tiếng: Hoàng Vũ, Thanh Ngọc, Hồng Thần Hà, Trần Mộng, cùng các dòng địa lan New Zealand vàng chanh, xanh ngọc, đỏ đô chỉ ra hoa đẹp tại độ cao 1.500 m của Đà Lạt.",
+      "shortIntro": "Phong thái vương giả, hương thơm thanh khiết và sức sống bền bỉ giữa sương lạnh cao nguyên – tinh hoa nghệ thuật thưởng lan Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-lan",
+        "hoa-trong-chau",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Lan đa thân (sympodial) có giả hành hình trứng lớn mọc sát nhau thành bụi dày. Lá hình dải hẹp dài 50–100 cm, uốn cong mềm mại như lưỡi kiếm. Cần hoa mọc từ gốc giả hành, vươn thẳng hoặc uốn rủ dài 60–120 cm, mang từ 10–25 bông hoa lớn dày dặn, cánh môi có đốm nhung rực rỡ.",
+      "colorsAndVariants": "Vàng hoàng kim (Hoàng Vũ), xanh ngọc bích (Thanh Ngọc, xanh 247), hồng phấn, đỏ rượu vang, nâu đồng (Trần Mộng), trắng tuyết.",
+      "climate": "Ưa khí hậu lạnh mát đặc thù của vùng núi cao Đà Lạt (độ cao 1.400 – 1.600 m); rất khó ra hoa nếu đưa xuống vùng đồng bằng nóng bức.",
+      "light": "Ưa ánh sáng trung bình (50–60% nắng tự nhiên dưới lưới che); đủ nắng buổi sáng giúp giả hành mập tròn và lá cứng cáp.",
+      "temperature": "Nhiệt độ ban ngày 18–24°C, ban đêm mùa thu – đông xuống 10–14°C là điều kiện tiên quyết để mầm hoa địa lan hình thành mà không bị thui nụ.",
+      "soil": "Giá thể tơi xốp thoáng khí: vỏ thông + đá bọt (pumice) + dớn cọng + vỏ đậu phụng mục hoặc đất mùn rừng thông xử lý sạch.",
+      "watering": "Tưới giữ ẩm đều quanh năm; tránh để giá thể sũng nước gây thối rễ mập của địa lan.",
+      "fertilizing": "Bón phân hữu cơ chậm tan (phân dê, phân trùn quế viên nén) quanh thành chậu kết hợp phun NPK 20-20-20 định kỳ; chuyển sang 6-30-30 từ tháng 7–8 âm lịch để nuôi vòi hoa Tết.",
+      "propagation": "Tách chiết giả hành (mỗi cụm 3–4 giả hành) sau mùa hoa xuân hoặc nhân giống in vitro.",
+      "floweringCare": "Khi vòi hoa nhú cao 10–15 cm, cần tỉa bớt các vòi yếu để tập trung dinh dưỡng cho các cần hoa chính và tránh mưa sương làm đốm cánh hoa.",
+      "pestsAndDiseases": "Nhện đỏ mặt dưới lá, rệp vảy, bệnh thối đen giả hành (Pythium/Phytophthora) và virus đốm vòng trên lá.",
+      "dalatSeason": "Nở từ tháng 12 đến tháng 3 năm sau, rộ nhất đúng dịp Tết Nguyên đán.",
+      "interestingFacts": "Nhiều loài địa lan rừng nguyên chủng được phát hiện lần đầu tiên trên thế giới ngay tại cao nguyên Langbiang – Đà Lạt vào đầu thế kỷ 20 (như Cymbidium erythrostylum năm 1905).",
+      "landscapeAndCulture": "Biểu tượng của phẩm cách quân tử, sự thanh cao và thịnh vượng bền lâu; dòng hoa quý giá bậc nhất mỗi dịp chợ hoa xuân Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Cymbidium Sw.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325965-2"
+        },
+        {
+          "title": "Wikimedia Commons – Cymbidium orchid",
+          "url": "https://commons.wikimedia.org/wiki/File:Cymbidium_c.v._orchid_(49368844677).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-006",
+        "FL-024",
+        "FL-025",
+        "FL-026"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cymbidium_c.v._orchid_%2849368844677%29.jpg?width=1000",
+          "caption": "Cần hoa Địa lan (Chi Cymbidium) khoe sắc rực rỡ với cánh môi đốm nhung đặc trưng (Ảnh thật: Geoff McKay / Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cymbidium_c.v._orchid_%2849368844677%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/dia-lan-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-008",
+      "slug": "hoa-ly",
+      "code": "AN-008",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa ly",
+      "otherNames": "Hoa Bách hợp, Hoa Lily Đà Lạt, True Lily",
+      "scientificName": "Chi Lilium L. (gồm Lilium longiflorum và các nhóm giống lai Oriental, Asiatic, LA Hybrids)",
+      "taxonomyLevel": "Chi & Nhóm giống trồng (Genus & Hybrid Groups – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & Nhóm giống trồng tại Đà Lạt",
+      "family": "Liliaceae (Họ Hành / Bách hợp)",
+      "genus": "Lilium (Chi Loa kèn / Bách hợp)",
+      "origin": "Vùng ôn đới Bắc Bán Cầu (châu Á, châu Âu, Bắc Mỹ); củ giống thương phẩm (chủ yếu từ Hà Lan, Chile, New Zealand) được trồng quy mô lớn tại các làng hoa Đà Lạt.",
+      "dalatRelation": "Một trong những dòng hoa cắt cành và hoa chậu giá trị kinh tế cao nhất tại làng hoa Vạn Thành, Thái Phiên, Đa Thiện (Đà Lạt), nổi tiếng với những bông ly tai to, màu đậm và hương thơm quyến rũ.",
+      "shortIntro": "Vẻ đẹp kiêu sa, đài các cùng hương thơm nồng nàn lan tỏa trong sương lạnh – dòng hoa chủ lực làm nên thương hiệu hoa Tết Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống nhiều năm nhờ thân hành (củ) gồm nhiều vảy thịt xếp úp vào nhau. Thân khí sinh mọc thẳng cao 60–120 cm, lá đơn mọc xoắn ốc dọc thân, hình mác bóng mượt. Hoa lớn hình loa kèn hoặc hình chén mở rộng ở ngọn thân (3–8 bông/cành), gồm 6 mảnh bao hoa (3 cánh hoa + 3 lá đài giống nhau) và 6 nhị mang bao phấn lớn.",
+      "colorsAndVariants": "Các nhóm giống nổi tiếng tại Đà Lạt: Nhóm Oriental thơm nồng (Sorbonne hồng, Tiber hồng đậm, Robina đỏ tím, Casa Blanca trắng); nhóm LA & OT Hybrids (Ù vàng, Ù đỏ – Manissa, Yelloween, Conca d'Or); nhóm Loa kèn trắng (Lilium longiflorum).",
+      "climate": "Ưa khí hậu mát lạnh của cao nguyên Đà Lạt để củ phát triển rễ thân khỏe và nụ hoa không bị rụng (mù nụ).",
+      "light": "Ưa ánh sáng vừa phải (che lưới 30–50% trong nhà kính); thiếu sáng cây dễ vươn lóng yếu và rụng nụ.",
+      "temperature": "Giai đoạn bén rễ 12–15°C; giai đoạn sinh trưởng thân lá và làm nụ 16–22°C.",
+      "soil": "Đất tơi xốp giàu mùn, trộn xơ dừa, trấu hun và phân hữu cơ vi sinh, thoát nước tốt, độ pH 6.0 – 7.0.",
+      "watering": "Giữ ẩm đất vừa phải (65–75%), tưới vào gốc buổi sáng; tuyệt đối không để đất úng nước gây thối củ và rễ thân.",
+      "fertilizing": "Bón thúc Canxi Nitrat Ca(NO₃)₂ để cứng cây, chống cháy lá sinh lý (leaf scorch), kết hợp NPK giàu Kali khi nụ bắt đầu phân hóa.",
+      "propagation": "Trồng từ củ giống đã xử lý lạnh (vernalization), tách vảy củ hoặc nuôi cấy mô tạo củ bi.",
+      "floweringCare": "Duy trì nhiệt độ ổn định và độ ẩm điều hòa; thu hoạch cắt cành khi nụ đầu tiên trên cành vừa lên màu và hé nở.",
+      "pestsAndDiseases": "Bệnh cháy lá sinh lý do thiếu Canxi hoặc thay đổi ẩm độ đột ngột, nấm Botrytis gây đốm hoa, rệp muội và bọ trĩ.",
+      "dalatSeason": "Trồng quanh năm trong nhà kính Đà Lạt, cao điểm rực rỡ nhất từ tháng 12 đến tháng 3 (vụ hoa Đông – Xuân và Tết).",
+      "interestingFacts": "Hoa ly có hai hệ rễ: rễ đáy củ và rễ mọc trên đốt thân nằm dưới mặt đất (stem roots) – chính bộ rễ thân này quyết định 70% khả năng hút dinh dưỡng nuôi bông hoa.",
+      "landscapeAndCulture": "Biểu tượng của sự thanh khiết, sang trọng, hòa hợp trăm năm ('Bách hợp'); luôn hiện diện trang trọng trong không gian Tết Việt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Lilium L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001696-2"
+        },
+        {
+          "title": "Wikimedia Commons – Lilium longiflorum",
+          "url": "https://commons.wikimedia.org/wiki/File:Lilium_longiflorum.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-014",
+        "FL-005",
+        "FL-010",
+        "FL-011"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilium_longiflorum.jpg?width=1000",
+          "caption": "Hoa Ly / Bách hợp trắng (Lilium longiflorum) thanh khiết và kiêu sa (Ảnh thật: Wikimedia Commons, CC BY-SA 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lilium_longiflorum.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-ly-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilium_lancifolium_002.JPG?width=1000",
+          "caption": "Cận cảnh cánh hoa và nhị hoa thuộc chi Lilium với sắc màu rực rỡ (Ảnh thật: H. Zell / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lilium_lancifolium_002.JPG",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-ly-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-009",
+      "slug": "hoa-cuc",
+      "code": "AN-009",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa cúc",
+      "otherNames": "Cúc Đà Lạt, Cúc đại đóa, Cúc lưới, Cúc chùm, Florist's Chrysanthemum",
+      "scientificName": "Chi Chrysanthemum L. (chủ yếu là nhóm giống trồng Chrysanthemum × morifolium Ramat.)",
+      "taxonomyLevel": "Chi & Loài lai trồng trọt (Genus & Cultivated Hybrid Species)",
+      "verificationStatus": "Đã xác minh danh pháp & nhóm giống trồng tại Đà Lạt",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Chrysanthemum (Chi Cúc)",
+      "origin": "Đông Á (Trung Quốc, Nhật Bản); được canh tác lâu đời tại Đà Lạt từ những làng hoa truyền thống Hà Đông, Thái Phiên, Vạn Thành.",
+      "dalatRelation": "Loài hoa có diện tích canh tác lớn nhất Đà Lạt; những nhà lồng hoa cúc thắp đèn vàng rực sáng cả thung lũng Thái Phiên vào ban đêm đã trở thành một kỳ quan nông nghiệp – du lịch độc nhất vô nhị của Đà Lạt.",
+      "shortIntro": "Từ những đóa cúc đại đóa vàng rực đến thung lũng đèn đêm Thái Phiên lung linh – loài hoa bình dị nhưng bền bỉ bậc nhất của đất lành Đà Lạt.",
+      "collections": [
+        "hoa-mua-thu",
+        "hoa-mua-dong",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống hàng năm hoặc nhiều năm, cao 40–100 cm, thân có rãnh dọc và lông mịn. Lá đơn mọc so le, xẻ thùy sâu hình lông chim, mép có răng cưa và mùi thơm thảo mộc đặc trưng. Cụm hoa dạng đầu (capitulum) gồm các hoa hình lưỡi nhỏ xếp nhiều lớp ở ngoài và hoa hình ống ở tâm.",
+      "colorsAndVariants": "Vàng pha lê, vàng kim cương, trắng sương mai, tím hồng, xanh cốm (Green Wicked), đỏ đồng, cúc mẫu đơn đa sắc, cúc calimero nhỏ xinh.",
+      "climate": "Cây ngày ngắn điển hình, ưa khí hậu mát mẻ và ôn hòa của cao nguyên.",
+      "light": "Ưa sáng; trong canh tác tại Đà Lạt, người trồng chiếu đèn vào ban đêm giai đoạn đầu để kéo dài chiều cao cành (ngăn ra nụ sớm), sau đó ngắt đèn để cây phân hóa nụ đồng loạt.",
+      "temperature": "Nhiệt độ sinh trưởng tối ưu 16–23°C; đêm mát 14–16°C giúp màu hoa sáng và cành cứng.",
+      "soil": "Đất thịt nhẹ hoặc đất đỏ bazan tơi xốp, lên luống cao thoát nước tốt, độ pH 6.0 – 6.8.",
+      "watering": "Tưới nhỏ giọt hoặc tưới gốc đều đặn giữ ẩm 70%; tránh làm ướt cánh hoa khi nụ đã hé.",
+      "fertilizing": "Bón lót phân hữu cơ vi sinh và vôi; bón thúc NPK giàu Đạm-Kali giai đoạn vươn thân và tăng Lân-Kali khi tắt đèn làm nụ.",
+      "propagation": "Giâm ngọn (từ vườn cây mẹ sạch bệnh hoặc cây cấy mô) cho tỷ lệ sống gần như 100%.",
+      "floweringCare": "Với cúc đơn bông (cúc đại đóa, cúc lưới): phải tỉa bỏ toàn bộ nụ phụ ở nách lá, chỉ giữ lại 1 nụ chính ở đỉnh và bọc lưới định hình bông. Với cúc chùm: tỉa nụ đỉnh để các nụ nhánh nở đều.",
+      "pestsAndDiseases": "Bệnh rỉ sắt trắng (Puccinia horiana), sâu vẽ bùa trên lá, bọ trĩ và nấm héo xanh.",
+      "dalatSeason": "Sản xuất quanh năm nhờ kỹ thuật điều khiển ánh sáng trong nhà kính; đẹp nhất vào mùa thu và mùa đông – xuân.",
+      "interestingFacts": "Làng hoa Thái Phiên (Đà Lạt) rực sáng hàng vạn bóng đèn mỗi đêm chính là kỹ thuật quang chu kỳ điều khiển thời điểm ra hoa của cây cúc ngày ngắn.",
+      "landscapeAndCulture": "Biểu tượng của sự trường thọ, lòng hiếu thảo, sự thanh cao (Tùng – Cúc – Trúc – Mai) và đời sống tâm linh người Việt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Chrysanthemum × morifolium",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194025-1"
+        },
+        {
+          "title": "Wikimedia Commons – Chrysanthemum flowers",
+          "url": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_flower.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-010",
+        "FL-012",
+        "FL-015",
+        "FL-016"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthemum_flower.jpg?width=1000",
+          "caption": "Đóa hoa Cúc (Chi Chrysanthemum) với hàng trăm cánh hoa hình lưỡi xếp tầng đều đặn (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_flower.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-cuc-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthemum_flowers%2C_specifically_a_variety_known_for_its_bi-color_blooms_with_striped_pink_and_white_petals.jpg?width=1000",
+          "caption": "Giống hoa Cúc hai màu hồng – trắng nghệ thuật (Ảnh thật Featured Picture: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_flowers%2C_specifically_a_variety_known_for_its_bi-color_blooms_with_striped_pink_and_white_petals.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-cuc-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-010",
+      "slug": "hoa-dong-tien",
+      "code": "AN-010",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa đồng tiền",
+      "otherNames": "Cúc đồng tiền, Đồng tiền Đà Lạt, Barberton Daisy, Transvaal Daisy",
+      "scientificName": "Gerbera jamesonii Bolus ex Hook.f. (và nhóm giống lai Gerbera × hybrida)",
+      "taxonomyLevel": "Loài & Nhóm giống lai (Species & Hybrid Group)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Gerbera (Chi Đồng tiền)",
+      "origin": "Vùng Transvaal, Nam Phi; được lai tạo mạnh ở châu Âu và trồng thương phẩm quy mô lớn tại Đà Lạt.",
+      "dalatRelation": "Một trong 5 loài hoa cắt cành và hoa chậu chủ lực của Đà Lạt, thích nghi hoàn hảo với khí hậu ôn hòa giúp cuống hoa vươn thẳng, dài và màu sắc rực rỡ.",
+      "shortIntro": "Sắc màu tươi tắn, rạng rỡ như những nụ cười ban mai – loài hoa mang thông điệp của niềm vui, tài lộc và hạnh phúc trọn vẹn.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-trong-chau",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống nhiều năm, thân ngầm sát mặt đất không phân cành. Lá mọc thành hoa thị từ gốc, phiến lá dài 20–35 cm xẻ thùy lông chim sâu, mặt dưới có lông mịn. Cuống hoa không lá mọc thẳng từ gốc cao 30–60 cm, mang một cụm hoa đầu tròn lớn đường kính 8–12 cm.",
+      "colorsAndVariants": "Đỏ tươi, cam rực, vàng nghệ, hồng phấn, trắng tinh, tím sen; gồm đồng tiền đơn, đồng tiền kép, đồng tiền nhụy đen và đồng tiền lùn trồng chậu.",
+      "climate": "Ưa khí hậu ôn hòa, mát mẻ, khô ráo và nhiều ánh sáng.",
+      "light": "Ưa sáng nhưng cần che mái nhựa nhà kính để tránh mưa làm dập hoa và thối cổ rễ.",
+      "temperature": "Nhiệt độ tối ưu 16–24°C; ban đêm 12–16°C giúp cuống hoa cứng cáp.",
+      "soil": "Đất tơi xốp, giàu mùn, thoát nước cực tốt, độ pH 5.5 – 6.5. Khi trồng tuyệt đối không lấp đất kín đỉnh sinh trưởng (cổ rễ phải cao hơn mặt đất 1–1.5 cm).",
+      "watering": "Tưới nhỏ giọt vào gốc, không tưới phun mưa lên tâm bụi cây để tránh bệnh thối gốc Phytophthora.",
+      "fertilizing": "Bón cân đối NPK kết hợp Canxi và Magie định kỳ 10 ngày/lần; tăng Kali khi cây bước vào giai đoạn thu hoạch rộ.",
+      "propagation": "Nuôi cấy mô tế bào (phương pháp phổ biến nhất tại các vườn ươm Đà Lạt) hoặc tách bụi.",
+      "floweringCare": "Thường xuyên tỉa bỏ lá già ở tầng dưới để thông thoáng gốc và ánh sáng chiếu vào cổ rễ kích thích mầm hoa mới. Khi thu hoạch dùng tay bẻ nghiêng cuống hoa sát gốc thay vì cắt để không lưu lại đoạn cuống thừa gây thối gốc.",
+      "pestsAndDiseases": "Bệnh thối cổ rễ (Phytophthora cryptogea), bệnh phấn trắng, bọ phấn trắng, sâu vẽ bùa và nhện đỏ.",
+      "dalatSeason": "Ra hoa quanh năm tại Đà Lạt; sản lượng và chất lượng cao nhất vào mùa xuân và mùa hè – thu.",
+      "interestingFacts": "Khi thu hoạch hoa đồng tiền thương phẩm, nông dân Đà Lạt không dùng kéo cắt mà lắc nhẹ tách nguyên cuống từ bẹ gốc nhằm bảo vệ mầm hoa kế tiếp khỏi nhiễm nấm khuẩn.",
+      "landscapeAndCulture": "Biểu tượng của sự tươi sáng, may mắn, tài lộc và khởi đầu thuận lợi trong các dịp lễ Tết, khai trương.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Gerbera jamesonii",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:208926-1"
+        },
+        {
+          "title": "Wikimedia Commons – Gerbera jamesonii",
+          "url": "https://commons.wikimedia.org/wiki/File:Gerbera_jamesonii.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-009",
+        "FL-015",
+        "FL-012",
+        "FL-016"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerbera_jamesonii.jpg?width=1000",
+          "caption": "Hoa Đồng tiền (Gerbera jamesonii) rực rỡ với các cánh hoa xếp tia đồng tâm (Ảnh thật: Adeep309 / Wikimedia Commons, CC BY 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerbera_jamesonii.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-dong-tien-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barberton_daisy_%28reddish_pink%29.jpg?width=1000",
+          "caption": "Biến thể màu hồng đỏ của hoa Đồng tiền (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barberton_daisy_%28reddish_pink%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-dong-tien-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-011",
+      "slug": "hoa-cam-chuong",
+      "code": "AN-011",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa cẩm chướng",
+      "otherNames": "Cẩm chướng Đà Lạt, Hoa Phăng (Oeillet), Carnation, Clove Pink",
+      "scientificName": "Dianthus caryophyllus L. (cùng các loài và giống lai trong chi Dianthus)",
+      "taxonomyLevel": "Loài & Nhóm giống trồng (Species & Cultivar Groups)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Caryophyllaceae (Họ Cẩm chướng)",
+      "genus": "Dianthus (Chi Cẩm chướng)",
+      "origin": "Vùng Địa Trung Hải; được người Pháp đưa vào trồng tại Đà Lạt từ sớm (nên người Đà Lạt xưa còn gọi là hoa Phăng / Oeillet).",
+      "dalatRelation": "Loài hoa cắt cành truyền thống gắn bó mật thiết với các làng hoa Hà Đông, Vạn Thành, Thái Phiên; nổi bật bởi cánh hoa gợn sóng đăng ten và độ bền cắm bình lên tới 2–3 tuần.",
+      "shortIntro": "Những lớp cánh mỏng xếp nếp đăng ten duyên dáng và hương thơm đinh hương dịu nhẹ – loài hoa của tình mẫu tử và lòng tri ân sâu sắc.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống nhiều năm, cao 40–80 cm, thân chia nhiều đốt phình rõ, bề mặt thân và lá phủ lớp phấn trắng xanh (glaucous). Lá đơn mọc đối chữ thập, hẹp dài hình dải. Hoa mọc đơn độc (cẩm chướng đơn) hoặc thành chùm (cẩm chướng nhánh/spray) ở ngọn cành; đài hoa hình trụ dài bao chặt lấy gốc các cánh hoa có mép khía răng cưa như viền ren.",
+      "colorsAndVariants": "Hồng phấn, đỏ thắm, trắng tinh, vàng kem, tím pastel và nhóm hai màu viền cánh (picotee / variegated).",
+      "climate": "Ưa khí hậu ôn đới mát mẻ, khô ráo và nhiều nắng nhẹ như Đà Lạt.",
+      "light": "Ưa sáng hoàn toàn (10–12 giờ sáng/ngày) để thân cứng và không bị nứt đài hoa.",
+      "temperature": "Nhiệt độ ban ngày 18–23°C, ban đêm 10–15°C; chênh lệch nhiệt độ quá lớn hoặc thiếu Bo dễ làm nứt đài hoa.",
+      "soil": "Đất cát pha hoặc đất bazan tơi xốp, thoáng khí, thoát nước tốt, độ pH 6.0 – 7.0.",
+      "watering": "Tưới nhỏ giọt giữ ẩm vừa phải; hạn chế tưới ướt lá để phòng bệnh rỉ sắt và đốm lá.",
+      "fertilizing": "Bón NPK cân đối kết hợp Canxi và Bo định kỳ; nguyên tố Bo và Canxi đặc biệt quan trọng giúp đài hoa cẩm chướng không bị nứt toác.",
+      "propagation": "Giâm ngọn từ chồi nách bánh tẻ (dài 8–10 cm) hoặc nuôi cấy mô sạch bệnh.",
+      "floweringCare": "Căng lưới đỡ thân từ sớm theo 3–4 tầng để cành hoa mọc thẳng đứng; bấm ngọn lần đầu khi cây có 5–6 cặp lá để tạo nhiều cành hoa.",
+      "pestsAndDiseases": "Bệnh héo vàng Fusarium, bệnh rỉ sắt (Uromyces dianthi), nhện đỏ và sâu đục nụ.",
+      "dalatSeason": "Nở quanh năm trong nhà kính Đà Lạt; rộ và đẹp nhất từ tháng 1 đến tháng 8 (đặc biệt dịp Ngày của Mẹ, 8/3 và mùa hè).",
+      "interestingFacts": "Tên khoa học Dianthus có nguồn gốc từ tiếng Hy Lạp 'Dios' (Thần Zeus) và 'Anthos' (Hoa), mang nghĩa là 'Đóa hoa của Thần linh'.",
+      "landscapeAndCulture": "Biểu tượng thiêng liêng của tình mẫu tử, lòng ái mộ và sự biết ơn; loài hoa chủ đạo trong Ngày của Mẹ và lễ Vu Lan.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Dianthus caryophyllus L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:153208-1"
+        },
+        {
+          "title": "Wikimedia Commons – Carnation (Dianthus caryophyllus)",
+          "url": "https://commons.wikimedia.org/wiki/File:Carnation_(47984494377).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-005",
+        "FL-009",
+        "FL-010",
+        "FL-017"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnation_%2847984494377%29.jpg?width=1000",
+          "caption": "Hoa Cẩm chướng (Dianthus caryophyllus) với các lớp cánh viền đăng ten đặc trưng (Ảnh thật: Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnation_%2847984494377%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-cam-chuong-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-012",
+      "slug": "hoa-bat-tu",
+      "code": "AN-012",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa bất tử",
+      "otherNames": "Cúc bất tuyệt, Hoa bất diệt Đà Lạt, Strawflower, Golden Everlasting",
+      "scientificName": "Xerochrysum bracteatum (Vent.) Tzvelev (đồng nghĩa: Helichrysum bracteatum)",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Xerochrysum (Chi Cúc bất tử)",
+      "origin": "Châu Úc; được du nhập vào Đà Lạt và trở thành loài hoa lưu niệm biểu tượng gắn liền với các đồi thông, thác Prenn, thung lũng Tình Yêu.",
+      "dalatRelation": "Đặc sản hoa khô nổi tiếng bậc nhất của Đà Lạt; nhờ khí hậu se lạnh và nắng hanh cao nguyên, đài hoa bất tử Đà Lạt khô tự nhiên rất cứng cáp và giữ nguyên sắc màu rực rỡ suốt nhiều năm.",
+      "shortIntro": "Dù cành đã khô nhưng sắc hoa vẫn rạng ngời qua năm tháng – minh chứng cho tình yêu vĩnh cửu và kỷ niệm không phai nơi phố núi Đà Lạt.",
+      "collections": [
+        "hoa-mua-thu",
+        "hoa-mua-dong",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo hàng năm hoặc ngắn ngày, mọc thẳng cao 50–100 cm. Lá đơn mọc so le, hình mác thuôn dài, bề mặt hơi nhám. Cụm hoa dạng đầu đường kính 3–6 cm; những 'cánh hoa' cứng bóng, sột soạt như giấy sáp thực chất là các lá bắc (involucral bracts) gồm tế bào chết chứa ít nước, bao quanh đĩa hoa hình ống màu vàng ở giữa.",
+      "colorsAndVariants": "Vàng óng, đỏ tươi, cam lửa, hồng sen, tím đậm, trắng ngà và đỏ nâu.",
+      "climate": "Ưa khí hậu cao nguyên mát mẻ, khô ráo và nhiều nắng.",
+      "light": "Ưa sáng hoàn toàn; nắng đủ giúp lá bắc dày, bóng và lên màu rực rỡ nhất.",
+      "temperature": "Nhiệt độ tối ưu 15–24°C; chịu lạnh khá tốt nhưng sợ mưa dầm kéo dài.",
+      "soil": "Đất cát pha hoặc đất đỏ bazan thoát nước tốt, độ pH 5.5 – 6.5.",
+      "watering": "Tưới vừa phải vào gốc; cây chịu hạn tốt hơn chịu úng.",
+      "fertilizing": "Bón lót phân hữu cơ; bón thúc NPK cân đối và tăng Kali khi cây bắt đầu phân cành đóng nụ.",
+      "propagation": "Gieo hạt trực tiếp vào đầu mùa thu (tháng 8–9) để thu hoạch hoa vào mùa đông – xuân.",
+      "floweringCare": "Nếu làm hoa khô nghệ thuật: thu hoạch khi bông hoa mới hé mở 2–3 lớp lá bắc ngoài cùng (trước khi tâm hoa nở bung hết), bó ngược cành phơi nơi khô thoáng mát.",
+      "pestsAndDiseases": "Thối gốc và nấm mốc xám (Botrytis) nếu gặp mưa ẩm liên tục; rệp muội hại ngọn non.",
+      "dalatSeason": "Nở rộ từ tháng 11 đến tháng 3 năm sau (mùa khô lạnh và dịp Tết).",
+      "interestingFacts": "Hoa bất tử thực sự 'co mở' theo độ ẩm không khí: khi trời ẩm hoặc dính sương, các lá bắc cụp lại che chở nhụy hoa; khi nắng lên khô ráo, bông hoa lại xòe bung rực rỡ dù đã cắt rời khỏi cây.",
+      "landscapeAndCulture": "Món quà lưu niệm kinh điển của du khách khi đến Đà Lạt, gắn với truyền thuyết về mối tình chung thủy vượt qua giá băng.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Xerochrysum bracteatum",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:963119-1"
+        },
+        {
+          "title": "Wikimedia Commons – Xerochrysum bracteatum",
+          "url": "https://commons.wikimedia.org/wiki/File:Xerochrysum_Bracteatum_Flower.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-009",
+        "FL-010",
+        "FL-015",
+        "FL-016"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xerochrysum_Bracteatum_Flower.jpg?width=1000",
+          "caption": "Đóa Hoa bất tử (Xerochrysum bracteatum) với các lá bắc bóng mượt như sáp (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xerochrysum_Bracteatum_Flower.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-bat-tu-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawflowers_%28223348769%29.jpeg?width=1000",
+          "caption": "Sắc màu đa dạng của Hoa bất tử khi nở rộ (Ảnh thật: Wikimedia Commons, CC BY 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strawflowers_%28223348769%29.jpeg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-bat-tu-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-013",
+      "slug": "hoa-oai-huong",
+      "code": "AN-013",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa oải hương",
+      "otherNames": "Lavender Đà Lạt, Oải hương Anh, Oải hương lá xẻ, Lavender",
+      "scientificName": "Chi Lavandula L. (phổ biến tại Đà Lạt gồm Lavandula angustifolia, L. dentata, L. multifida và L. stoechas)",
+      "taxonomyLevel": "Chi & Nhóm loài trồng (Genus & Cultivated Species – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & các loài trồng thực tế tại Đà Lạt",
+      "family": "Lamiaceae (Họ Hoa môi / Bạc hà)",
+      "genus": "Lavandula (Chi Oải hương)",
+      "origin": "Vùng Địa Trung Hải, châu Âu; được nhập nội và trồng thành những cánh đồng cảnh quan nổi tiếng tại khu vực hồ Tuyền Lâm, Cầu Đất, Trại Mát và Vạn Thành (Đà Lạt).",
+      "dalatRelation": "Ở Việt Nam, Đà Lạt là một trong số rất ít vùng có tiểu khí hậu cao nguyên mát mẻ cho phép canh tác thành công các cánh đồng hoa oải hương tím biếc ngoài trời và trong nhà màng.",
+      "shortIntro": "Sắc tím Provence thơ mộng và hương thảo mộc thư giãn lan tỏa bên bờ hồ Tuyền Lâm – điểm hẹn lãng mạn của những tâm hồn yêu thiên nhiên Đà Lạt.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-vuon"
+      ],
+      "morphology": "Cây bụi nhỏ bán hóa gỗ ở gốc, cao 40–90 cm, phân nhiều nhánh thẳng. Thân tiết diện vuông đặc trưng của họ Hoa môi, lá mọc đối, hẹp dài (L. angustifolia) hoặc có răng cưa/xẻ thùy lông chim (L. dentata, L. multifida), phủ lông tơ màu xám bạc và chứa túi tinh dầu thơm ngát. Hoa nhỏ mọc thành vòng giả xếp dày đặc thành bông dài 5–15 cm trên cuống vươn cao.",
+      "colorsAndVariants": "Tím lam (violet-blue), tím đậm, tím hồng; dòng L. dentata và L. multifida sinh trưởng rất khỏe quanh năm tại Đà Lạt, trong khi L. angustifolia (True Lavender) cho hương tinh dầu thanh nhất.",
+      "climate": "Ưa khí hậu mát mẻ, khô ráo, nhiều nắng và gió thoáng; kỵ nhất là mưa dầm kết hợp nóng ẩm.",
+      "light": "Ưa nắng trực tiếp hoàn toàn (tối thiểu 6–8 giờ nắng/ngày).",
+      "temperature": "Nhiệt độ tối ưu 15–24°C; chịu lạnh tốt nhưng dễ bị thối gốc nếu nhiệt độ cao kèm độ ẩm đất quá lớn.",
+      "soil": "Đất cực kỳ thoát nước, trộn nhiều đá perlite, đá pumice, cát thô và xơ dừa; độ pH trung tính đến hơi kiềm nhẹ (6.5 – 7.5).",
+      "watering": "Chỉ tưới khi bề mặt giá thể đã khô ráo hoàn toàn; tưới trực tiếp vào gốc, tránh làm ướt bộ lá phủ lông bạc.",
+      "fertilizing": "Không ưa nhiều đạm; bón nhẹ phân hữu cơ chậm tan và kali-lân định kỳ, bổ sung vôi/canxi giúp bộ rễ khỏe.",
+      "propagation": "Giâm cành bánh tẻ (dài 7–10 cm) trong giá thể cát sạch/perlite hoặc gieo hạt.",
+      "floweringCare": "Cắt tỉa gọn các cành hoa sau khi tàn khoảng 1/3 chiều cao tán (không cắt phạm vào phần gỗ già không còn lá xanh) để cây đâm chồi mới đồng đều.",
+      "pestsAndDiseases": "Bệnh thối rễ và thối gốc do nấm Phytophthora/Pythium khi đất ướt sũng vào mùa mưa Đà Lạt; rệp sáp ở kẽ lá.",
+      "dalatSeason": "Nở rộ nhất từ tháng 5 đến tháng 8 và đợt thu – đông (các giống L. dentata / L. multifida có thể ra hoa quanh năm tại Đà Lạt).",
+      "interestingFacts": "Tinh dầu oải hương chứa linalool và linalyl acetate có tác dụng làm dịu thần kinh, giảm căng thẳng và hỗ trợ giấc ngủ sâu.",
+      "landscapeAndCulture": "Biểu tượng của sự bình yên, thanh lịch, chung thủy và chữa lành tâm hồn.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Lavandula L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20962-1"
+        },
+        {
+          "title": "Wikimedia Commons – Lavandula angustifolia",
+          "url": "https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_001.JPG"
+        }
+      ],
+      "similarFlowers": [
+        "FL-001",
+        "FL-016",
+        "FL-017",
+        "FL-023"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lavandula_angustifolia_001.JPG?width=1000",
+          "caption": "Bụi hoa Oải hương (Lavandula angustifolia) nở tím biếc dưới nắng (Ảnh thật: H. Zell / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_001.JPG",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-oai-huong-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-014",
+      "slug": "hoa-tulip",
+      "code": "AN-014",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa tulip",
+      "otherNames": "Uất kim hương, Tulip Đà Lạt",
+      "scientificName": "Chi Tulipa L. (chủ yếu là nhóm giống trồng Tulipa gesneriana L. và các giống lai thương mại)",
+      "taxonomyLevel": "Chi & Loài lai trồng trọt (Genus & Cultivated Species)",
+      "verificationStatus": "Đã xác minh danh pháp & quy trình trồng củ tại Đà Lạt",
+      "family": "Liliaceae (Họ Hành / Bách hợp)",
+      "genus": "Tulipa (Chi Uất kim hương)",
+      "origin": "Vùng Trung Á và Thổ Nhĩ Kỳ, phát triển rực rỡ tại Hà Lan; tại Việt Nam, củ giống đã xử lý lạnh được nhập khẩu và trồng thành công nhất ở Đà Lạt vào vụ Đông – Xuân.",
+      "dalatRelation": "Tâm điểm của các kỳ Festival Hoa Đà Lạt và hội hoa xuân tại Vườn hoa Thành phố, công viên Xuân Hương, thung lũng Tình Yêu mỗi dịp Tết Nguyên đán.",
+      "shortIntro": "Những chiếc cúp hoa rực rỡ sắc màu từ xứ sở ôn đới khoe dáng kiêu hãnh giữa tiết trời se lạnh mùa xuân Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-trong-chau",
+        "hoa-vuon"
+      ],
+      "morphology": "Cây thân thảo mọc từ củ hành có vỏ lụa màu nâu bao bọc. Thân thẳng cao 30–60 cm, mang 2–4 lá to bản hình mác màu xanh phấn mọc từ gốc và dọc thân dưới. Mỗi thân thường mang 1 bông hoa lớn hình chiếc cúp hoặc hình chuông ngược ở đỉnh, gồm 6 mảnh bao hoa dày mịn.",
+      "colorsAndVariants": "Đỏ nhung (Ile de France, Strong Love), vàng rực (Strong Gold), cam lửa, tím nhung, hồng phấn, trắng tuyết và hai màu viền cánh (Leen van der Mark).",
+      "climate": "Đòi hỏi khí hậu lạnh mát trong suốt chu kỳ sinh trưởng từ khi xuống củ đến khi nở hoa (khoảng 30–40 ngày).",
+      "light": "Ưa ánh sáng dịu đến trung bình (che lưới 30–50%).",
+      "temperature": "Giai đoạn bén rễ cần 9–14°C; giai đoạn vươn ngồng và nở hoa cần 15–20°C (nếu nhiệt độ vượt quá 25°C hoa sẽ nở vội và nhanh tàn).",
+      "soil": "Giá thể sạch tơi xốp: xơ dừa đã xả chát + trấu hun + đất mùn tơi xốp, độ pH 6.0 – 7.0.",
+      "watering": "Giữ ẩm đều cho giá thể (khoảng 75%), tưới bằng nước mát vào gốc; không để củ bị khô hạn khi đang vươn ngồng.",
+      "fertilizing": "Dinh dưỡng nuôi hoa chủ yếu đã tích lũy sẵn trong củ giống; chỉ cần bổ sung Canxi Nitrat Ca(NO₃)₂ nồng độ 0.1–0.2% giúp thân cứng cáp, không bị gãy gục cổ bông.",
+      "propagation": "Trồng từ củ giống (size 12+) đã được xử lý lạnh 5°C–9°C từ Hà Lan hoặc New Zealand.",
+      "floweringCare": "Trồng củ đúng thời vụ (xuống củ trước Tết khoảng 28–35 ngày tùy giống sớm hay muộn); đặt nơi mát mẻ nhất để kéo dài tuổi thọ hoa.",
+      "pestsAndDiseases": "Thối củ do nấm Fusarium hoặc Pythium, hiện tượng gãy cổ bông sinh lý (topple) do thiếu Canxi.",
+      "dalatSeason": "Nở tập trung vào mùa Đông – Xuân (tháng 12 đến tháng 2 dương lịch, rộ nhất dịp Tết).",
+      "interestingFacts": "Hoa Tulip tiếp tục vươn dài thêm vài centimet ngay cả sau khi đã được cắt cắm vào bình nước nhờ sự giãn dài tế bào ở đốt cuống trên cùng.",
+      "landscapeAndCulture": "Biểu tượng của sự sang trọng, tình yêu hoàn hảo và không khí lễ hội mùa xuân rực rỡ.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Tulipa L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30037563-2"
+        },
+        {
+          "title": "Wikimedia Commons – Tulipa flower",
+          "url": "https://commons.wikimedia.org/wiki/File:Tulipa_flower.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-008",
+        "FL-020",
+        "FL-006",
+        "FL-023"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulipa_flower.jpg?width=1000",
+          "caption": "Đóa hoa Tulip / Uất kim hương (Chi Tulipa) bung nở hoàn hảo (Ảnh thật: Jorgebarrios / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulipa_flower.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-tulip-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulipa_Stresa.jpg?width=1000",
+          "caption": "Giống Tulip hai màu vàng – đỏ rực rỡ dưới ánh nắng xuân (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulipa_Stresa.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-tulip-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-015",
+      "slug": "hoa-huong-duong",
+      "code": "AN-015",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa hướng dương",
+      "otherNames": "Quỳ tử, Hướng dương Đà Lạt, Common Sunflower",
+      "scientificName": "Helianthus annuus L.",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Helianthus (Chi Hướng dương)",
+      "origin": "Bắc Mỹ; được trồng thành các cánh đồng cảnh quan lớn và hoa cắt cành tại Đà Lạt, Tà Nung, Đơn Dương, Đức Trọng.",
+      "dalatRelation": "Những cánh đồng hướng dương vàng rực tại đèo Tà Nung, Dalat Milk và các nông trại ngoại ô Đà Lạt là điểm nhấn rạng rỡ giữa nền thông xanh cao nguyên.",
+      "shortIntro": "Những mặt trời nhỏ luôn vươn mình đón ánh bình minh trên thảo nguyên Lâm Viên – biểu tượng của niềm tin, nghị lực và năng lượng tích cực.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-mua-dong",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo hàng năm, thân thẳng to khỏe có lông nhám, cao 1–2,5 m (hoặc 40–60 cm ở giống lùn). Lá đơn to bản hình tim, mép có răng cưa, cuống dài. Cụm hoa dạng đầu rất lớn (đường kính 15–30 cm) gồm vòng hoa hình lưỡi màu vàng tươi bên ngoài và hàng trăm hoa hình ống xếp theo đường xoắn ốc Fibonacci ở đĩa tâm.",
+      "colorsAndVariants": "Vàng rực nhụy nâu đen (giống Sakata Vincent's Choice cắt cành), vàng chanh nhụy xanh, hướng dương đỏ nâu (Moulin Rouge) và hướng dương kép (Teddy Bear).",
+      "climate": "Ưa khí hậu ấm mát, nhiều nắng và ít mưa bão.",
+      "light": "Ưa sáng hoàn toàn (Full sun); nụ hoa non có tính hướng quang (heliotropism) xoay theo hướng mặt trời từ đông sang tây mỗi ngày.",
+      "temperature": "Nhiệt độ tối ưu 18–28°C; biên độ nhiệt cao nguyên giúp cánh hoa dày và màu vàng đậm.",
+      "soil": "Đất thịt pha cát hoặc đất đỏ bazan giàu dinh dưỡng, tầng canh tác sâu và thoát nước tốt, độ pH 6.0 – 7.5.",
+      "watering": "Tưới đủ ẩm đều đặn, đặc biệt trong giai đoạn cây đóng nụ đến khi nở hoa; tránh tưới lên đĩa hoa đã nở.",
+      "fertilizing": "Bón lót phân chuồng hoai; bón thúc NPK cân đối kết hợp bổ sung Bo (Boron) để đĩa hoa phát triển tròn đều.",
+      "propagation": "Gieo hạt trực tiếp hoặc ươm bầu (55–65 ngày từ khi gieo đến khi nở hoa tùy giống).",
+      "floweringCare": "Trồng mật độ hợp lý (25×30 cm cho hoa cắt cành để bông vừa phải, cuống thẳng; thưa hơn nếu muốn bông khổng lồ); cắm cọc hoặc giăng dây đỡ ở nơi gió lớn.",
+      "pestsAndDiseases": "Sâu ăn lá, bệnh phấn trắng trên lá già, bệnh thối đĩa hoa do nấm Sclerotinia vào mùa mưa.",
+      "dalatSeason": "Nở đẹp nhất vào hai vụ chính: tháng 4 – tháng 5 và tháng 11 – tháng 1 năm sau.",
+      "interestingFacts": "Các hoa nhỏ trên đĩa tâm của hoa hướng dương luôn sắp xếp theo hai chiều xoắn ốc ngược nhau với số lượng đường xoắn tuân theo dãy số toán học Fibonacci (như 34 và 55, hoặc 55 và 89).",
+      "landscapeAndCulture": "Biểu tượng của lòng trung thành, niềm lạc quan, khát vọng vươn lên và tình bạn ấm áp.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Helianthus annuus L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329188-2"
+        },
+        {
+          "title": "Wikimedia Commons – Helianthus annuus",
+          "url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_00001.png"
+        }
+      ],
+      "similarFlowers": [
+        "FL-021",
+        "FL-003",
+        "FL-009",
+        "FL-010"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Helianthus_annuus_00001.png?width=1000",
+          "caption": "Cụm hoa Hướng dương (Helianthus annuus) rực rỡ với cấu trúc xoắn ốc Fibonacci ở tâm hoa (Ảnh thật: Paulo Costa / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_00001.png",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-huong-duong-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-016",
+      "slug": "hoa-thach-thao",
+      "code": "AN-016",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa thạch thảo",
+      "otherNames": "Cúc cánh mối, Thạch thảo tím Đà Lạt, Michaelmas Daisy, Italian Aster",
+      "scientificName": "Nhóm loài thuộc chi Symphyotrichum (phổ biến là Symphyotrichum novi-belgii) và chi Aster (Aster amellus L.)",
+      "taxonomyLevel": "Nhóm loài thuộc chi Symphyotrichum / Aster (không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh nhóm loài trồng tại Đà Lạt",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Symphyotrichum / Aster (Nhóm Cúc thạch thảo)",
+      "origin": "Bắc Mỹ (Symphyotrichum novi-belgii) và châu Âu (Aster amellus); du nhập vào Đà Lạt từ thời Pháp và trở thành loài hoa đồng nội gắn liền với mùa thu phố núi.",
+      "dalatRelation": "Trồng phổ biến tại các nhà vườn Đà Lạt làm hoa cắt cành, hoa phụ cắm букет và trồng thành thảm tím mộng mơ mỗi độ thu về.",
+      "shortIntro": "Những cánh hoa tím biếc nhỏ nhắn như vì sao mùa thu, gợi nhớ những vần thơ tình dịu vợi và nỗi nhớ man mác của Đà Lạt.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-mua-thu",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống nhiều năm, mọc thành bụi thẳng cao 40–80 cm, phân nhiều nhánh mảnh ở phần ngọn tạo thành chùm lớn. Lá đơn mọc so le, hình mác hẹp. Hoa đầu nhỏ đường kính 2–3 cm mọc dày đặc; vòng ngoài là hàng chục cánh hoa hình lưỡi mỏng mảnh (nên còn gọi là cúc cánh mối) bao quanh nhụy vàng tươi ở giữa.",
+      "colorsAndVariants": "Tím lam (tím thạch thảo truyền thống), tím hồng, trắng tinh khôi (thạch thảo trắng) và hồng phấn.",
+      "climate": "Ưa khí hậu mát mẻ, ôn hòa và nhiều nắng thu.",
+      "light": "Ưa sáng hoàn toàn; trồng nơi thoáng gió giúp bụi cây sum suê và ít nấm lá.",
+      "temperature": "Nhiệt độ tối ưu 15–24°C; chịu lạnh rất tốt.",
+      "soil": "Đất thịt nhẹ, đất đỏ bazan tơi xốp, thoát nước tốt, độ pH 5.8 – 6.8.",
+      "watering": "Tưới giữ ẩm trung bình vào gốc; tránh tưới ướt tán lá vào buổi chiều tối.",
+      "fertilizing": "Bón phân hữu cơ và NPK cân đối định kỳ 15–20 ngày/lần; bấm ngọn 1–2 lần khi cây cao 20 cm để tạo tán tròn nhiều nhánh hoa.",
+      "propagation": "Tách chồi gốc (rất dễ sống và nhanh ra hoa) hoặc giâm cành ngọn.",
+      "floweringCare": "Sau mỗi đợt thu hoạch cắt cành sát gốc khoảng 10 cm, bón thúc phân hữu cơ và NPK để gốc tiếp tục bật chồi mới cho lứa hoa sau.",
+      "pestsAndDiseases": "Bệnh phấn trắng trên lá dưới thấp, bệnh rỉ sắt và rệp muội hại ngọn.",
+      "dalatSeason": "Nở quanh năm tại Đà Lạt, nhưng rộ và thơ mộng nhất vào cuối hạ sang thu (tháng 8 đến tháng 11).",
+      "interestingFacts": "Bài thơ 'Mùa thu chết' (Apollinaire – Bùi Giáng dịch) với câu 'Ta ngắt đi một cụm hoa thạch thảo / Em nhớ cho: mùa thu đã chết rồi' đã làm cho loài hoa này trở thành biểu tượng văn học lãng mạn tại Việt Nam.",
+      "landscapeAndCulture": "Biểu tượng của tình yêu thủy chung, sự dịu dàng, nét đẹp mộc mạc và hoài niệm mùa thu Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Symphyotrichum novi-belgii",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:981863-1"
+        },
+        {
+          "title": "Wikimedia Commons – Aster amellus",
+          "url": "https://commons.wikimedia.org/wiki/File:Aster_amellus_flower_(10).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-009",
+        "FL-013",
+        "FL-001",
+        "FL-012"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aster_amellus_flower_%2810%29.jpg?width=1000",
+          "caption": "Hoa Thạch thảo (Aster amellus / Symphyotrichum) tím biếc với nhụy vàng rực rỡ (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aster_amellus_flower_%2810%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-thach-thao-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aster_amellus_flower_%2822%29.jpg?width=1000",
+          "caption": "Chùm hoa Thạch thảo bung nở trong nắng thu (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aster_amellus_flower_%2822%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-thach-thao-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-017",
+      "slug": "hoa-mom-soi",
+      "code": "AN-017",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa mõm sói",
+      "otherNames": "Hoa mõm rồng, Hoa mép dê Đà Lạt, Snapdragon, Dragon Flower",
+      "scientificName": "Antirrhinum majus L.",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Plantaginaceae (Họ Mã đề – trước đây xếp vào họ Huyền sâm Scrophulariaceae)",
+      "genus": "Antirrhinum (Chi Mõm sói)",
+      "origin": "Vùng Địa Trung Hải (nam châu Âu và bắc Phi); được trồng rộng rãi tại Đà Lạt làm hoa cắt cành cao cấp và hoa thảm công viên.",
+      "dalatRelation": "Nhờ khí hậu mát lạnh của Đà Lạt, các giống mõm sói cắt cành (nhóm Potomac, Admiral) vươn cao tới 80–120 cm với chuỗi hoa dài thẳng tắp, rất được ưa chuộng trên thị trường hoa tươi.",
+      "shortIntro": "Những chuỗi hoa vươn cao kiêu hãnh với hình dáng độc đáo như chiếc đầu rồng nhỏ nhắn, rực rỡ sắc xuân trên các luống hoa Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống một năm hoặc vài năm, cao 30–120 cm tùy nhóm giống (lùn trồng thảm hay cao cắt cành). Lá đơn hình mác hẹp mọc đối ở gốc và mọc so le ở phần ngọn. Cụm hoa dạng bông dài ở đỉnh thân; tràng hoa đối xứng hai bên, chia hai môi khép kín như miệng rồng/sói, khi bóp nhẹ hai bên hông hoa sẽ mở ra.",
+      "colorsAndVariants": "Vàng tươi, hồng phấn, đỏ nhung, cam đào, trắng tuyết, tím lavender và các giống hai màu (bicolor).",
+      "climate": "Ưa khí hậu mát lạnh mùa xuân và mùa đông cao nguyên.",
+      "light": "Ưa sáng hoàn toàn để cành hoa cứng chắc và khoảng cách giữa các bông trên chuỗi hoa khít đẹp.",
+      "temperature": "Nhiệt độ tối ưu 12–22°C; chịu được sương giá nhẹ.",
+      "soil": "Đất tơi xốp, giàu hữu cơ, thoát nước tốt, độ pH 6.0 – 7.0.",
+      "watering": "Tưới nhỏ giọt vào gốc giữ ẩm đều; tránh tưới phun mưa mạnh làm nghiêng ngả cành hoa.",
+      "fertilizing": "Bón NPK cân đối kết hợp Canxi-Bo để ngồng hoa thẳng, không bị cong đầu ngọn.",
+      "propagation": "Gieo hạt (hạt rất nhỏ như bụi, cần trộn cát mịn khi gieo và không lấp đất dày).",
+      "floweringCare": "Căng lưới đỡ thân đối với giống cao cắt cành; tuyệt đối không đặt cành hoa mõm sói nằm ngang sau khi cắt vì ngọn hoa có tính hướng địa âm (negative gravitropism) sẽ tự uốn cong ngược lên trời chỉ sau vài giờ.",
+      "pestsAndDiseases": "Bệnh rỉ sắt (Puccinia antirrhini), nấm sương mai, bọ trĩ và rệp muội.",
+      "dalatSeason": "Nở rộ nhất vào mùa Đông – Xuân (tháng 12 đến tháng 5) tại Đà Lạt.",
+      "interestingFacts": "Trong tự nhiên, cấu trúc 'miệng khép kín' của hoa mõm sói được thiết kế chuyên biệt cho ong nghệ (bumblebee): chỉ những chú ong đủ nặng đậu lên môi dưới mới làm hoa mở ra để thụ phấn.",
+      "landscapeAndCulture": "Biểu tượng của sức mạnh nội tâm, sự duyên dáng và nét độc đáo cá tính trong nghệ thuật cắm hoa.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Antirrhinum majus L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:799335-1"
+        },
+        {
+          "title": "Wikimedia Commons – Antirrhinum majus",
+          "url": "https://commons.wikimedia.org/wiki/File:Yellow-Snapdragon-Flower(Antirrhinum_majus)_03.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-013",
+        "FL-011",
+        "FL-008",
+        "FL-018"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellow-Snapdragon-Flower%28Antirrhinum_majus%29_03.jpg?width=1000",
+          "caption": "Chuỗi hoa Mõm sói vàng (Antirrhinum majus) vươn thẳng rực rỡ (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellow-Snapdragon-Flower%28Antirrhinum_majus%29_03.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-mom-soi-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antirrhinum_majus_%28423941477%29.jpg?width=1000",
+          "caption": "Hoa Mõm sói sắc hồng tím dịu dàng (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antirrhinum_majus_%28423941477%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-mom-soi-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-018",
+      "slug": "hoa-da-yen-thao",
+      "code": "AN-018",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa dạ yến thảo",
+      "otherNames": "Dạ yên thảo Đà Lạt, Petunia",
+      "scientificName": "Petunia × atkinsiana (Sweet) D.Don ex W.H.Baxter (thường gọi trong nghề làm vườn là Petunia × hybrida)",
+      "taxonomyLevel": "Loài lai trồng trọt (Cultivated Hybrid Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Solanaceae (Họ Cà)",
+      "genus": "Petunia (Chi Dạ yến thảo)",
+      "origin": "Nam Mỹ (lai giữa P. axillaris và P. integrifolia); được trồng phổ biến khắp các ban công, giỏ treo, cầu thang và tháp hoa đường phố Đà Lạt.",
+      "dalatRelation": "Nữ hoàng của các giỏ hoa treo và thảm hoa cảnh quan tại chợ Đà Lạt, quảng trường Lâm Viên, Vườn hoa Thành phố và các quán cà phê săn mây.",
+      "shortIntro": "Những suối hoa hình chuông mềm mại rủ xuống từ ban công và hiên nhà gỗ, tô điểm sắc màu rực rỡ cho từng góc phố Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-he",
+        "hoa-trong-chau",
+        "hoa-vuon"
+      ],
+      "morphology": "Cây thân thảo ngắn ngày, phân cành sát gốc tạo bụi tròn (Dạ yến thảo đứng – Grandiflora/Multiflora) hoặc buông rủ dài 40–80 cm (Dạ yến thảo rủ – Wave/Surfinia). Thân và lá đơn phủ lông tơ hơi dính. Hoa hình phễu loa kèn đường kính 5–10 cm, cánh đơn hoặc cánh kép gợn sóng.",
+      "colorsAndVariants": "Tím nhung, hồng sen, đỏ tươi, trắng tuyết, xanh tím viền trắng (Night Sky / Picotee), sọc ngôi sao hai màu.",
+      "climate": "Ưa khí hậu mát mẻ, khô ráo và nhiều ánh nắng của Đà Lạt.",
+      "light": "Ưa nắng trực tiếp (6–8 giờ/ngày); thiếu nắng cây sẽ vươn dài cành và rất ít hoa.",
+      "temperature": "Nhiệt độ tối ưu 15–25°C; phát triển tốt quanh năm tại Đà Lạt nếu được che mưa lớn.",
+      "soil": "Giá thể trồng chậu nhẹ, tơi xốp: xơ dừa + phân trùn quế + trấu hun + đá perlite, thoát nước nhanh, độ pH 5.5 – 6.3.",
+      "watering": "Tưới đều đặn mỗi sáng vào gốc giá thể; cánh hoa dạ yến thảo rất mỏng nên cần tránh tưới nước mạnh trực tiếp lên mặt hoa.",
+      "fertilizing": "Bón thúc phân NPK hòa tan (20-20-20 hoặc 15-30-15) định kỳ 7–10 ngày/lần để duy trì mật độ hoa dày kín chậu.",
+      "propagation": "Gieo hạt (hạt bọc viên pelleted seeds) hoặc giâm ngọn đối với các giống Surfinia/kép.",
+      "floweringCare": "Ngắt bỏ các bông hoa đã héo (deadheading) cùng bầu quả non để cây không mất sức nuôi hạt mà liên tục bật nụ mới.",
+      "pestsAndDiseases": "Bệnh thối gốc và mốc xám (Botrytis) khi gặp mưa dầm; rệp muội và bọ phấn trắng trên lá dính.",
+      "dalatSeason": "Nở quanh năm trong nhà màng và hiên có mái che; rực rỡ nhất ngoài trời từ tháng 12 đến tháng 6.",
+      "interestingFacts": "Lá và thân dạ yến thảo tiết ra một lớp dịch hơi dính trên lông tơ giúp cây tự bảo vệ trước một số loài côn trùng nhỏ.",
+      "landscapeAndCulture": "Biểu tượng của sự bình yên, ấm áp, hiếu khách và vẻ đẹp lãng mạn nơi hiên nhà phố núi.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Petunia × atkinsiana",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:817257-1"
+        },
+        {
+          "title": "Wikimedia Commons – Petunia × atkinsiana",
+          "url": "https://commons.wikimedia.org/wiki/File:Petunia_(Petunia_×atkinsiana).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-019",
+        "FL-020",
+        "FL-011",
+        "FL-017"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petunia_%28Petunia_%C3%97atkinsiana%29.jpg?width=1000",
+          "caption": "Hoa Dạ yến thảo (Petunia × atkinsiana) sắc tím nhung rực rỡ (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petunia_%28Petunia_%C3%97atkinsiana%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-da-yen-thao-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petunia_-_Kolkata_2010-11-06_7833.JPG?width=1000",
+          "caption": "Thảm hoa Dạ yến thảo khoe sắc dưới ánh nắng (Ảnh thật: J.M.Garg / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petunia_-_Kolkata_2010-11-06_7833.JPG",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-da-yen-thao-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-019",
+      "slug": "hoa-thu-hai-duong",
+      "code": "AN-019",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa thu hải đường",
+      "otherNames": "Thu hải đường Đà Lạt, Hải đường cánh kép, Wax Begonia, Tuberous Begonia",
+      "scientificName": "Chi Begonia L. (phổ biến tại Đà Lạt gồm Begonia × tuberhybrida, B. × hiemalis và B. cucullata)",
+      "taxonomyLevel": "Chi & Nhóm giống lai (Genus & Hybrid Groups – không gán một tên loài duy nhất)",
+      "verificationStatus": "Đã xác minh cấp Chi & các nhóm giống trồng tại Đà Lạt",
+      "family": "Begoniaceae (Họ Thu hải đường)",
+      "genus": "Begonia (Chi Thu hải đường)",
+      "origin": "Vùng nhiệt đới và cận nhiệt đới ẩm châu Mỹ, châu Á và châu Phi; các dòng thu hải đường cánh kép hoa hồng (Rieger / Tuberhybrida) phát triển tuyệt đẹp tại Đà Lạt.",
+      "dalatRelation": "Được trồng nhiều trong các khu vườn nghệ thuật, nhà kính hoa chậu Đà Lạt và rừng ẩm Langbiang (nơi cũng có các loài thu hải đường rừng bản địa).",
+      "shortIntro": "Thân thảo mọng nước mang những đóa hoa kép xếp lớp lộng lẫy như hoa hồng, tỏa sáng trong những góc vườn râm mát ẩm sương Đà Lạt.",
+      "collections": [
+        "hoa-mua-he",
+        "hoa-mua-thu",
+        "hoa-trong-chau",
+        "hoa-vuon"
+      ],
+      "morphology": "Cây thân thảo mọng nước, cao 20–50 cm, có thân củ ngầm hoặc thân rễ. Lá đơn mọc so le, đặc trưng sinh học nổi bật là phiến lá lệch (không đối xứng hai bên gân chính), mép có răng cưa, màu xanh bóng hoặc đỏ đồng. Hoa đơn tính cùng gốc; hoa đực thường lớn và nhiều cánh kép rực rỡ như hoa hồng hoặc hoa trà, hoa cái nhỏ hơn có bầu nhụy 3 cánh ở dưới.",
+      "colorsAndVariants": "Đỏ nhung, cam rực, vàng tươi, hồng phấn, trắng viền hồng; gồm nhóm Thu hải đường hoa hồng (Rieger/Elatior), Thu hải đường củ rủ (Pendula) và Thu hải đường lá đồng trồng thảm.",
+      "climate": "Ưa khí hậu mát ẩm, râm mát nhẹ của cao nguyên Đà Lạt.",
+      "light": "Ưa bóng bán phần hoặc ánh sáng tán xạ dịu (30–50%); chỉ nhóm lá đồng trồng thảm (B. cucullata) chịu được nắng nhiều hơn.",
+      "temperature": "Nhiệt độ tối ưu 15–22°C; sợ nắng nóng khô hạn và sương giá.",
+      "soil": "Giá thể cực kỳ tơi xốp, giàu mùn hữu cơ nhưng thoát nước tốt: dớn vụn + xơ dừa + phân trùn quế + đá perlite, độ pH 5.5 – 6.2.",
+      "watering": "Tưới giữ ẩm vừa phải vào gốc; thân thu hải đường rất mọng nước nên nếu tưới quá sũng sẽ dễ bị thối nhũn gốc.",
+      "fertilizing": "Bón phân NPK loãng (15-15-15 hoặc 10-30-20) định kỳ 2 tuần/lần.",
+      "propagation": "Giâm lá, giâm đoạn cành, tách củ hoặc gieo hạt.",
+      "floweringCare": "Đặt chậu nơi hiên nhà thoáng mát, có ánh sáng ban mai; ngắt bỏ các hoa đực đã tàn để tránh nấm mốc lây sang lá.",
+      "pestsAndDiseases": "Bệnh phấn trắng (Oidium begoniae), bệnh thối thân gốc do nấm Pythium/Botrytis khi ẩm độ quá cao và thiếu thông gió.",
+      "dalatSeason": "Nở rải rác quanh năm tại Đà Lạt, đẹp nhất từ mùa hè sang mùa thu và dịp Tết.",
+      "interestingFacts": "Hình dáng lá bất đối xứng (một bên to, một bên nhỏ) của chi Begonia là dấu hiệu nhận diện thực vật học đặc trưng giúp phân biệt ngay với các họ cây khác.",
+      "landscapeAndCulture": "Biểu tượng của sự tinh tế, phú quý, hòa thuận và vẻ đẹp e ấp nơi hiên nhà.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Begonia L.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327029-2"
+        },
+        {
+          "title": "Wikimedia Commons – Begonia tuberous & semperflorens",
+          "url": "https://commons.wikimedia.org/wiki/File:Begonia_sp._(tuberous_begonia)_(Newark,_Ohio,_USA)_3_(42586326714).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-018",
+        "FL-020",
+        "FL-004",
+        "FL-005"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Begonia_sp._%28tuberous_begonia%29_%28Newark%2C_Ohio%2C_USA%29_3_%2842586326714%29.jpg?width=1000",
+          "caption": "Hoa Thu hải đường cánh kép (Begonia × tuberhybrida) lộng lẫy như đóa hồng (Ảnh thật: James St. John / Wikimedia Commons, CC BY 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Begonia_sp._%28tuberous_begonia%29_%28Newark%2C_Ohio%2C_USA%29_3_%2842586326714%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-thu-hai-duong-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Begonia_Semperflorens%22.jpg?width=1000",
+          "caption": "Thu hải đường đơn (Begonia cucullata / semperflorens) trồng thảm và chậu cảnh (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Begonia_Semperflorens%22.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-thu-hai-duong-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-020",
+      "slug": "hoa-pansy",
+      "code": "AN-020",
+      "isCore20": true,
+      "bannerFeatured": false,
+      "name": "Hoa pansy",
+      "otherNames": "Hoa Păng-xê, Hoa Bướm, Hoa Tư tưởng Đà Lạt, Garden Pansy",
+      "scientificName": "Viola × wittrockiana Gams (lai tạo từ Viola tricolor L. và các loài cùng chi)",
+      "taxonomyLevel": "Loài lai trồng trọt (Cultivated Hybrid Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Violaceae (Họ Hoa tím)",
+      "genus": "Viola (Chi Hoa tím / Păng-xê)",
+      "origin": "Châu Âu; được người Pháp đưa vào Đà Lạt (tên tiếng Pháp là Pensée, đọc âm Việt thành Păng-xê, dịch nghĩa là 'Hoa Tư tưởng').",
+      "dalatRelation": "Loài hoa gắn liền với văn hóa và ký ức Đà Lạt xưa; thường được trồng thành thảm rực rỡ ở Vườn hoa Thành phố, bồn hoa biệt thự và ép khô trong những trang lưu bút học trò phố núi.",
+      "shortIntro": "Mỏng manh như cánh bướm nhung đa sắc đậu trên thảm cỏ sương mờ – loài 'hoa tư tưởng' gói trọn nỗi nhớ dịu dàng của Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-trong-chau",
+        "hoa-vuon"
+      ],
+      "morphology": "Cây thân thảo nhỏ nhắn, cao 15–25 cm, mọc thành bụi thấp gọn gàng. Lá đơn hình bầu dục hoặc hình tim, mép khía tai bèo, có lá kèm xẻ thùy lớn ở gốc cuống. Hoa mọc đơn độc trên cuống mảnh vươn từ nách lá; tràng hoa gồm 5 cánh phẳng mịn như nhung (2 cánh trên xếp chồng nhẹ, 2 cánh bên xòe ngang và 1 cánh môi dưới rộng có cựa ngắn phía sau).",
+      "colorsAndVariants": "Nổi tiếng với sự phối hợp 2–3 màu tương phản trên cùng một bông hoa: Tím nhung – vàng – trắng, xanh lam – vàng, đỏ rượu – vàng cam, kèm đốm sẫm ở tâm hoa ('blotch' / khuôn mặt).",
+      "climate": "Ưa khí hậu lạnh mát đặc trưng của mùa đông – xuân Đà Lạt.",
+      "light": "Ưa nắng nhẹ đầy đủ hoặc bóng râm thoáng sáng.",
+      "temperature": "Nhiệt độ tối ưu 10–20°C; chịu lạnh rất giỏi nhưng sẽ ngừng ra hoa nếu trời quá nóng.",
+      "soil": "Đất mùn tơi xốp, giàu dinh dưỡng, giữ ẩm tốt nhưng thoát nước nhanh, độ pH 5.5 – 6.5.",
+      "watering": "Tưới phun sương nhẹ hoặc tưới gốc mỗi sáng để đất luôn ẩm mát.",
+      "fertilizing": "Bón phân hữu cơ ви sinh và NPK 15-30-15 pha loãng định kỳ 10–14 ngày/lần.",
+      "propagation": "Gieo hạt vào mùa thu – đông (tháng 9–11) để cây nở rộ suốt mùa đông sang mùa xuân.",
+      "floweringCare": "Ngắt bỏ các bông hoa đã tàn để ngăn cây kết quả nang, giúp bụi hoa tiếp tục bật nụ mới liên tục suốt 3–4 tháng.",
+      "pestsAndDiseases": "Ốc sên ăn lá và cánh hoa, bệnh đốm lá, thối gốc và nhện đỏ.",
+      "dalatSeason": "Nở rộ từ tháng 11 đến tháng 4 năm sau (đẹp nhất vào dịp Tết và mùa xuân Đà Lạt).",
+      "interestingFacts": "Tên gọi 'Pensée' trong tiếng Pháp có nghĩa là 'suy tư, tưởng nhớ' vì dáng hoa hơi cúi nhẹ như một người đang trầm tư suy ngẫm.",
+      "landscapeAndCulture": "Biểu tượng của sự nhung nhớ, tình cảm sâu lắng và nét duyên thầm của những cuốn sổ lưu bút ép hoa Păng-xê Đà Lạt.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Viola × wittrockiana",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:869516-1"
+        },
+        {
+          "title": "Wikimedia Commons – Viola × wittrockiana",
+          "url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_-_Viola_wittrockiana_Rostock_HBP_2010-06-06.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-018",
+        "FL-019",
+        "FL-014",
+        "FL-016"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellis_perennis_-_Viola_wittrockiana_Rostock_HBP_2010-06-06.jpg?width=1000",
+          "caption": "Thảm hoa Pansy / Păng-xê (Viola × wittrockiana) khoe sắc như đàn bướm nhung (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_-_Viola_wittrockiana_Rostock_HBP_2010-06-06.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-pansy-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-021",
+      "slug": "hoa-da-quy",
+      "code": "AN-021",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa dã quỳ",
+      "otherNames": "Cúc quỳ, Sơn quỳ, Hướng dương dại Đà Lạt, Mexican Sunflower",
+      "scientificName": "Tithonia diversifolia (Hemsl.) A.Gray",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Asteraceae (Họ Cúc)",
+      "genus": "Tithonia (Chi Cúc quỳ)",
+      "origin": "Trung Mỹ và Mexico; du nhập vào Tây Nguyên từ đầu thế kỷ 20 và mọc hoang dã thành những triền đồi vàng rực quanh Đà Lạt.",
+      "dalatRelation": "Sứ giả báo hiệu mùa khô nắng lạnh Tây Nguyên; nở vàng rực trên cung đường Cầu Đất – Dran, đèo Prenn, Tà Nung, Tu Tra – Đơn Dương và sân bay Cam Ly.",
+      "shortIntro": "Sắc vàng hoang dã thắp lửa trên khắp các triền đồi mỗi độ tháng Mười Một, gọi mùa nắng lạnh đầu đông về với Đà Lạt.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-thu",
+        "hoa-mua-dong",
+        "hoa-dai"
+      ],
+      "morphology": "Cây bụi thân thảo lớn hóa gỗ ở gốc, cao 1,5–3 m. Lá đơn to bản xẻ 3–5 thùy sâu, có lông nhám và vị đắng. Cụm hoa đầu đường kính 8–12 cm gồm 10–14 cánh hoa hình lưỡi màu vàng cam rực rỡ.",
+      "colorsAndVariants": "Vàng cam rực rỡ đặc trưng.",
+      "climate": "Ưa khí hậu cao nguyên, chịu hạn và đất đồi nghèo dinh dưỡng rất tốt.",
+      "light": "Ưa sáng hoàn toàn.",
+      "temperature": "Nhiệt độ tối ưu 15–26°C.",
+      "soil": "Thích nghi mọi loại đất đồi bazan, đất sỏi đá thoát nước.",
+      "watering": "Sống tự nhiên nhờ nước mưa và sương đêm.",
+      "fertilizing": "Không cần bón phân; thân lá dã quỳ còn là nguồn phân xanh giàu Kali và Lân rất tốt cho đất.",
+      "propagation": "Giâm đoạn thân bánh tẻ hoặc phát tán bằng hạt.",
+      "floweringCare": "Thời điểm ngắm hoa dã quỳ đẹp nhất trong ngày là khoảng 8h30 – 10h00 sáng khi sương vừa tan và nắng mới lên.",
+      "pestsAndDiseases": "Rất khỏe mạnh, hầu như không bị sâu bệnh hại.",
+      "dalatSeason": "Nở rộ từ cuối tháng 10 đến cuối tháng 11 hằng năm.",
+      "interestingFacts": "Người Pháp ban đầu trồng dã quỳ tại Lâm Đồng để làm cây phân xanh cải tạo đất cho các đồn điền cà phê và chè.",
+      "landscapeAndCulture": "Biểu tượng của sức sống mãnh liệt, kiêu hãnh và tình yêu mãnh liệt nơi núi rừng Tây Nguyên.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Tithonia diversifolia",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:255956-2"
+        },
+        {
+          "title": "Wikimedia Commons – Tithonia diversifolia",
+          "url": "https://commons.wikimedia.org/wiki/File:Tithonia_diversifolia.JPG"
+        }
+      ],
+      "similarFlowers": [
+        "FL-015",
+        "FL-003",
+        "FL-009"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tithonia_diversifolia.JPG?width=1000",
+          "caption": "Hoa Dã quỳ (Tithonia diversifolia) bung nở vàng rực dưới nắng thu đông (Ảnh thật: Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tithonia_diversifolia.JPG",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-da-quy-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-022",
+      "slug": "hoa-chum-ot",
+      "code": "AN-022",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa chùm ớt (Rạng đông)",
+      "otherNames": "Hoa xác pháo dây, Hoa rạng đông Đà Lạt, Flamevine, Orange Trumpetvine",
+      "scientificName": "Pyrostegia venusta (Ker Gawl.) Miers",
+      "taxonomyLevel": "Loài xác định (Species)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Bignoniaceae (Họ Chùm ớt / Đinh)",
+      "genus": "Pyrostegia (Chi Chùm ớt)",
+      "origin": "Nam Mỹ (Brazil, Paraguay, Argentina); được trồng làm hàng rào và cổng hoa leo khắp các biệt thự, con dốc Đà Lạt.",
+      "dalatRelation": "Mỗi dịp đông – xuân, những bức tường hoa chùm ớt đỏ cam rực lửa trên đường Phù Đổng Thiên Vương, Trần Hưng Đạo, Hùng Vương trở thành nét chấm phá kiến trúc đặc trưng của Đà Lạt.",
+      "shortIntro": "Những thác hoa màu cam lửa buông rủ ấm áp trên mái ngói và cổng rào biệt thự cổ giữa sương lạnh mùa đông Đà Lạt.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-leo"
+      ],
+      "morphology": "Dây leo thân gỗ khỏe, leo bám bằng tua cuốn chia 3 nhánh ở đầu lá kép. Hoa mọc thành chùm dày đặc ở nách lá; mỗi bông hình ống hẹp dài 5–7 cm hơi cong giống quả ớt nhỏ, đỉnh chia 5 thùy uốn ngược ra sau.",
+      "colorsAndVariants": "Cam lửa (đỏ cam rực rỡ).",
+      "climate": "Ưa khí hậu cao nguyên mát mẻ, nhiều nắng.",
+      "light": "Ưa sáng hoàn toàn để ra hoa phủ kín giàn.",
+      "temperature": "Nhiệt độ tối ưu 14–25°C.",
+      "soil": "Đất đỏ bazan hoặc đất thịt thoát nước tốt.",
+      "watering": "Tưới trung bình; giảm tưới vào cuối thu để kích thích ra hoa rộ.",
+      "fertilizing": "Bón phân hữu cơ và NPK giàu Lân-Kali định kỳ vào mùa thu.",
+      "propagation": "Giâm cành bánh tẻ hoặc chiết cành.",
+      "floweringCare": "Cắt tỉa gọn các nhánh già sau mùa hoa xuân để giàn thông thoáng và đâm chồi mới.",
+      "pestsAndDiseases": "Rất ít sâu bệnh hại.",
+      "dalatSeason": "Nở rộ từ tháng 12 đến tháng 3 năm sau.",
+      "interestingFacts": "Tên chi Pyrostegia ghép từ tiếng Hy Lạp 'Pyros' (lửa) và 'Stege' (mái nhà), nghĩa là 'mái nhà rực lửa' khi cây nở hoa phủ kín mái hiên.",
+      "landscapeAndCulture": "Biểu tượng của sự ấm áp, sum vầy, may mắn và rạng rỡ ngày đầu năm mới.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Pyrostegia venusta",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110412-1"
+        },
+        {
+          "title": "Wikimedia Commons – Pyrostegia venusta",
+          "url": "https://commons.wikimedia.org/wiki/File:Pyrostegia_venusta,_bignonia_de_invierno,_liana_de_fuego_o_trompetero_naranja.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-005",
+        "FL-001",
+        "FL-002"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrostegia_venusta%2C_bignonia_de_invierno%2C_liana_de_fuego_o_trompetero_naranja.jpg?width=1000",
+          "caption": "Giàn hoa Chùm ớt / Rạng đông (Pyrostegia venusta) cam rực rỡ (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyrostegia_venusta%2C_bignonia_de_invierno%2C_liana_de_fuego_o_trompetero_naranja.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-chum-ot-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-023",
+      "slug": "hoa-thanh-anh",
+      "code": "AN-023",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa thanh anh",
+      "otherNames": "Hoa Huệ sông Nile, Thanh anh xanh Đà Lạt, Lily of the Nile, African Lily",
+      "scientificName": "Agapanthus africanus (L.) Hoffmanns. (và A. praecox Willd.)",
+      "taxonomyLevel": "Loài & Nhóm loài trồng (Species Group)",
+      "verificationStatus": "Đã xác minh danh pháp & hồ sơ thực vật",
+      "family": "Amaryllidaceae (Họ Thủy tiên)",
+      "genus": "Agapanthus (Chi Thanh anh)",
+      "origin": "Nam Phi; được trồng lâu năm dọc các con dốc, công viên, bờ hồ Xuân Hương và sân vườn biệt thự Đà Lạt.",
+      "dalatRelation": "Loài hoa màu xanh lam tím thanh tao nở rộ dọc các lối đi bộ quanh hồ Xuân Hương, đồi Cù và các khu nghỉ dưỡng Đà Lạt mỗi dịp hè về.",
+      "shortIntro": "Những quả cầu pháo hoa xanh biếc vươn cao trên nền lá xanh mướt bên hồ Xuân Hương, mang vẻ đẹp thanh lịch và bình yên.",
+      "collections": [
+        "hoa-duong-pho",
+        "hoa-mua-he",
+        "hoa-vuon",
+        "hoa-cat-canh"
+      ],
+      "morphology": "Cây thân thảo sống lâu năm có thân rễ mập. Lá hình dải dài 30–60 cm mọc thành bụi dày từ gốc. Cuống hoa tròn thẳng vươn cao 60–100 cm, đỉnh mang một tán giả hình cầu gồm 30–80 bông hoa hình phễu nhỏ xòe đều.",
+      "colorsAndVariants": "Xanh lam tím (phổ biến nhất tại Đà Lạt) và trắng tinh khôi.",
+      "climate": "Ưa khí hậu mát mẻ cao nguyên, sống khỏe ngoài trời quanh năm.",
+      "light": "Ưa sáng hoàn toàn hoặc bóng râm nhẹ.",
+      "temperature": "Nhiệt độ tối ưu 14–24°C.",
+      "soil": "Đất đỏ bazan giàu mùn, thoát nước tốt.",
+      "watering": "Tưới giữ ẩm trung bình; chịu hạn khá tốt khi đã thành bụi lớn.",
+      "fertilizing": "Bón phân hữu cơ và NPK giàu Lân vào đầu mùa xuân để kích thích vươn ngồng hoa mùa hạ.",
+      "propagation": "Tách bụi thân rễ sau mùa hoa.",
+      "floweringCare": "Không nên tách bụi quá thường xuyên vì cây Thanh anh ra hoa sai nhất khi bộ rễ đã đan dày ổn định trong bồn.",
+      "pestsAndDiseases": "Ốc sên hại lá non; rất ít bệnh hại.",
+      "dalatSeason": "Nở rộ từ tháng 5 đến tháng 7 hằng năm.",
+      "interestingFacts": "Tên gọi Agapanthus ghép từ tiếng Hy Lạp 'Agape' (tình yêu) và 'Anthos' (hoa), có nghĩa là 'Đóa hoa của Tình yêu'.",
+      "landscapeAndCulture": "Biểu tượng của tình yêu trong sáng, sự thanh lịch và trí tuệ.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Agapanthus africanus",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:62958-1"
+        },
+        {
+          "title": "Wikimedia Commons – Agapanthus in Kodaikanal",
+          "url": "https://commons.wikimedia.org/wiki/File:Agapanthus_in_Kodaikanal.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-004",
+        "FL-001",
+        "FL-013"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agapanthus_in_Kodaikanal.jpg?width=1000",
+          "caption": "Cụm hoa Thanh anh (Chi Agapanthus) xanh biếc vươn cao trong nắng (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agapanthus_in_Kodaikanal.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/hoa-thanh-anh-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-024",
+      "slug": "lan-hoang-thao",
+      "code": "AN-024",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa lan hoàng thảo (Giả hạc / Phi điệp)",
+      "otherNames": "Lan Hoàng thảo Đà Lạt, Giả hạc, Phi điệp tím, Thủy tiên, Dendrobium Orchid",
+      "scientificName": "Chi Dendrobium Sw. (tiêu biểu: Dendrobium anosmum, D. nobile, D. chrysotoxum, D. farmeri)",
+      "taxonomyLevel": "Chi & Nhóm loài lan rừng cao nguyên (Genus & Native Species Group)",
+      "verificationStatus": "Đã xác minh cấp Chi & các loài bản địa Lâm Đồng",
+      "family": "Orchidaceae (Họ Phong lan)",
+      "genus": "Dendrobium (Chi Hoàng thảo)",
+      "origin": "Bản địa rừng núi Đông Nam Á, đặc biệt phong phú tại hệ sinh thái rừng thông và rừng thường xanh Lâm Đồng – Đà Lạt (Di Linh, Bảo Lộc, Lạc Dương).",
+      "dalatRelation": "Nhóm lan rừng nổi tiếng nhất của cao nguyên Lâm Viên với các dòng Giả hạc Di Linh xuân, Hoàng thảo Thủy tiên, Kim điệp, Đùi gà, Long tu nở rộ mỗi độ xuân về.",
+      "shortIntro": "Suối hoa phong lan rừng buông rủ mềm mại, tỏa hương thơm ngát từ những thân tơ căng mọng giữa núi rừng Lâm Viên.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-lan",
+        "hoa-trong-chau"
+      ],
+      "morphology": "Phong lan đa thân sống phụ sinh trên thân cây gỗ; giả hành dạng thân thòng rủ dài (Giả hạc, Long tu) hoặc thân đứng phình đốt (Đùi gà, Kim điệp). Hoa mọc từ các mắt đốt trên thân đã rụng lá hoặc chùm hoa ở ngọn.",
+      "colorsAndVariants": "Tím hồng cánh sen, trắng đột biến (5 cánh trắng), vàng kim (Kim điệp, Hoàng lạp), trắng họng vàng (Thủy tiên).",
+      "climate": "Ưa khí hậu cao nguyên có mùa khô lạnh rõ rệt để cắt nước làm hoa.",
+      "light": "Ưa sáng 60–70% dưới lưới che, thoáng gió.",
+      "temperature": "Nhiệt độ tối ưu 15–26°C.",
+      "soil": "Ghép trên bảng dớn, khúc gỗ lũa (vú sữa, nhãn) hoặc trồng chậu vỏ thông + than củi.",
+      "watering": "Tưới đẫm mùa mưa (tháng 4–10) khi mầm gốc đang đi ngọn; cắt nước hoặc giảm tưới tối đa vào mùa đông khi thân đã thắt ngọn để kích hoa xuân.",
+      "fertilizing": "Bón phân dê, phân trùn quế túi lưới kết hợp phun NPK 30-10-10 mùa tăng trưởng và 6-30-30 trước khi thắt ngọn.",
+      "propagation": "Tách ki (keiki) trên thân già hoặc nhân giống gieo hạt/cấy mô.",
+      "floweringCare": "Giai đoạn cắt nước mùa đông khoảng 30–45 ngày giúp cây rụng lá và bật nụ hoa đồng loạt dọc thân.",
+      "pestsAndDiseases": "Bệnh thối nhũn mùa mưa, ruồi vàng chích nụ hoa và nhện đỏ.",
+      "dalatSeason": "Nở rộ từ tháng 1 đến tháng 5 hằng năm (tùy loài xuân hay hè).",
+      "interestingFacts": "Dòng Giả hạc (Phi điệp) vùng Di Linh – Đà Lạt nổi tiếng là một trong số ít quần thể Dendrobium anosmum nở hoa đúng vào dịp Tết Nguyên đán (Di Linh Xuân).",
+      "landscapeAndCulture": "Biểu tượng của vẻ đẹp hoang sơ, phóng khoáng và niềm đam mê bảo tồn lan rừng Việt Nam.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Dendrobium Sw.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325991-2"
+        },
+        {
+          "title": "Wikimedia Commons – Dendrobium nobile",
+          "url": "https://commons.wikimedia.org/wiki/File:Dendrobium_nobile_-_flower_view_01.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-006",
+        "FL-007",
+        "FL-025",
+        "FL-026"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dendrobium_nobile_-_flower_view_01.jpg?width=1000",
+          "caption": "Hoa Lan hoàng thảo / Đùi gà (Dendrobium nobile) nở rực rỡ trên các đốt thân (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dendrobium_nobile_-_flower_view_01.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-hoang-thao-1.jpg"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dendrobium_Orchid_vijayanrajapuram_02.jpg?width=1000",
+          "caption": "Chùm hoa thuộc chi Lan hoàng thảo (Dendrobium) (Ảnh thật: Wikimedia Commons, CC BY-SA 4.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dendrobium_Orchid_vijayanrajapuram_02.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-hoang-thao-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-025",
+      "slug": "lan-cattleya",
+      "code": "AN-025",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa lan Cattleya (Cát lan)",
+      "otherNames": "Cát lan Đà Lạt, Nữ hoàng hoa lan, Corsage Orchid",
+      "scientificName": "Chi Cattleya Lindl. (cùng các liên chi lai Brassolaeliocattleya – BLC, RLC)",
+      "taxonomyLevel": "Chi & Liên chi lai (Genus & Intergeneric Hybrids)",
+      "verificationStatus": "Đã xác minh cấp Chi & Nhóm giống trồng tại Đà Lạt",
+      "family": "Orchidaceae (Họ Phong lan)",
+      "genus": "Cattleya (Chi Cát lan)",
+      "origin": "Trung và Nam Mỹ; được giới sưu tầm và nhà vườn Đà Lạt nhân giống, tuyển chọn nhiều mặt hoa đại lộng lẫy.",
+      "dalatRelation": "Được mệnh danh là 'Nữ hoàng của các loài phong lan' trong các hội thi hoa lan tại Vườn hoa Thành phố Đà Lạt nhờ khuôn bông to tới 15–20 cm và hương thơm quyến rũ.",
+      "shortIntro": "Bông hoa khổng lồ với cánh môi viền nhung lộng lẫy và hương thơm nồng nàn – 'Nữ hoàng phong lan' trong các khu vườn sưu tầm Đà Lạt.",
+      "collections": [
+        "hoa-lan",
+        "hoa-trong-chau"
+      ],
+      "morphology": "Phong lan đa thân có giả hành hình chùy mập, đỉnh mang 1 lá (nhóm Cattleya một lá bông đại) hoặc 2 lá (nhóm hai lá bông chùm). Hoa cực lớn mọc từ mèo hoa (sheath) ở đỉnh giả hành mới, cánh môi cuộn ống phía trong và xòe rộng viền đăng ten rực rỡ phía trước.",
+      "colorsAndVariants": "Vàng lưỡi đỏ (Hắc Tùng, đại tân), tím hồng, trắng lưỡi tím, xanh cốm (Green Emerald), cam đỏ.",
+      "climate": "Ưa khí hậu thông thoáng, nhiều nắng sáng và chênh lệch nhiệt ngày đêm của Đà Lạt.",
+      "light": "Ưa ánh sáng khá cao (60% nắng tự nhiên); đủ nắng lá có màu xanh vàng khỏe mạnh và dễ đậu mèo hoa.",
+      "temperature": "Nhiệt độ tối ưu 16–26°C.",
+      "soil": "Giá thể cực kỳ thoáng: vỏ thông to + than củi + đá bọt trong chậu đất nung có nhiều lỗ thoáng.",
+      "watering": "Tưới đẫm rồi để khô thoáng giữa hai lần tưới; rễ Cattleya rất nhạy cảm nếu giá thể bị bí ướt.",
+      "fertilizing": "Bón NPK 20-20-20 luân phiên 10-30-20 và Canxi-Bo khi giả hành mới bắt đầu đứng ngọn và đẩy mèo hoa.",
+      "propagation": "Tách chiết cụm giả hành (tối thiểu 3–4 giả hành/khóm) hoặc nuôi cấy mô.",
+      "floweringCare": "Khi mèo hoa đang ngậm nụ, tránh phun phân thuốc trực tiếp vào mèo để không làm thui nụ.",
+      "pestsAndDiseases": "Bệnh thối đen giả hành (Phytophthora), rệp vảy bám dưới bẹ khô và bọ trĩ.",
+      "dalatSeason": "Ra hoa quanh năm tùy giống theo từng đợt giả hành trưởng thành.",
+      "interestingFacts": "Chi Cattleya được đặt theo tên nhà thực vật học người Anh William Cattley, người đầu tiên chăm sóc thành công loài lan này nở hoa tại châu Âu vào năm 1818.",
+      "landscapeAndCulture": "Biểu tượng của vẻ đẹp quý phái, quyền lực và sức quyến rũ vương giả.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Cattleya Lindl.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001809-2"
+        },
+        {
+          "title": "Wikimedia Commons – Cattleya trianae",
+          "url": "https://commons.wikimedia.org/wiki/File:Cattleya_trianae,_the_national_flower_of_Columbia_(10909657333).jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-006",
+        "FL-007",
+        "FL-024",
+        "FL-026"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cattleya_trianae%2C_the_national_flower_of_Columbia_%2810909657333%29.jpg?width=1000",
+          "caption": "Đóa hoa Lan Cattleya (Cattleya trianae) với cánh môi rực rỡ kiêu sa (Ảnh thật: Wikimedia Commons, CC BY-SA 2.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattleya_trianae%2C_the_national_flower_of_Columbia_%2810909657333%29.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-cattleya-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "FL-026",
+      "slug": "lan-hai",
+      "code": "AN-026",
+      "isCore20": false,
+      "bannerFeatured": false,
+      "name": "Hoa lan hài Đà Lạt",
+      "otherNames": "Lan hài tiên, Hài vân, Hài táo, Slipper Orchid",
+      "scientificName": "Chi Paphiopedilum Pfitzer (tiêu biểu tại Lâm Viên: Paphiopedilum gratrixianum, P. callosum, P. appletonianum)",
+      "taxonomyLevel": "Chi & Các loài đặc hữu cao nguyên (Genus & Native Species)",
+      "verificationStatus": "Đã xác minh cấp Chi & các loài bản địa Lâm Đồng",
+      "family": "Orchidaceae (Họ Phong lan)",
+      "genus": "Paphiopedilum (Chi Lan hài)",
+      "origin": "Đông Nam Á và Nam Trung Quốc; vùng núi cao Langbiang – Bidoup Núi Bà (Đà Lạt, Lâm Đồng) là nơi phân bố tự nhiên của nhiều loài lan hài quý hiếm bậc nhất Việt Nam.",
+      "dalatRelation": "Báu vật sinh học của rừng nguyên sinh Bidoup – Núi Bà và Langbiang (Đà Lạt), được các trung tâm nghiên cứu và nhà vườn Đà Lạt nhân giống bảo tồn.",
+      "shortIntro": "Cánh môi biến đổi thành chiếc hài tiên duyên dáng độc nhất vô nhị – báu vật quý hiếm của rừng già Langbiang – Đà Lạt.",
+      "collections": [
+        "hoa-mua-xuan",
+        "hoa-mua-dong",
+        "hoa-lan",
+        "hoa-trong-chau"
+      ],
+      "morphology": "Địa lan hoặc bán phụ sinh không có giả hành; lá mọc sát gốc xếp hai dãy, nhiều loài có vân cẩm thạch rất đẹp trên mặt lá. Cần hoa mọc từ tâm bụi, mang 1–2 bông hoa kỳ thú với cánh môi biến đổi thành chiếc túi hình chiếc hài bóng lưỡng.",
+      "colorsAndVariants": "Nâu vàng bóng, xanh táo pha tím hồng, trắng hồng (Hài hồng P. delenatii), đốm đen trên lá đài lưng.",
+      "climate": "Ưa khí hậu mát ẩm, râm mát dưới tán rừng núi cao Đà Lạt.",
+      "light": "Ưa bóng râm mát (chỉ cần 20–35% ánh sáng tán xạ).",
+      "temperature": "Nhiệt độ tối ưu 14–22°C.",
+      "soil": "Giá thể giữ ẩm nhưng thoáng khí: đá thấm thủy, đá pumice, vỏ thông vụn, dớn vụn và mùn lá rừng.",
+      "watering": "Giữ ẩm liên tục vì lan hài không có giả hành dự trữ nước; dùng nước sạch ít muối khoáng.",
+      "fertilizing": "Bón phân hữu cơ vi sinh và NPK rất loãng (1/4 liều thông thường) vì rễ lan hài rất nhạy cảm với nồng độ muối cao.",
+      "propagation": "Gieo hạt vô trùng trong phòng thí nghiệm bảo tồn hoặc tách chồi bụi.",
+      "floweringCare": "Chỉ sử dụng nguồn cây nhân giống hợp pháp từ phòng nuôi cấy mô bảo tồn tại Đà Lạt, tuyệt đối không khai thác tận diệt ngoài rừng tự nhiên.",
+      "pestsAndDiseases": "Bệnh thối nõn Erwinia và nấm thối rễ.",
+      "dalatSeason": "Nở từ tháng 11 đến tháng 4 năm sau tùy loài.",
+      "interestingFacts": "Chiếc túi hình chiếc hài là một cơ chế bẫy thụ phấn thông minh mà không làm hại côn trùng: côn trùng rơi vào túi phải bò qua khe hẹp chạm vào nhụy và khối phấn mới thoát ra được.",
+      "landscapeAndCulture": "Biểu tượng của sự kỳ diệu tiến hóa thiên nhiên và ý thức bảo tồn đa dạng sinh học cao nguyên Lâm Viên.",
+      "references": [
+        {
+          "title": "Plants of the World Online (Kew) – Genus Paphiopedilum Pfitzer",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30106201-2"
+        },
+        {
+          "title": "Wikimedia Commons – Paphiopedilum canhii",
+          "url": "https://commons.wikimedia.org/wiki/File:Paphiopedilum_canhii_in_flower_in_situ_1.jpg"
+        }
+      ],
+      "similarFlowers": [
+        "FL-007",
+        "FL-006",
+        "FL-024",
+        "FL-025"
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paphiopedilum_canhii_in_flower_in_situ_1.jpg?width=1000",
+          "caption": "Hoa Lan hài Việt Nam (Chi Paphiopedilum) với cánh môi hình chiếc hài độc đáo (Ảnh thật: Leonid Averyanov / Wikimedia Commons, CC BY-SA 3.0)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paphiopedilum_canhii_in_flower_in_situ_1.jpg",
+          "isRealPhoto": true,
+          "localReplacePath": "assets/images/flowers/lan-hai-1.jpg"
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "hoa-duong-pho",
+      "name": "Hoa đường phố Đà Lạt",
+      "subtitle": "Những cung đường hoa làm nên ký ức phố núi",
+      "seasonNote": "Nở rộ theo mùa trên các tuyến phố, hồ Xuân Hương, dốc đá và sườn đồi Đà Lạt.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Flor_do_jacarand%C3%A1-mimoso_ou_caroba_%28Jacaranda_mimosifolia%2C_D._Don.%29.jpg?width=900",
+      "coverCaption": "Phượng tím (Jacaranda mimosifolia) – Biểu tượng hoa đường phố Đà Lạt",
+      "description": "Tuyển tập những loài hoa gắn liền với không gian đường phố, bờ hồ, triền dốc và hàng rào biệt thự cổ tại Đà Lạt.",
+      "flowerIds": [
+        "FL-001",
+        "FL-002",
+        "FL-003",
+        "FL-004",
+        "FL-021",
+        "FL-022",
+        "FL-023"
+      ]
+    },
+    {
+      "id": "hoa-mua-xuan",
+      "name": "Hoa mùa xuân",
+      "subtitle": "Tháng 1 – Tháng 4 (Tham khảo theo khí hậu & giống trồng)",
+      "seasonNote": "Mùa xuân Đà Lạt se lạnh, nắng trong veo, là thời điểm trăm hoa khai nở rực rỡ nhất.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_cerasoides-2-coonoor-ooty-India.jpg?width=900",
+      "coverCaption": "Mai anh đào (Prunus cerasoides) nhuộm hồng trời xuân Đà Lạt",
+      "description": "Các loài hoa nở rộ vào dịp Tết Nguyên đán và đầu xuân tại cao nguyên Lâm Viên (tháng 1 đến tháng 4).",
+      "flowerIds": [
+        "FL-001",
+        "FL-002",
+        "FL-005",
+        "FL-006",
+        "FL-007",
+        "FL-008",
+        "FL-014",
+        "FL-017",
+        "FL-018",
+        "FL-020",
+        "FL-022"
+      ]
+    },
+    {
+      "id": "hoa-mua-he",
+      "name": "Hoa mùa hè",
+      "subtitle": "Tháng 5 – Tháng 7 (Tham khảo theo khí hậu & giống trồng)",
+      "seasonNote": "Những cơn mưa đầu mùa tưới mát cao nguyên, đánh thức cẩm tú cầu, oải hương và thạch thảo.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Hydrangea_macrophylla_2021.1.jpg?width=900",
+      "coverCaption": "Cẩm tú cầu (Hydrangea macrophylla) bung nở trong sương mưa mùa hạ",
+      "description": "Những loài hoa khoe sắc rực rỡ dưới nắng nhẹ và mưa phùn mùa hạ trên cao nguyên Đà Lạt.",
+      "flowerIds": [
+        "FL-004",
+        "FL-005",
+        "FL-010",
+        "FL-011",
+        "FL-013",
+        "FL-015",
+        "FL-016",
+        "FL-018",
+        "FL-019",
+        "FL-023"
+      ]
+    },
+    {
+      "id": "hoa-mua-thu",
+      "name": "Hoa mùa thu",
+      "subtitle": "Tháng 8 – Tháng 10 (Tham khảo theo khí hậu & giống trồng)",
+      "seasonNote": "Sương thu bảng lảng cùng sắc vàng dã quỳ chớm nở, hoa cúc, hoa bất tử và hồng cổ Đà Lạt.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Xerochrysum_Bracteatum_Flower.jpg?width=900",
+      "coverCaption": "Hoa bất tử (Xerochrysum bracteatum) giữ nguyên sắc màu qua nắng gió cao nguyên",
+      "description": "Bộ sưu tập các loài hoa mang vẻ đẹp trầm lắng, lãng mạn của mùa thu phố núi Đà Lạt.",
+      "flowerIds": [
+        "FL-003",
+        "FL-004",
+        "FL-005",
+        "FL-009",
+        "FL-012",
+        "FL-016",
+        "FL-019",
+        "FL-021"
+      ]
+    },
+    {
+      "id": "hoa-mua-dong",
+      "name": "Hoa mùa đông",
+      "subtitle": "Tháng 11 – Tháng 12 (Tham khảo theo khí hậu & giống trồng)",
+      "seasonNote": "Mùa lập đông se sắt với mimosa vàng óng, dã quỳ rực cháy, địa lan và các loài hoa ôn đới.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Acacia_podalyriifolia_flowers_7th_Brigade_Park%2C_Chermside_IMGP5385.jpg?width=900",
+      "coverCaption": "Hoa Mimosa (Acacia podalyriifolia) vàng óng ánh trong nắng lạnh mùa đông",
+      "description": "Những loài hoa chịu lạnh tuyệt đẹp làm ấm lòng du khách giữa tiết trời đông Đà Lạt.",
+      "flowerIds": [
+        "FL-003",
+        "FL-006",
+        "FL-007",
+        "FL-008",
+        "FL-009",
+        "FL-012",
+        "FL-014",
+        "FL-015",
+        "FL-020",
+        "FL-021",
+        "FL-022"
+      ]
+    },
+    {
+      "id": "hoa-lan",
+      "name": "Hoa lan",
+      "subtitle": "Vương quốc lan hồ điệp, địa lan và lan rừng cao nguyên",
+      "seasonNote": "Đà Lạt là thủ phủ hoa lan công nghệ cao và nơi bảo tồn hàng trăm loài lan quý.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cymbidium_c.v._orchid_%2849368844677%29.jpg?width=900",
+      "coverCaption": "Địa lan Đà Lạt (Chi Cymbidium) – Nữ hoàng thanh tao của núi rừng Lâm Viên",
+      "description": "Tổng hợp các nhóm và loài hoa lan tiêu biểu tại Đà Lạt: từ Lan hồ điệp, Địa lan Cymbidium đến Lan hoàng thảo, Cattleya và Lan hài.",
+      "flowerIds": [
+        "FL-006",
+        "FL-007",
+        "FL-024",
+        "FL-025",
+        "FL-026"
+      ]
+    },
+    {
+      "id": "hoa-trong-chau",
+      "name": "Hoa trồng chậu",
+      "subtitle": "Các loài hoa lý tưởng cho ban công, hiên nhà & sân vườn nhỏ",
+      "seasonNote": "Thích hợp trồng chậu sứ, giỏ treo hoặc bồn cửa sổ.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Petunia_%28Petunia_%C3%97atkinsiana%29.jpg?width=900",
+      "coverCaption": "Dạ yến thảo (Petunia × atkinsiana) rủ mềm mại trên các ban công Đà Lạt",
+      "description": "Những loài hoa có dáng gọn, sai hoa, rất được ưa chuộng để trồng chậu trang trí hiên nhà, quán cà phê và ban công.",
+      "flowerIds": [
+        "FL-006",
+        "FL-007",
+        "FL-010",
+        "FL-014",
+        "FL-018",
+        "FL-019",
+        "FL-020",
+        "FL-024",
+        "FL-025",
+        "FL-026"
+      ]
+    },
+    {
+      "id": "hoa-leo",
+      "name": "Hoa leo",
+      "subtitle": "Những bức tường hoa và cổng rào thơ mộng phố núi",
+      "seasonNote": "Tạo vòm cổng, hàng rào biệt thự và giàn che nắng nghệ thuật.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrostegia_venusta%2C_bignonia_de_invierno%2C_liana_de_fuego_o_trompetero_naranja.jpg?width=900",
+      "coverCaption": "Chùm ớt / Rạng đông (Pyrostegia venusta) phủ sắc cam rực rỡ trên mái cổng Đà Lạt",
+      "description": "Các loài hoa thân leo hoặc bán leo tạo nên những hàng rào hoa hồng, giàn chùm ớt rực lửa đặc trưng của kiến trúc biệt thự Đà Lạt.",
+      "flowerIds": [
+        "FL-005",
+        "FL-022"
+      ]
+    },
+    {
+      "id": "hoa-vuon",
+      "name": "Hoa vườn",
+      "subtitle": "Cánh đồng hoa và thảm hoa cảnh quan đặc sắc",
+      "seasonNote": "Trồng thành luống, thảm lớn tại các công viên, nông trại và khu du lịch sinh thái.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lavandula_angustifolia_001.JPG?width=900",
+      "coverCaption": "Cánh đồng hoa Oải hương (Chi Lavandula) tím biếc bên hồ Tuyền Lâm",
+      "description": "Những loài hoa trồng thành luống, thảm hoa và cánh đồng cảnh quan nổi tiếng tại Vườn hoa Thành phố Đà Lạt và các thung lũng hoa.",
+      "flowerIds": [
+        "FL-004",
+        "FL-005",
+        "FL-011",
+        "FL-012",
+        "FL-013",
+        "FL-014",
+        "FL-015",
+        "FL-016",
+        "FL-017",
+        "FL-018",
+        "FL-019",
+        "FL-020",
+        "FL-023"
+      ]
+    },
+    {
+      "id": "hoa-dai",
+      "name": "Hoa dại",
+      "subtitle": "Vẻ đẹp mộc mạc, hoang sơ của thảo nguyên và đồi thông",
+      "seasonNote": "Mọc tự nhiên hoặc bán tự nhiên ven đèo, sườn đồi và thung lũng Đà Lạt.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tithonia_diversifolia.JPG?width=900",
+      "coverCaption": "Dã quỳ (Tithonia diversifolia) – Loài hoa dại báo hiệu mùa nắng lạnh Tây Nguyên",
+      "description": "Những loài hoa mang sức sống mãnh liệt, mọc tự nhiên dọc các cung đèo Prenn, Mimosa, Tà Nung và triền đồi thông Đà Lạt.",
+      "flowerIds": [
+        "FL-003",
+        "FL-021"
+      ]
+    },
+    {
+      "id": "hoa-cat-canh",
+      "name": "Hoa dùng để cắt cành",
+      "subtitle": "Thủ phủ hoa thương phẩm chất lượng cao của Việt Nam",
+      "seasonNote": "Được canh tác trong nhà kính và nông trại Đà Lạt, cung cấp hoa tươi quanh năm.",
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilium_longiflorum.jpg?width=900",
+      "coverCaption": "Hoa ly (Chi Lilium) – Một trong những dòng hoa cắt cành chủ lực của Đà Lạt",
+      "description": "Đà Lạt là trung tâm sản xuất hoa cắt cành lớn nhất cả nước với hoa hồng, hoa ly, hoa cúc, đồng tiền, cẩm chướng, mõm sói, thạch thảo...",
+      "flowerIds": [
+        "FL-004",
+        "FL-005",
+        "FL-007",
+        "FL-008",
+        "FL-009",
+        "FL-010",
+        "FL-011",
+        "FL-012",
+        "FL-015",
+        "FL-016",
+        "FL-017",
+        "FL-023"
+      ]
+    }
+  ],
+  "supplementaryPlants": [
+    {
+      "id": "SUP-001",
+      "code": "AN-041",
+      "groupId": "cay-canh",
+      "groupName": "Cây cảnh Đà Lạt",
+      "name": "Tùng bách tán Đà Lạt",
+      "scientificName": "Araucaria heterophylla (Salisb.) Franco",
+      "family": "Araucariaceae (Họ Bách tán)",
+      "shortIntro": "Cây thân gỗ dáng tháp đối xứng uy nghi gắn liền với các khuôn viên biệt thự cổ Pháp và dinh thự tại Đà Lạt.",
+      "dalatRelation": "Trồng phổ biến tại Dinh I, Dinh II, Dinh III, Trường Cao đẳng Sư phạm Đà Lạt và quanh hồ Xuân Hương.",
+      "careSummary": "Ưa nắng và khí hậu mát mẻ cao nguyên, đất bazan thoát nước tốt, không chịu ngập úng.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261677-1"
+    },
+    {
+      "id": "SUP-002",
+      "code": "AN-042",
+      "groupId": "cay-canh",
+      "groupName": "Cây cảnh Đà Lạt",
+      "name": "Phong lá đỏ Đà Lạt (Thích lá đỏ)",
+      "scientificName": "Acer palmatum Thunb. / Acer campbellii Hook.f. & Thomson ex Hiern",
+      "family": "Sapindaceae (Họ Bồ hòn)",
+      "shortIntro": "Tán lá xẻ thùy hình bàn tay chuyển sắc vàng cam và đỏ thẫm mỗi độ thu – đông bên bờ hồ Tuyền Lâm.",
+      "dalatRelation": "Cả loài bản địa rừng núi Langbiang – Bidoup (Acer campbellii) và loài nhập nội cảnh quan (Acer palmatum) đều tạo dấu ấn đặc sắc tại Đà Lạt.",
+      "careSummary": "Ưa khí hậu lạnh mát, đất giàu mùn hơi chua, tránh gió khô nóng.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/Category:Acer_palmatum"
+    },
+    {
+      "id": "SUP-003",
+      "code": "AN-043",
+      "groupId": "cay-canh",
+      "groupName": "Cây cảnh Đà Lạt",
+      "name": "Sen đá & Xương rồng Đà Lạt",
+      "scientificName": "Họ Crassulaceae (Chi Echeveria, Sedum, Graptopetalum) & Cactaceae",
+      "family": "Crassulaceae / Cactaceae",
+      "shortIntro": "Những đài lá mọng nước xếp xoáy như đóa hoa sen ngọc bích, lên màu viền đỏ hồng tuyệt đẹp nhờ nắng lạnh cao nguyên.",
+      "dalatRelation": "Đà Lạt là vương quốc nhân giống sen đá lớn nhất Việt Nam với hàng trăm biến thể màu sắc.",
+      "careSummary": "Giá thể đá bọt (pumice, perlite, akadama) thoát nước hoàn toàn, nhiều nắng dịu và thông gió.",
+      "verificationStatus": "Đã xác minh nhóm họ/chi",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004628-2"
+    },
+    {
+      "id": "SUP-004",
+      "code": "AN-044",
+      "groupId": "cay-canh",
+      "groupName": "Cây cảnh Đà Lạt",
+      "name": "Đỗ quyên cao nguyên",
+      "scientificName": "Chi Rhododendron L. (bao gồm Rhododendron simsii & R. langbianense)",
+      "family": "Ericaceae (Họ Đỗ quyên)",
+      "shortIntro": "Loài cây bụi hoa cảnh sang trọng nở rộ dịp xuân và loài đỗ quyên rừng cổ thụ trên đỉnh Langbiang – Bidoup.",
+      "dalatRelation": "Phát triển mạnh trên nền đất chua giàu mùn của rừng thông và các khu vườn Đà Lạt.",
+      "careSummary": "Đất chua (pH 4.5–5.5), ẩm mát, ánh sáng tán xạ.",
+      "verificationStatus": "Đã xác minh cấp Chi & loài đặc hữu",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000772-2"
+    },
+    {
+      "id": "SUP-005",
+      "code": "AN-056",
+      "groupId": "cay-rung",
+      "groupName": "Cây rừng và sinh thái",
+      "name": "Thông ba lá Đà Lạt",
+      "scientificName": "Pinus kesiya Royle ex Gordon",
+      "family": "Pinaceae (Họ Thông)",
+      "shortIntro": "Loài cây rừng tạo nên linh hồn, cảnh quan và bầu không khí trong lành mát lạnh của thành phố ngàn thông Đà Lạt.",
+      "dalatRelation": "Chiếm diện tích chủ đạo trong hệ sinh thái rừng tự nhiên bao quanh nội ô Đà Lạt, hồ Tuyền Lâm, đèo Prenn.",
+      "careSummary": "Cây gỗ lớn ưa sáng, rễ cọc ăn sâu, có nấm rễ cộng sinh (mycorrhiza) trên đất feralit.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262988-1"
+    },
+    {
+      "id": "SUP-006",
+      "code": "AN-057",
+      "groupId": "cay-rung",
+      "groupName": "Cây rừng và sinh thái",
+      "name": "Thông năm lá Đà Lạt",
+      "scientificName": "Pinus dalatensis Ferré",
+      "family": "Pinaceae (Họ Thông)",
+      "shortIntro": "Loài thông quý hiếm mang tên địa danh Đà Lạt (dalatensis) trong danh pháp khoa học quốc tế, phân bố ở rừng cao Bidoup – Núi Bà.",
+      "dalatRelation": "Di sản thực vật đặc hữu quý giá của cao nguyên Lâm Viên, có 5 lá kim mềm trong mỗi bẹ.",
+      "careSummary": "Bảo tồn nghiêm ngặt trong hệ sinh thái rừng kín thường xanh hỗn giao lá rộng – lá kim ở độ cao trên 1.400 m.",
+      "verificationStatus": "Đã xác minh danh pháp (Loài quý hiếm)",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262898-1"
+    },
+    {
+      "id": "SUP-007",
+      "code": "AN-058",
+      "groupId": "cay-rung",
+      "groupName": "Cây rừng và sinh thái",
+      "name": "Thông hai lá dẹt (Thông lá dẹt)",
+      "scientificName": "Pinus krempfii Lecomte",
+      "family": "Pinaceae (Họ Thông)",
+      "shortIntro": "Hóa thạch sống độc nhất vô nhị trên thế giới của hệ thực vật Lâm Viên – loài thông duy nhất có lá kim dẹt như lưỡi kiếm.",
+      "dalatRelation": "Đặc hữu hẹp của vùng núi cao Bidoup – Núi Bà và Lạc Dương (Lâm Đồng), thu hút giới thực vật học toàn cầu.",
+      "careSummary": "Loài nguy cấp cần bảo tồn nguyên vị (In-situ) tại Vườn Quốc gia Bidoup – Núi Bà.",
+      "verificationStatus": "Đã xác minh danh pháp (Đặc hữu Lâm Viên)",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263003-1"
+    },
+    {
+      "id": "SUP-008",
+      "code": "AN-059",
+      "groupId": "cay-rung",
+      "groupName": "Cây rừng và sinh thái",
+      "name": "Dương xỉ thân gỗ (Ráng đà điểu cổ đại)",
+      "scientificName": "Chi Cyathea Sm. / Alsophila R.Br.",
+      "family": "Cyatheaceae (Họ Dương xỉ thân gỗ)",
+      "shortIntro": "Loài thực vật cổ sinh vươn tán lá xòe rộng dưới các khe suối ẩm sương của rừng nguyên sinh Langbiang.",
+      "dalatRelation": "Góp phần giữ nước đầu nguồn và tạo cảnh quan tiền sử độc đáo cho các khu du lịch sinh thái rừng Đà Lạt.",
+      "careSummary": "Ưa ẩm độ không khí rất cao, bóng râm dưới tán rừng và nguồn nước suối mát sạch.",
+      "verificationStatus": "Đã xác minh cấp Họ/Chi",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001411-2"
+    },
+    {
+      "id": "SUP-009",
+      "code": "AN-071",
+      "groupId": "rau-nong-san",
+      "groupName": "Rau và nông sản",
+      "name": "Atisô Đà Lạt (Artichoke)",
+      "scientificName": "Cynara cardunculus var. scolymus (L.) Fiori (đồng nghĩa: Cynara scolymus L.)",
+      "family": "Asteraceae (Họ Cúc)",
+      "shortIntro": "Cây dược liệu và ẩm thực biểu tượng số một của Đà Lạt với búp hoa xanh tím giàu hoạt chất cynarin bổ gan, thanh nhiệt.",
+      "dalatRelation": "Được người Pháp đưa vào trồng tại Đà Lạt hơn 100 năm qua; Phường 11, Phường 12 (làng hoa Thái Phiên, Đa Thiện) là vùng trồng Atisô nổi tiếng nhất.",
+      "careSummary": "Ưa khí hậu lạnh 15–22°C, đất sâu giàu mùn hữu cơ, tưới đủ ẩm.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:200898-1"
+    },
+    {
+      "id": "SUP-010",
+      "code": "AN-072",
+      "groupId": "rau-nong-san",
+      "groupName": "Rau và nông sản",
+      "name": "Cà phê Arabica Cầu Đất",
+      "scientificName": "Coffea arabica L.",
+      "family": "Rubiaceae (Họ Cà phê)",
+      "shortIntro": "Những sườn đồi cà phê chè hoa trắng thơm ngát và trái chín đỏ mọng ở độ cao 1.500 m tại Cầu Đất – Xuân Trường.",
+      "dalatRelation": "Cầu Đất (Đà Lạt) được thế giới công nhận là một trong những vùng trồng cà phê Arabica (Typica, Bourbon, Catimor) chất lượng cao nhất Đông Nam Á.",
+      "careSummary": "Độ cao 1.300–1.600 m, đất đỏ bazan thoát nước tốt, biên độ nhiệt ngày đêm lớn giúp hạt tích lũy hương hoa trái tự nhiên.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:747048-1"
+    },
+    {
+      "id": "SUP-011",
+      "code": "AN-073",
+      "groupId": "rau-nong-san",
+      "groupName": "Rau và nông sản",
+      "name": "Trà Ô Long & Trà cổ thụ Cầu Đất",
+      "scientificName": "Camellia sinensis (L.) Kuntze",
+      "family": "Theaceae (Họ Chè)",
+      "shortIntro": "Những đồi trà xanh mướt ẩn hiện trong biển mây sớm Cầu Đất từ năm 1927 đến nay.",
+      "dalatRelation": "Đồi chè Cầu Đất là di sản nông nghiệp gần 100 năm tuổi của Đà Lạt.",
+      "careSummary": "Đất chua giàu hữu cơ, sương mù tự nhiên giúp búp trà mềm và hậu vị ngọt sâu.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828505-1"
+    },
+    {
+      "id": "SUP-012",
+      "code": "AN-074",
+      "groupId": "rau-nong-san",
+      "groupName": "Rau và nông sản",
+      "name": "Xà lách & Rau ôn đới Đà Lạt",
+      "scientificName": "Lactuca sativa L. (Xà lách) & Brassica oleracea L. (Bắp cải, Súp lơ)",
+      "family": "Asteraceae / Brassicaceae",
+      "shortIntro": "Các dòng rau thủy canh và hữu cơ công nghệ cao giòn ngọt làm nên thương hiệu rau sạch Đà Lạt.",
+      "dalatRelation": "Cung cấp nguồn rau ôn đới chất lượng cao cho toàn miền Nam và xuất khẩu.",
+      "careSummary": "Canh tác trong nhà màng hoặc giá thể thủy canh tuần hoàn sạch sâu bệnh.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:228019-1"
+    },
+    {
+      "id": "SUP-013",
+      "code": "AN-086",
+      "groupId": "cay-an-qua",
+      "groupName": "Cây ăn quả",
+      "name": "Dâu tây Đà Lạt",
+      "scientificName": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+      "family": "Rosaceae (Họ Hoa hồng)",
+      "shortIntro": "Trái mọng đỏ thắm, thơm lừng được trồng trên giàn giá thể công nghệ cao tại các nông trại Đà Lạt.",
+      "dalatRelation": "Đặc sản trái cây nổi tiếng nhất của Đà Lạt với các giống Pháp, Mỹ Đá, New Zealand, Nhật Bản (Tochiotome, Skyberry) và Hàn Quốc.",
+      "careSummary": "Trồng trên giàn giá thể xơ dừa trong nhà màng, tưới nhỏ giọt dinh dưỡng chuẩn EC/pH, ong mật thụ phấn tự nhiên.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60442254-2"
+    },
+    {
+      "id": "SUP-014",
+      "code": "AN-087",
+      "groupId": "cay-an-qua",
+      "groupName": "Cây ăn quả",
+      "name": "Hồng giòn & Hồng treo gió Đà Lạt",
+      "scientificName": "Diospyros kaki L.f.",
+      "family": "Ebenaceae (Họ Thị)",
+      "shortIntro": "Những vườn hồng trĩu quả vàng cam giữa sương thu Trại Mát – Cầu Đất khi cây đã trút hết lá.",
+      "dalatRelation": "Nổi tiếng với đặc sản Hồng giòn và Hồng treo gió công nghệ Hoshigaki Nhật Bản tại Xuân Trường, Trại Mát, đèo Mimosa.",
+      "careSummary": "Cây ăn quả ôn đới rụng lá mùa đông, thu hoạch rộ từ tháng 9 đến tháng 12.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322346-1"
+    },
+    {
+      "id": "SUP-015",
+      "code": "AN-088",
+      "groupId": "cay-an-qua",
+      "groupName": "Cây ăn quả",
+      "name": "Bơ sáp cao nguyên (Avocado)",
+      "scientificName": "Persea americana Mill.",
+      "family": "Lauraceae (Họ Long não)",
+      "shortIntro": "Các giống bơ 034, Booth, Hass dẻo béo giàu dinh dưỡng của vùng đất đỏ bazan Lâm Đồng.",
+      "dalatRelation": "Đặc sản trái cây gắn liền với món kem bơ Đà Lạt trứ danh.",
+      "careSummary": "Ưa đất đỏ bazan tầng dày, thoát nước tuyệt đối để phòng bệnh thối rễ Phytophthora cinnamomi.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:467728-1"
+    },
+    {
+      "id": "SUP-016",
+      "code": "AN-089",
+      "groupId": "cay-an-qua",
+      "groupName": "Cây ăn quả",
+      "name": "Dâu tằm Đà Lạt",
+      "scientificName": "Morus alba L. / Morus nigra L.",
+      "family": "Moraceae (Họ Dâu tằm)",
+      "shortIntro": "Trái chín tím đen mọng nước giàu anthocyanin, nguyên liệu làm rượu vang dâu, mật dâu và mứt dâu Đà Lạt.",
+      "dalatRelation": "Trồng nhiều tại vùng ven Đà Lạt, Lạc Dương và Lâm Hà.",
+      "careSummary": "Dễ trồng bằng giâm cành, sau mỗi đợt thu quả cần cắt tỉa cành để cây bật chồi kèm lứa quả mới.",
+      "verificationStatus": "Đã xác minh danh pháp",
+      "referenceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:854672-1"
+    }
+  ]
+}

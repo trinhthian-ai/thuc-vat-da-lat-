@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT | Bách khoa hoa, cây cảnh và thực vật cao nguyên</title>
+  <meta name="description" content="AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT: Bách khoa hoa, cây cảnh và thực vật cao nguyên. Mỗi loài hoa một câu chuyện – Mỗi sắc hoa một miền thương nhớ. Tác giả: Trịnh Thị An – An Nhiên AI (TTA)." />
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&display=swap" rel="stylesheet" />
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="min-h-screen flex flex-col">
+
+  <!-- =====================================================================
+       TOP BRAND BAR (Định vị thương hiệu & Liên hệ Trịnh Thị An – Mục 1 & 8)
+       ===================================================================== -->
+  <div class="bg-[#12291E] text-emerald-100 text-xs py-2 px-4 border-b border-emerald-900/80 no-print">
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
+      <div class="flex items-center gap-2">
+        <span class="text-amber-300 font-semibold">✿ AN NHIÊN AI (TTA)</span>
+        <span class="hidden md:inline text-emerald-400">•</span>
+        <span class="italic text-emerald-100/90">“Mỗi loài hoa một câu chuyện – Mỗi sắc hoa một miền thương nhớ.”</span>
+      </div>
+      <div class="flex flex-wrap items-center gap-3 sm:gap-4">
+        <span>Tác giả: <strong class="text-white">Trịnh Thị An</strong></span>
+        <a href="tel:0834133344" class="hover:text-amber-300 transition">📞 Zalo/ĐT: <strong>0834 133 344</strong></a>
+        <a href="https://www.facebook.com/trinhthi.an.5" target="_blank" rel="noopener noreferrer" class="hover:text-amber-300 transition underline">Facebook</a>
+        <a href="https://youtube.com/@annhienaimusictta?si=5pXWSG77iLaLYkJh" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:text-amber-200 font-semibold transition underline">♪ YouTube An Nhiên AI Music</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       MAIN NAVIGATION BAR (Kèm Chân dung thương hiệu Vị trí #1 – Mục 8)
+       ===================================================================== -->
+  <header class="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-stone-200/90 shadow-sm no-print">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-3">
+      <!-- Logo + Chân dung Trịnh Thị An Vị trí #1 (Thanh điều hướng) -->
+      <div class="flex items-center gap-3 cursor-pointer" onclick="window.switchView('home')">
+        <div class="author-avatar-frame w-11 h-11 sm:w-12 sm:h-12 shadow-sm" title="Tác giả Trịnh Thị An – An Nhiên AI (TTA)">
+          <img
+            src="https://raw.githubusercontent.com/annhienai/thucvatdalat-7an/main/41a8b9fd-8197-42f0-98ed-61ac18361b60.png"
+            alt="Chân dung Trịnh Thị An"
+            class="js-author-portrait"
+          />
+        </div>
+        <div>
+          <div class="text-base sm:text-xl font-bold font-serif-title text-[#1B3B2B] tracking-tight leading-none">
+            AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT
+          </div>
+          <div class="text-[11px] sm:text-xs text-slate-600 font-medium mt-1">
+            Bách khoa hoa, cây cảnh và thực vật cao nguyên • <span class="text-emerald-800 font-semibold">Trịnh Thị An (TTA)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Menu điều hướng ưu tiên Hoa Đà Lạt làm trung tâm -->
+      <nav class="flex flex-wrap items-center gap-1.5 sm:gap-2 text-xs sm:text-sm font-medium">
+        <button
+          type="button"
+          onclick="window.switchView('home')"
+          class="px-3 py-1.5 rounded-xl bg-emerald-50 hover:bg-emerald-900 text-emerald-950 hover:text-white font-semibold transition"
+        >
+          🌸 Vườn Hoa Đà Lạt
+        </button>
+        <a
+          href="#kham-pha-mua-hoa"
+          onclick="window.switchView('home', false)"
+          class="px-3 py-1.5 rounded-xl text-slate-700 hover:bg-stone-100 transition"
+        >
+          20+ Hồ Sơ Hoa
+        </a>
+        <a
+          href="#bo-suu-tap-hoa"
+          onclick="window.switchView('home', false)"
+          class="px-3 py-1.5 rounded-xl text-slate-700 hover:bg-stone-100 transition"
+        >
+          11 Bộ Sưu Tập Mùa Hoa
+        </a>
+        <button
+          type="button"
+          onclick="window.executeQuickSearch('Hoa lan')"
+          class="px-3 py-1.5 rounded-xl text-purple-900 bg-purple-50 hover:bg-purple-800 hover:text-white transition font-semibold"
+        >
+          🦋 Hoa Lan Đà Lạt
+        </button>
+        <a
+          href="#chuyen-muc-mo-rong"
+          onclick="window.switchView('home', false)"
+          class="px-3 py-1.5 rounded-xl text-slate-700 hover:bg-stone-100 transition"
+        >
+          🌿 Chuyên Mục Mở Rộng
+        </a>
+        <button
+          type="button"
+          onclick="window.switchView('about')"
+          class="px-3 py-1.5 rounded-xl bg-amber-100/80 hover:bg-amber-400 text-amber-950 font-semibold transition"
+        >
+          👩‍🌾 Về An Nhiên
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- =====================================================================
+       VIEW 1: TRANG CHỦ – KHU VƯỜN HOA ĐÀ LẠT NGHỆ THUẬT 5 SAO (MỤC 2, 3, 5, 7, 8)
+       ===================================================================== -->
+  <main id="view-home" class="flex-1">
+
+    <!-- 1. HERO BANNER 6 LOÀI HOA BIỂU TƯỢNG ĐÀ LẠT (Mục 1 & Mục 2) -->
+    <section class="hero-garden-bg pt-6 pb-10 px-4 sm:px-6">
+      <div class="max-w-7xl mx-auto space-y-6">
+        <!-- Định vị tiêu đề & thông điệp chính -->
+        <div class="text-center max-w-4xl mx-auto space-y-2.5 text-white">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/15 border border-white/25 text-amber-300 text-xs font-semibold tracking-wide uppercase">
+            <span>✿ Khu vườn hoa Đà Lạt nghệ thuật 5 sao • Hình ảnh thật • Hồ sơ chuyên sâu</span>
+          </div>
+          <h1 class="text-3xl sm:text-5xl font-bold font-serif-title tracking-tight text-white">
+            AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT
+          </h1>
+          <p class="text-sm sm:text-lg text-emerald-100 font-medium">
+            Bách khoa hoa, cây cảnh và thực vật cao nguyên
+          </p>
+          <p class="text-xs sm:text-base italic text-amber-200/95">
+            “Mỗi loài hoa một câu chuyện – Mỗi sắc hoa một miền thương nhớ.”
+          </p>
+        </div>
+
+        <!-- Khung trình diễn chính của Banner -->
+        <div id="hero-active-showcase"></div>
+
+        <!-- 6 Thẻ chọn nhanh 6 loài hoa biểu tượng trên Banner: Phượng tím, Mai anh đào, Mimosa, Cẩm tú cầu, Hoa lan, Hoa hồng -->
+        <div class="space-y-2">
+          <div class="flex items-center justify-between text-xs text-emerald-100/90 px-1">
+            <span class="font-semibold uppercase tracking-wider">🌟 Chiêm ngưỡng 6 biểu tượng hoa Đà Lạt trên Banner (nhấn để xem hoặc mở hồ sơ):</span>
+            <span class="hidden sm:inline italic text-amber-200">Tỷ lệ khung chuẩn 4:3 & 16:10 – Không cắt hoặc kéo giãn sai tỷ lệ</span>
+          </div>
+          <div id="hero-thumbs-grid" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. Ô TÌM KIẾM TÊN HOA THẬT LỚN NGAY DƯỚI BANNER (Mục 2 & Mục 6) -->
+    <section class="max-w-5xl mx-auto px-4 sm:px-6 -mt-6 relative z-20">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 shadow-xl border-2 border-emerald-900/15 space-y-4">
+        <div class="text-center space-y-1">
+          <span class="text-xs font-bold uppercase tracking-widest text-emerald-800">Tra cứu tức thì • Hỗ trợ tiếng Việt có dấu & không dấu</span>
+          <h2 class="text-xl sm:text-2xl md:text-3xl font-bold font-serif-title text-[#1B3B2B]">
+            HÔM NAY BẠN MUỐN KHÁM PHÁ LOÀI HOA NÀO?
+          </h2>
+        </div>
+
+        <div class="flex flex-col sm:flex-row gap-3">
+          <div class="relative flex-1">
+            <input
+              id="main-flower-search-input"
+              type="text"
+              oninput="window.handleFlowerSearchInput(this.value)"
+              onkeydown="if(event.key==='Enter') window.executeQuickSearch(this.value)"
+              placeholder="Nhập tên loài hoa (VD: Phượng tím, Cẩm tú cầu, Hoa lan, Mimosa, Mai anh đào, Hoa hồng...)"
+              class="w-full pl-5 pr-12 py-4 rounded-2xl border-2 border-stone-300 focus:border-emerald-800 focus:outline-none text-sm sm:text-base text-slate-900 shadow-inner"
+            />
+            <button
+              type="button"
+              onclick="window.resetFlowerFilters()"
+              class="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 text-xs font-semibold px-2 py-1 rounded bg-stone-100"
+              title="Xóa từ khóa"
+            >
+              Xóa
+            </button>
+          </div>
+          <button
+            type="button"
+            onclick="window.executeQuickSearch()"
+            class="px-7 py-4 rounded-2xl bg-[#1B3B2B] hover:bg-emerald-800 text-white font-bold text-sm sm:text-base shadow-lg transition shrink-0"
+          >
+            🔍 Khám phá ngay
+          </button>
+        </div>
+
+        <!-- Gợi ý từ khóa kiểm thử nghiệm thu nhanh -->
+        <div class="flex flex-wrap items-center justify-center gap-2 pt-1 text-xs">
+          <span class="text-slate-500 font-medium">Chọn nhanh loài hoa yêu thích:</span>
+          <button type="button" onclick="window.openFlowerProfile('FL-001')" class="px-3 py-1 rounded-full bg-purple-50 hover:bg-purple-700 text-purple-900 hover:text-white border border-purple-200 font-semibold transition">💜 Phượng tím</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-002')" class="px-3 py-1 rounded-full bg-rose-50 hover:bg-rose-600 text-rose-900 hover:text-white border border-rose-200 font-semibold transition">🌸 Mai anh đào</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-003')" class="px-3 py-1 rounded-full bg-amber-50 hover:bg-amber-500 text-amber-950 border border-amber-200 font-semibold transition">💛 Mimosa</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-004')" class="px-3 py-1 rounded-full bg-sky-50 hover:bg-sky-700 text-sky-900 hover:text-white border border-sky-200 font-semibold transition">💙 Cẩm tú cầu</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-005')" class="px-3 py-1 rounded-full bg-red-50 hover:bg-red-700 text-red-900 hover:text-white border border-red-200 font-semibold transition">🌹 Hoa hồng</button>
+          <button type="button" onclick="window.executeQuickSearch('Hoa lan')" class="px-3 py-1 rounded-full bg-emerald-50 hover:bg-emerald-800 text-emerald-900 hover:text-white border border-emerald-200 font-semibold transition">🦋 Danh sách Hoa lan (5 nhóm)</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-012')" class="px-3 py-1 rounded-full bg-stone-100 hover:bg-stone-800 text-stone-800 hover:text-white font-medium transition">🌼 Hoa bất tử</button>
+          <button type="button" onclick="window.openFlowerProfile('FL-013')" class="px-3 py-1 rounded-full bg-stone-100 hover:bg-stone-800 text-stone-800 hover:text-white font-medium transition">🌿 Hoa oải hương</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. KHU VỰC TRỌNG TÂM: KHÁM PHÁ NHỮNG MÙA HOA ĐÀ LẠT (26 THẺ HOA CHUYÊN SÂU – MỤC 2 & 3) -->
+    <section id="kham-pha-mua-hoa" class="max-w-7xl mx-auto px-4 sm:px-6 py-12 space-y-6 scroll-mt-16">
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-stone-200 pb-5">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-widest text-emerald-800">Trọng tâm khám phá • Hồ sơ thực vật học & Chăm sóc</span>
+          <h2 class="text-2xl sm:text-4xl font-bold font-serif-title text-[#1B3B2B] mt-1">
+            KHÁM PHÁ NHỮNG MÙA HOA ĐÀ LẠT
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-600 mt-1">
+            Bao gồm trọn bộ <strong>20 loài hoa ưu tiên hàng đầu</strong> trên trang chủ cùng <strong>6 loài hoa đặc sắc mở rộng</strong> của cao nguyên Lâm Viên. Nhấn vào bất kỳ thẻ hoa nào để mở trang hồ sơ chuyên sâu 20 mục.
+          </p>
+        </div>
+
+        <!-- Bộ lọc nhanh theo nhóm hiển thị -->
+        <div class="flex flex-wrap items-center gap-2">
+          <button
+            type="button"
+            data-level="all"
+            onclick="window.filterByTaxLevel('all')"
+            class="js-tax-filter-btn px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-[#1B3B2B] text-white"
+          >
+            Tất cả 26 loài hoa
+          </button>
+          <button
+            type="button"
+            data-level="core20"
+            onclick="window.filterByTaxLevel('core20')"
+            class="js-tax-filter-btn px-3.5 py-1.5 rounded-lg text-xs font-medium bg-stone-100 text-slate-700 hover:bg-stone-200"
+          >
+            20 Hoa chủ lực trang chủ
+          </button>
+          <button
+            type="button"
+            data-level="orchid"
+            onclick="window.filterByTaxLevel('orchid')"
+            class="js-tax-filter-btn px-3.5 py-1.5 rounded-lg text-xs font-medium bg-stone-100 text-slate-700 hover:bg-stone-200"
+          >
+            Nhóm Hoa lan Đà Lạt (5)
+          </button>
+        </div>
+      </div>
+
+      <!-- Thanh Pills lọc theo 11 Bộ sưu tập Hoa Đà Lạt -->
+      <div id="collection-pills-bar" class="flex items-center gap-2 overflow-x-auto pb-2"></div>
+
+      <!-- Tóm tắt trạng thái lọc -->
+      <div class="flex flex-wrap items-center justify-between gap-2 text-xs sm:text-sm text-slate-600 bg-stone-100/90 px-4 py-2.5 rounded-xl border border-stone-200">
+        <div id="flowers-filter-summary"></div>
+        <div class="text-xs text-emerald-800 font-medium">
+          💡 Mẹo: Nhấn vào ảnh để mở <strong>Lightbox phóng to</strong>, hoặc nhấn <strong>“Tìm hiểu loài hoa”</strong> để đọc hồ sơ chuyên sâu.
+        </div>
+      </div>
+
+      <!-- Lưới hiển thị toàn bộ các thẻ hoa (Mặc định hiển thị đầy đủ, không ẩn sau giới hạn 12 thẻ) -->
+      <div id="flowers-main-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"></div>
+    </section>
+
+    <!-- 4. BỘ SƯU TẬP 11 PHÂN LOẠI HOA ĐỂ KHÁM PHÁ (MỤC 5) -->
+    <section id="bo-suu-tap-hoa" class="bg-[#F5F2EB] py-14 px-4 sm:px-6 border-y border-stone-200/90 scroll-mt-16">
+      <div class="max-w-7xl mx-auto space-y-8">
+        <div class="text-center max-w-3xl mx-auto space-y-2">
+          <span class="text-xs font-bold uppercase tracking-widest text-emerald-800">11 Chuyên đề Phân loại Hoa Đà Lạt</span>
+          <h2 class="text-2xl sm:text-4xl font-bold font-serif-title text-[#1B3B2B]">
+            BỘ SƯU TẬP HOA THEO MÙA & KHÔNG Gian SỐNG
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-600">
+            Mỗi bộ sưu tập tổng hợp những loài hoa tiêu biểu theo không gian trưng bày và bốn mùa xuân – hạ – thu – đông tại Đà Lạt. <em>Lưu ý: Các mùa hoa mang tính tham khảo theo điều kiện khí hậu từng năm và kỹ thuật điều khiển giống trồng.</em>
+          </p>
+        </div>
+
+        <div id="collections-cards-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+      </div>
+    </section>
+
+    <!-- 5. KHU VỰC GIỚI THIỆU TÁC GIẢ TRỊNH THỊ AN & KÊNH ÂM NHẠC (Vị trí chân dung #2 – Mục 8) -->
+    <section id="khu-vuc-tac-gia" class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+      <div class="bg-gradient-to-br from-[#1B3B2B] via-[#234836] to-[#2D2346] rounded-3xl p-6 sm:p-10 text-white shadow-xl border border-emerald-800/60">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+          <!-- Chân dung thật của Trịnh Thị An (Vị trí #2: Khu vực giới thiệu tác giả) -->
+          <div class="lg:col-span-4 flex flex-col items-center text-center space-y-3">
+            <div class="author-avatar-frame w-36 h-36 sm:w-44 sm:h-44 shadow-2xl">
+              <img
+                src="https://raw.githubusercontent.com/annhienai/thucvatdalat-7an/main/41a8b9fd-8197-42f0-98ed-61ac18361b60.png"
+                alt="Tác giả Trịnh Thị An – An Nhiên AI (TTA)"
+                class="js-author-portrait"
+              />
+            </div>
+            <div>
+              <h3 class="text-xl font-bold font-serif-title text-amber-300">Trịnh Thị An</h3>
+              <p class="text-xs sm:text-sm text-emerald-100 font-medium">Nhà sáng lập Thương hiệu An Nhiên AI (TTA)</p>
+            </div>
+            <!-- Nút chọn ảnh chân dung thật trực tiếp trên trình duyệt -->
+            <div class="flex flex-wrap items-center justify-center gap-2 pt-1">
+              <label class="px-3 py-1.5 rounded-xl bg-white/15 hover:bg-white/25 text-xs font-medium cursor-pointer border border-white/20 transition">
+                <span>📷 Đổi ảnh chân dung thật</span>
+                <input type="file" accept="image/*" class="js-author-upload-input hidden" />
+              </label>
+              <button
+                type="button"
+                onclick="window.switchView('about')"
+                class="px-3 py-1.5 rounded-xl bg-amber-400/20 hover:bg-amber-400 hover:text-slate-950 text-amber-200 text-xs font-semibold border border-amber-300/30 transition"
+              >
+                Trang “Về An Nhiên” →
+              </button>
+            </div>
+          </div>
+
+          <!-- Tâm huyết & Lời mời đồng hành âm nhạc nhẹ nhàng (Không dùng popup ép đăng ký) -->
+          <div class="lg:col-span-8 space-y-4">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-amber-200 text-xs font-semibold">
+              <span>✿ Tâm huyết sáng lập & Kết nối tâm hồn yêu hoa</span>
+            </div>
+            <h2 class="text-2xl sm:text-3xl font-bold font-serif-title leading-snug">
+              “Mỗi loài hoa một câu chuyện – Mỗi sắc hoa một miền thương nhớ.”
+            </h2>
+            <p class="text-sm sm:text-base text-emerald-50/90 leading-relaxed">
+              Chào mừng bạn đến với <strong>AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT</strong>. Website được xây dựng với mong muốn lưu giữ vẻ đẹp rực rỡ, chuẩn xác về mặt khoa học và giàu chất thơ của các loài hoa phố núi. Từ sắc tím phượng buồn bên hồ Xuân Hương, cánh mai anh đào báo xuân trên dốc Đa Quý, đến những đóa cẩm tú cầu, hoa hồng, địa lan ngậm sương... mỗi hồ sơ đều là một cuốn sách mở để bạn vừa thưởng lãm, vừa tra cứu cách chăm sóc tận tường.
+            </p>
+
+            <!-- Lời mời đồng hành với kênh âm nhạc thật nhẹ nhàng (Mục 8) -->
+            <div class="bg-white/10 rounded-2xl p-4 sm:p-5 border border-white/15 space-y-3">
+              <div class="flex items-center gap-2 text-amber-300 font-semibold text-sm">
+                <span>🎶</span>
+                <span>Góc nhỏ âm nhạc An Nhiên AI Music (TTA)</span>
+              </div>
+              <p class="text-xs sm:text-sm text-emerald-50/90 leading-relaxed">
+                Bên cạnh những mùa hoa Đà Lạt, nếu bạn yêu thích những giai điệu trữ tình, sâu lắng mang hơi thở thiên nhiên và bình yên nội tâm, mời bạn ghé thăm và đồng hành cùng kênh âm nhạc <strong>An Nhiên AI Music</strong> mỗi khi muốn tìm một khoảng lặng dịu dàng.
+              </p>
+              <div class="flex flex-wrap items-center gap-3 pt-1 text-xs sm:text-sm">
+                <a
+                  href="https://youtube.com/@annhienaimusictta?si=5pXWSG77iLaLYkJh"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold transition shadow"
+                >
+                  ▶ Ghé thăm YouTube An Nhiên AI Music
+                </a>
+                <a
+                  href="https://www.facebook.com/trinhthi.an.5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 rounded-xl bg-white/15 hover:bg-white/25 text-white font-semibold border border-white/20 transition"
+                >
+                  💬 Kết nối Facebook Trịnh Thị An
+                </a>
+                <a
+                  href="tel:0834133344"
+                  class="px-4 py-2 rounded-xl bg-emerald-950/70 hover:bg-emerald-900 text-emerald-100 font-medium border border-emerald-700/60 transition"
+                >
+                  📞 Zalo / Điện thoại: 0834 133 344
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. CHUYÊN MỤC MỞ RỘNG (MỤC 7: ĐẶT SAU PHẦN HOA ĐÀ LẠT – CÂY CẢNH, RỪNG, RAU, QUẢ, A-Z, AI, NHẬT KÝ, SÁCH) -->
+    <section id="chuyen-muc-mo-rong" class="bg-stone-100/90 py-14 px-4 sm:px-6 border-t border-stone-200 scroll-mt-16">
+      <div class="max-w-7xl mx-auto space-y-12">
+        <div class="text-center max-w-3xl mx-auto space-y-2">
+          <span class="text-xs font-bold uppercase tracking-widest text-emerald-800">Chuyên mục bổ trợ • Hệ sinh thái Thực vật Cao nguyên</span>
+          <h2 class="text-2xl sm:text-4xl font-bold font-serif-title text-[#1B3B2B]">
+            KHÁM PHÁ MỞ RỘNG: CÂY CẢNH, RỪNG, NÔNG SẢN & TIỆN ÍCH
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-600">
+            Sau hành trình chiêm ngưỡng các loài hoa Đà Lạt, bạn có thể khám phá thêm các nhóm cây cảnh biệt thự, cây rừng đặc hữu Langbiang – Bidoup, rau & nông sản, cây ăn quả ôn đới và các tiện ích tra cứu.
+          </p>
+        </div>
+
+        <!-- 6.1. Bốn chuyên mục thực vật mở rộng: Cây cảnh, Cây rừng & sinh thái, Rau & nông sản, Cây ăn quả -->
+        <div class="space-y-5">
+          <div class="flex flex-wrap items-center justify-between gap-3">
+            <h3 class="text-xl font-bold font-serif-title text-slate-900">
+              1. Cây cảnh Đà Lạt • Cây rừng & Sinh thái • Rau & Nông sản • Cây ăn quả
+            </h3>
+            <div class="flex flex-wrap gap-2">
+              <button type="button" data-group="all" onclick="window.filterSuppGroup('all')" class="js-supp-tab px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-[#1B3B2B] text-white shadow-sm">Tất cả (16)</button>
+              <button type="button" data-group="cay-canh" onclick="window.filterSuppGroup('cay-canh')" class="js-supp-tab px-4 py-2 rounded-xl text-xs sm:text-sm font-medium bg-white text-slate-700 border border-stone-200 hover:border-emerald-700">🌲 Cây cảnh Đà Lạt</button>
+              <button type="button" data-group="cay-rung" onclick="window.filterSuppGroup('cay-rung')" class="js-supp-tab px-4 py-2 rounded-xl text-xs sm:text-sm font-medium bg-white text-slate-700 border border-stone-200 hover:border-emerald-700">🏞️ Cây rừng & Sinh thái</button>
+              <button type="button" data-group="rau-nong-san" onclick="window.filterSuppGroup('rau-nong-san')" class="js-supp-tab px-4 py-2 rounded-xl text-xs sm:text-sm font-medium bg-white text-slate-700 border border-stone-200 hover:border-emerald-700">🥬 Rau & Nông sản</button>
+              <button type="button" data-group="cay-an-qua" onclick="window.filterSuppGroup('cay-an-qua')" class="js-supp-tab px-4 py-2 rounded-xl text-xs sm:text-sm font-medium bg-white text-slate-700 border border-stone-200 hover:border-emerald-700">🍓 Cây ăn quả</button>
+            </div>
+          </div>
+
+          <div id="supplementary-plants-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5"></div>
+        </div>
+
+        <!-- 6.2. Bách khoa thực vật A–Z (Mục 7.5) -->
+        <div class="bg-white rounded-3xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-5">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div>
+              <span class="text-xs font-bold uppercase tracking-wider text-emerald-800">Mục lục tra cứu nhanh</span>
+              <h3 class="text-xl sm:text-2xl font-bold font-serif-title text-slate-900">
+                2. Bách khoa Thực vật Đà Lạt A–Z (42 Hồ sơ Hoa & Thực vật)
+              </h3>
+            </div>
+            <div class="w-full md:w-80">
+              <input
+                type="text"
+                oninput="window.handleAZSearchInput(this.value)"
+                placeholder="Lọc nhanh tên loài trong danh mục A–Z..."
+                class="w-full px-4 py-2.5 rounded-xl border border-stone-300 text-xs sm:text-sm focus:border-emerald-800 focus:outline-none"
+              />
+            </div>
+          </div>
+
+          <div class="flex flex-wrap gap-1.5 text-xs">
+            <button type="button" onclick="window.filterAZLetter('ALL')" class="px-2.5 py-1 rounded-lg bg-[#1B3B2B] text-white font-semibold">Tất cả A–Z</button>
+            <button type="button" onclick="window.filterAZLetter('A')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">A</button>
+            <button type="button" onclick="window.filterAZLetter('B')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">B</button>
+            <button type="button" onclick="window.filterAZLetter('C')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">C</button>
+            <button type="button" onclick="window.filterAZLetter('D')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">D / Đ</button>
+            <button type="button" onclick="window.filterAZLetter('H')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">H</button>
+            <button type="button" onclick="window.filterAZLetter('L')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">L</button>
+            <button type="button" onclick="window.filterAZLetter('M')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">M</button>
+            <button type="button" onclick="window.filterAZLetter('P')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">P</button>
+            <button type="button" onclick="window.filterAZLetter('S')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">S</button>
+            <button type="button" onclick="window.filterAZLetter('T')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">T</button>
+            <button type="button" onclick="window.filterAZLetter('X')" class="px-2.5 py-1 rounded-lg bg-stone-100 hover:bg-stone-200 font-medium">X</button>
+          </div>
+
+          <div id="az-encyclopedia-list" class="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-96 overflow-y-auto pr-1"></div>
+        </div>
+
+        <!-- 6.3. Ba tiện ích bổ trợ: Nhận diện cây bằng AI + Nhật ký khu vườn + Sách điện tử (Mục 7.6, 7.7, 7.8) -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+          <!-- Nhận diện cây bằng AI & Khóa phân loại (Giải thích rõ cơ chế tĩnh vs API) -->
+          <div class="bg-white rounded-3xl p-6 border border-stone-200 shadow-sm flex flex-col justify-between space-y-4">
+            <div class="space-y-3">
+              <div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-100 text-amber-900 text-xs font-semibold">
+                <span>🤖 Tiện ích tra cứu hình thái & AI</span>
+              </div>
+              <h3 class="text-xl font-bold font-serif-title text-slate-900">
+                3. Nhận diện Hoa theo Đặc điểm & Hướng dẫn Tích hợp AI
+              </h3>
+              <p class="text-xs text-slate-600 leading-relaxed bg-stone-50 p-3 rounded-xl border border-stone-200">
+                <strong>Minh bạch kỹ thuật:</strong> Vì GitHub Pages là máy chủ tĩnh (không có Backend lưu khóa bảo mật), tính năng nhận diện qua ảnh bằng thị giác máy tính (Gemini Vision / PlantNet API) cần kết nối Cloudflare Worker hoặc API Key riêng (đã có tài liệu hướng dẫn trong <code>KIEN_TRUC_TICH_HOP_PLANT_AI.md</code>). Ngay dưới đây là <strong>Khóa phân loại hình thái hoạt động trực tiếp 100%</strong> trên dữ liệu thực của website:
+              </p>
+
+              <div class="space-y-2.5 text-xs sm:text-sm">
+                <div>
+                  <label class="block font-semibold text-slate-700 mb-1">Màu sắc hoa quan sát được:</label>
+                  <select id="ai-trait-color" class="w-full px-3 py-2 rounded-xl border border-stone-300 bg-white">
+                    <option value="">-- Tất cả màu sắc --</option>
+                    <option value="tím">Tím / Tím lam (Phượng tím, Oải hương, Thạch thảo...)</option>
+                    <option value="hồng">Hồng phấn / Hồng sen (Mai anh đào, Hoa hồng, Ly...)</option>
+                    <option value="vàng">Vàng tươi / Vàng cam (Mimosa, Hướng dương, Dã quỳ...)</option>
+                    <option value="xanh">Xanh lam / Đổi màu (Cẩm tú cầu, Thanh anh...)</option>
+                    <option value="đỏ">Đỏ nhung / Cam lửa (Hoa hồng, Đồng tiền, Chùm ớt...)</option>
+                    <option value="trắng">Trắng tinh khôi (Bách hợp, Lan hồ điệp, Cúc...)</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label class="block font-semibold text-slate-700 mb-1">Dạng sống / Không gian bắt gặp:</label>
+                  <select id="ai-trait-habit" class="w-full px-3 py-2 rounded-xl border border-stone-300 bg-white">
+                    <option value="">-- Mọi không gian --</option>
+                    <option value="hoa-duong-pho">Cây gỗ / Hoa đường phố Đà Lạt</option>
+                    <option value="hoa-lan">Phong lan / Địa lan</option>
+                    <option value="hoa-trong-chau">Hoa trồng chậu / Giỏ treo ban công</option>
+                    <option value="hoa-leo">Dây leo cổng rào biệt thự</option>
+                    <option value="hoa-cat-canh">Hoa cắt cành nhà kính</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label class="block font-semibold text-slate-700 mb-1">Mùa nở hoa tại Đà Lạt:</label>
+                  <select id="ai-trait-season" class="w-full px-3 py-2 rounded-xl border border-stone-300 bg-white">
+                    <option value="">-- Mọi mùa trong năm --</option>
+                    <option value="hoa-mua-xuan">Mùa xuân (Tháng 1 – 4)</option>
+                    <option value="hoa-mua-he">Mùa hè (Tháng 5 – 7)</option>
+                    <option value="hoa-mua-thu">Mùa thu (Tháng 8 – 10)</option>
+                    <option value="hoa-mua-dong">Mùa đông (Tháng 11 – 12)</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="space-y-3 pt-2">
+              <button
+                type="button"
+                onclick="window.runMorphologyMatcher()"
+                class="w-full py-2.5 px-4 rounded-xl bg-[#1B3B2B] hover:bg-emerald-800 text-white font-semibold text-xs sm:text-sm transition"
+              >
+                🔍 Tra cứu loài hoa khớp đặc điểm
+              </button>
+              <div id="ai-matcher-results"></div>
+            </div>
+          </div>
+
+          <!-- Nhật ký khu vườn (Mục 7.7: Hoạt động thực tế lưu LocalStorage) -->
+          <div class="bg-white rounded-3xl p-6 border border-stone-200 shadow-sm flex flex-col justify-between space-y-4">
+            <div class="space-y-3">
+              <div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-100 text-emerald-900 text-xs font-semibold">
+                <span>📓 Lưu trữ trực tiếp trên trình duyệt</span>
+              </div>
+              <h3 class="text-xl font-bold font-serif-title text-slate-900">
+                4. Nhật ký Khu vườn Đà Lạt
+              </h3>
+              <p class="text-xs text-slate-600">
+                Ghi lại lịch tưới nước, bón phân, ngày hoa nở hoặc kỷ niệm của bạn với các loài hoa Đà Lạt. Dữ liệu được lưu bền vững trên thiết bị của bạn.
+              </p>
+
+              <form onsubmit="window.addDiaryEntry(event)" class="space-y-2.5 text-xs sm:text-sm">
+                <div>
+                  <label class="block font-semibold text-slate-700 mb-1">Chọn loài hoa:</label>
+                  <select id="diary-flower-select" class="w-full px-3 py-2 rounded-xl border border-stone-300 bg-white"></select>
+                </div>
+                <div>
+                  <label class="block font-semibold text-slate-700 mb-1">Ghi chú chăm sóc / cảm xúc:</label>
+                  <textarea
+                    id="diary-note-input"
+                    rows="2"
+                    placeholder="Nhập ghi chú chăm sóc hoặc nhật ký ngắm hoa..."
+                    class="w-full px-3 py-2 rounded-xl border border-stone-300 focus:border-emerald-800 focus:outline-none"
+                  ></textarea>
+                </div>
+                <button
+                  type="submit"
+                  class="w-full py-2.5 px-4 rounded-xl bg-emerald-800 hover:bg-emerald-700 text-white font-semibold text-xs sm:text-sm transition"
+                >
+                  + Lưu vào Nhật ký khu vườn
+                </button>
+              </form>
+            </div>
+
+            <div class="space-y-2 pt-2 border-t border-stone-100">
+              <div class="text-xs font-bold uppercase tracking-wider text-slate-400">Các ghi chú gần đây:</div>
+              <div id="garden-diary-entries" class="space-y-2 max-h-56 overflow-y-auto pr-1"></div>
+            </div>
+          </div>
+
+          <!-- Sách điện tử & Cẩm nang Hoa Đà Lạt (Mục 7.8) -->
+          <div class="bg-white rounded-3xl p-6 border border-stone-200 shadow-sm flex flex-col justify-between space-y-4">
+            <div class="space-y-3">
+              <div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-purple-100 text-purple-900 text-xs font-semibold">
+                <span>📖 Ấn phẩm điện tử & Hướng dẫn thay ảnh</span>
+              </div>
+              <h3 class="text-xl font-bold font-serif-title text-slate-900">
+                5. Sách điện tử & Quản trị Thư viện Ảnh
+              </h3>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                Tổng hợp cẩm nang 4 mùa hoa Đà Lạt và hướng dẫn chi tiết cách thay thế hình ảnh thật trong thư mục <code>assets/images/</code> khi cập nhật lên GitHub Pages.
+              </p>
+
+              <div class="space-y-2 text-xs">
+                <div class="p-3 rounded-xl bg-stone-50 border border-stone-200">
+                  <div class="font-bold text-slate-800">Tập 1: Hoa Đường Phố & Ký Ức Phố Núi</div>
+                  <p class="text-slate-600 mt-0.5">Phượng tím, Mai anh đào, Mimosa, Cẩm tú cầu, Chùm ớt, Dã quỳ – những loài hoa gắn liền với lịch sử Đà Lạt.</p>
+                  <button type="button" onclick="window.selectCollectionAndScroll('hoa-duong-pho')" class="text-emerald-800 font-semibold mt-1 hover:underline">Đọc bộ hồ sơ Tập 1 →</button>
+                </div>
+
+                <div class="p-3 rounded-xl bg-stone-50 border border-stone-200">
+                  <div class="font-bold text-slate-800">Tập 2: Vương Quốc Hoa Lan & Hoa Cắt Cành</div>
+                  <p class="text-slate-600 mt-0.5">Lan hồ điệp, Địa lan Cymbidium, Lan hài, Hoa hồng, Hoa ly, Hoa cúc, Đồng tiền, Cẩm chướng.</p>
+                  <button type="button" onclick="window.selectCollectionAndScroll('hoa-lan')" class="text-emerald-800 font-semibold mt-1 hover:underline">Đọc bộ hồ sơ Tập 2 →</button>
+                </div>
+
+                <div class="p-3 rounded-xl bg-amber-50/70 border border-amber-200">
+                  <div class="font-bold text-amber-950">📁 Cấu trúc thư mục ảnh chuẩn hóa:</div>
+                  <code class="block text-[11px] text-slate-700 mt-1 leading-relaxed">
+                    assets/images/banner/ (6 ảnh banner)<br/>
+                    assets/images/flowers/ (ảnh từng loài hoa)<br/>
+                    assets/images/author/trinh-thi-an.jpg
+                  </code>
+                </div>
+              </div>
+            </div>
+
+            <button
+              type="button"
+              onclick="window.switchView('about')"
+              class="w-full py-2.5 px-4 rounded-xl bg-stone-900 hover:bg-slate-800 text-white font-semibold text-xs sm:text-sm transition"
+            >
+              📖 Xem Trang “Về An Nhiên” & Hướng dẫn Thay Ảnh
+            </button>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- =====================================================================
+       VIEW 2: TRANG RIÊNG HỒ SƠ CHUYÊN SÂU CỦA TỪNG LOÀI HOA (MỤC 4 & MỤC 6)
+       ===================================================================== -->
+  <section id="view-flower-detail" class="hidden flex-1 bg-[#FCFBF7]">
+    <div id="flower-detail-content"></div>
+  </section>
+
+  <!-- =====================================================================
+       VIEW 3: TRANG “VỀ AN NHIÊN” & HƯỚNG DẪN THAY ẢNH THẬT (Vị trí chân dung #3 – Mục 8 & 9)
+       ===================================================================== -->
+  <section id="view-about" class="hidden flex-1 bg-[#FCFBF7] py-10 px-4 sm:px-6">
+    <div class="max-w-5xl mx-auto space-y-8">
+      <div class="flex items-center justify-between">
+        <button
+          type="button"
+          onclick="window.switchView('home')"
+          class="px-4 py-2 rounded-xl bg-[#1B3B2B] text-white text-xs sm:text-sm font-semibold hover:bg-emerald-800 transition"
+        >
+          ← Trở về Trang chủ Vườn Hoa Đà Lạt
+        </button>
+        <span class="text-xs font-bold uppercase tracking-widest text-emerald-800">Hồ sơ Thương hiệu & Hướng dẫn Kỹ thuật</span>
+      </div>
+
+      <!-- Khối Chân dung & Giới thiệu Tác giả Trịnh Thị An (Vị trí #3: Trang “Về An Nhiên”) -->
+      <div class="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-6">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center">
+          <div class="md:col-span-4 flex flex-col items-center text-center space-y-3">
+            <div class="author-avatar-frame w-40 h-40 sm:w-48 sm:h-48 shadow-xl">
+              <img
+                src="https://raw.githubusercontent.com/annhienai/thucvatdalat-7an/main/41a8b9fd-8197-42f0-98ed-61ac18361b60.png"
+                alt="Chân dung thật của Trịnh Thị An"
+                class="js-author-portrait"
+              />
+            </div>
+            <div class="space-y-1">
+              <h1 class="text-2xl font-bold font-serif-title text-slate-900">Trịnh Thị An</h1>
+              <p class="text-xs sm:text-sm font-semibold text-emerald-800">Thương hiệu: An Nhiên AI (TTA)</p>
+            </div>
+            <div class="flex flex-wrap justify-center gap-2">
+              <label class="px-3.5 py-2 rounded-xl bg-[#1B3B2B] hover:bg-emerald-800 text-white text-xs font-semibold cursor-pointer transition">
+                <span>📷 Tải ảnh chân dung thật lên</span>
+                <input type="file" accept="image/*" class="js-author-upload-input hidden" />
+              </label>
+              <button
+                type="button"
+                onclick="window.resetAuthorPortrait()"
+                class="px-3 py-2 rounded-xl bg-stone-100 hover:bg-stone-200 text-slate-700 text-xs font-medium transition"
+              >
+                Khôi phục mặc định
+              </button>
+            </div>
+          </div>
+
+          <div class="md:col-span-8 space-y-4">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 text-emerald-900 text-xs font-semibold border border-emerald-200">
+              <span>Về dự án AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT</span>
+            </div>
+            <h2 class="text-2xl sm:text-3xl font-bold font-serif-title text-[#1B3B2B]">
+              Đẹp như một vườn hoa – Sâu như một bách khoa – Dễ dùng như một cuốn sách mở
+            </h2>
+            <p class="text-sm sm:text-base text-slate-700 leading-relaxed">
+              Dự án <strong>AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT</strong> do tác giả <strong>Trịnh Thị An – An Nhiên AI (TTA)</strong> khởi xướng nhằm xây dựng một không gian số vừa tràn ngập cảm xúc nghệ thuật, vừa chuẩn xác về thực vật học dành cho những người yêu hoa Đà Lạt.
+            </p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
+              <div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200">
+                <div class="text-slate-400 font-semibold uppercase text-[11px]">Zalo / Điện thoại liên hệ</div>
+                <a href="tel:0834133344" class="font-bold text-slate-900 hover:text-emerald-800 mt-0.5 block">0834 133 344</a>
+              </div>
+              <div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200">
+                <div class="text-slate-400 font-semibold uppercase text-[11px]">Facebook chính thức</div>
+                <a href="https://www.facebook.com/trinhthi.an.5" target="_blank" rel="noopener noreferrer" class="font-bold text-emerald-800 hover:underline mt-0.5 block">facebook.com/trinhthi.an.5</a>
+              </div>
+              <div class="p-3.5 rounded-xl bg-amber-50 border border-amber-200 sm:col-span-2">
+                <div class="text-amber-800 font-semibold uppercase text-[11px]">Kênh Âm nhạc An Nhiên AI Music</div>
+                <a href="https://youtube.com/@annhienaimusictta?si=5pXWSG77iLaLYkJh" target="_blank" rel="noopener noreferrer" class="font-bold text-amber-950 hover:underline mt-0.5 block">
+                  youtube.com/@annhienaimusictta — Mời bạn nhẹ nhàng ghé thăm và thưởng thức âm nhạc chữa lành ↗
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hướng dẫn thay ảnh thật & Cấu trúc thư mục rõ ràng (Mục 8 & Mục 9) -->
+      <div class="bg-white rounded-3xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
+        <h3 class="text-xl font-bold font-serif-title text-slate-900">
+          📁 Hướng dẫn Thay Ảnh Chân Dung Thật & Ảnh Hoa Thực Tế trên GitHub Pages
+        </h3>
+        <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">
+          Toàn bộ website tuân thủ nghiêm ngặt nguyên tắc: <strong>Không tự tạo chân dung giả của tác giả, không dùng ảnh AI làm tư liệu xác định đặc điểm khoa học</strong>. Các hình ảnh hoa hiện tại đang kết nối trực tiếp tới kho ảnh thực vật học thật của <strong>Wikimedia Commons (Creative Commons)</strong> kèm đầy đủ tên tác giả và giấy phép. Khi bạn muốn thay bằng bộ ảnh chụp riêng tại Đà Lạt, chỉ cần thực hiện theo 2 cách:
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
+          <div class="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
+            <h4 class="font-bold text-emerald-950">1. Thay ảnh chân dung Trịnh Thị An</h4>
+            <p class="text-slate-600">
+              • <strong>Cách 1 (Thử ngay trên web):</strong> Nhấn nút <em>“📷 Đổi ảnh chân dung thật”</em> ở trên để chọn ảnh từ máy tính/điện thoại. Ảnh sẽ tự động cập nhật ở cả 4 vị trí: Thanh điều hướng, Khu vực giới thiệu tác giả, Trang Về An Nhiên và Chân trang.<br/>
+              • <strong>Cách 2 (Cố định trên GitHub):</strong> Đặt file ảnh chân dung vào đường dẫn <code>assets/images/author/trinh-thi-an.jpg</code> hoặc thay thế file gốc trong kho GitHub.
+            </p>
+          </div>
+          <div class="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
+            <h4 class="font-bold text-emerald-950">2. Thay ảnh từng loài hoa Đà Lạt</h4>
+            <p class="text-slate-600">
+              • Mỗi loài hoa đều có đường dẫn ảnh riêng biệt được ghi rõ trong hồ sơ (ví dụ: <code>assets/images/flowers/phuong-tim-1.jpg</code>, <code>assets/images/flowers/cam-tu-cau-1.jpg</code>...).<br/>
+              • Bạn chỉ cần chép ảnh chụp thực tế vào thư mục <code>assets/images/flowers/</code> và cập nhật thuộc tính <code>url</code> trong <code>data/flowers.json</code> (và <code>js/data-bundle.js</code>).
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       LIGHTBOX MODAL XEM ẢNH LỚN & ĐIỀU HƯỚNG HOA (MỤC 6)
+       ===================================================================== -->
+  <div
+    id="flower-lightbox-modal"
+    class="hidden fixed inset-0 z-50 lightbox-backdrop flex items-center justify-center p-3 sm:p-6 overflow-y-auto no-print"
+  >
+    <div class="max-w-6xl w-full bg-[#11241B] rounded-3xl p-4 sm:p-6 border border-white/20 shadow-2xl relative my-auto">
+      <div class="flex items-center justify-between pb-3 mb-4 border-b border-white/15 text-white">
+        <div class="text-xs sm:text-sm font-semibold text-amber-300 flex items-center gap-2">
+          <span>✿ Trải nghiệm Khám phá Hoa Đà Lạt • Xem ảnh lớn & Hồ sơ khoa học</span>
+        </div>
+        <button
+          type="button"
+          onclick="window.closeLightbox()"
+          class="px-3 py-1 rounded-xl bg-white/15 hover:bg-rose-600 text-white text-xs sm:text-sm font-bold transition"
+        >
+          ✕ Đóng (ESC)
+        </button>
+      </div>
+      <div id="flower-lightbox-body"></div>
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       TOAST CONTAINER
+       ===================================================================== -->
+  <div id="toast-container" class="fixed bottom-5 right-5 z-50 flex flex-col gap-2 max-w-sm no-print"></div>
+
+  <!-- =====================================================================
+       FOOTER – CHÂN TRANG (Kèm Chân dung thương hiệu Vị trí #4 – Mục 8)
+       ===================================================================== -->
+  <footer class="bg-[#11261B] text-emerald-100/90 pt-12 pb-8 px-4 sm:px-6 border-t-4 border-amber-400/80 no-print">
+    <div class="max-w-7xl mx-auto space-y-8">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+        <!-- Cột 1: Thương hiệu & Chân dung Vị trí #4 -->
+        <div class="md:col-span-5 space-y-3">
+          <div class="flex items-center gap-3.5">
+            <div class="author-avatar-frame w-14 h-14 shadow-md">
+              <img
+                src="https://raw.githubusercontent.com/annhienai/thucvatdalat-7an/main/41a8b9fd-8197-42f0-98ed-61ac18361b60.png"
+                alt="Trịnh Thị An – An Nhiên AI (TTA)"
+                class="js-author-portrait"
+              />
+            </div>
+            <div>
+              <div class="text-lg font-bold font-serif-title text-white">
+                AN NHIÊN – THẾ GIỚI HOA ĐÀ LẠT
+              </div>
+              <div class="text-xs text-amber-300 font-medium">
+                Bách khoa hoa, cây cảnh và thực vật cao nguyên
+              </div>
+            </div>
+          </div>
+          <p class="text-xs sm:text-sm italic text-emerald-200/90">
+            “Mỗi loài hoa một câu chuyện – Mỗi sắc hoa một miền thương nhớ.”
+          </p>
+          <p class="text-xs text-emerald-100/75 leading-relaxed">
+            Tác giả: <strong>Trịnh Thị An</strong> • Thương hiệu: <strong>An Nhiên AI (TTA)</strong>.<br/>
+            Ưu tiên hàng đầu là khám phá vẻ đẹp và tri thức khoa học chuyên sâu về các loài hoa Đà Lạt.
+          </p>
+        </div>
+
+        <!-- Cột 2: Liên kết nhanh các loài hoa biểu tượng -->
+        <div class="md:col-span-4 space-y-2 text-xs sm:text-sm">
+          <div class="font-bold text-white uppercase tracking-wider text-xs">Khám phá nhanh Hoa Đà Lạt</div>
+          <div class="grid grid-cols-2 gap-1.5 pt-1">
+            <button type="button" onclick="window.openFlowerProfile('FL-001')" class="text-left hover:text-amber-300 transition">• Phượng tím</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-002')" class="text-left hover:text-amber-300 transition">• Mai anh đào</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-003')" class="text-left hover:text-amber-300 transition">• Mimosa</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-004')" class="text-left hover:text-amber-300 transition">• Cẩm tú cầu</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-005')" class="text-left hover:text-amber-300 transition">• Hoa hồng</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-006')" class="text-left hover:text-amber-300 transition">• Lan hồ điệp</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-007')" class="text-left hover:text-amber-300 transition">• Địa lan Đà Lạt</button>
+            <button type="button" onclick="window.openFlowerProfile('FL-012')" class="text-left hover:text-amber-300 transition">• Hoa bất tử</button>
+          </div>
+        </div>
+
+        <!-- Cột 3: Thông tin liên hệ & Kênh âm nhạc -->
+        <div class="md:col-span-3 space-y-2 text-xs sm:text-sm">
+          <div class="font-bold text-white uppercase tracking-wider text-xs">Kết nối cùng An Nhiên AI</div>
+          <ul class="space-y-1.5 pt-1">
+            <li>📞 Zalo / Điện thoại: <a href="tel:0834133344" class="text-white font-semibold hover:text-amber-300">0834 133 344</a></li>
+            <li>🌐 Facebook: <a href="https://www.facebook.com/trinhthi.an.5" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:underline">Trịnh Thị An</a></li>
+            <li>🎵 YouTube: <a href="https://youtube.com/@annhienaimusictta?si=5pXWSG77iLaLYkJh" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:underline">An Nhiên AI Music (TTA)</a></li>
+            <li>💻 GitHub Repo: <a href="https://github.com/annhienai/thucvatdalat-7an" target="_blank" rel="noopener noreferrer" class="text-emerald-300 hover:underline">annhienai/thucvatdalat-7an</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pt-6 border-t border-emerald-900/80 flex flex-wrap items-center justify-between gap-2 text-xs text-emerald-300/70">
+        <div>© 2026 <strong>TRỊNH THỊ AN – AN NHIÊN AI (TTA)</strong>. All rights reserved.</div>
+        <div>Hình ảnh tư liệu thực vật thật từ Wikimedia Commons (CC BY / CC BY-SA) & Bộ sưu tập An Nhiên.</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/data-bundle.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
